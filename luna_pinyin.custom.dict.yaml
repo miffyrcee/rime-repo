@@ -1,0 +1,18 @@
+---
+import_tables:
+  - luna_pinyin
+  - luna_pinyin.sogou.double
+  - luna_pinyin.sogou.three
+  - luna_pinyin.sogou.idiom
+  - luna_pinyin.sogou.history
+  - luna_pinyin.sogou.rest
+  - luna_pinyin.sogou.poem
+  - luna_pinyin.sogou.songci
+  - luna_pinyin.sogou.netnew
+  - luna_pinyin.sogou.tangshi
+name: luna_pinyin.custom
+sort: by_weight
+use_preset_vocabulary: true
+version: 2019
+...
+

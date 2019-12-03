@@ -1,0 +1,782 @@
+# Rime Sogou
+# encoding: utf-8
+#
+# name: 疊詞【官方推薦】
+# type: 其他
+# description: 詞和詞常常可以疊起來用，如：乾乾淨淨，收拾收拾，白花花等，這樣的詞用在文句中很有表現力，使語言充滿音樂的和諧美和節奏美。
+# example: 甜絲絲 踉踉蹌蹌 乾乾淨淨 代代相傳 舉不勝舉 不打不成相識
+#
+---
+name: luna_pinyin.sogou.double
+version: "1575340766346"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+哀哀父母	ai ai fu mu	621
+哀哀欲絕	ai ai yu jue	620
+挨家挨戶	ai jia ai hu	167
+安安靜靜	an an jing jing	658
+安安穩穩	an an wen wen	760
+嗷嗷待哺	ao ao dai bu	619
+白皚皚	bai ai ai	52
+白白胖胖	bai bai pang pang	257
+百發百中	bai fa bai zhong	165
+白髮蒼蒼	bai fa cang cang	195
+白花花	bai hua hua	304
+白濛濛	bai meng meng	298
+白嫩嫩	bai nen nen	11
+白生生	bai sheng sheng	10
+百戰百勝	bai zhan bai sheng	166
+半工半讀	ban gong ban du	164
+暴飲暴食	bao yin bao shi	163
+本鄉本土	ben xiang ben tu	162
+蹦蹦跳跳	beng beng tiao tiao	258
+比比劃劃	bi bi hua hua	764
+比比皆是	bi bi jie shi	618
+碧澄澄	bi cheng cheng	43
+彬彬有禮	bin bin you li	617
+病病歪歪	bing bing wai wai	739
+勃勃生機	bo bo sheng ji	209
+不卑不亢	bu bei bu kang	756
+步步蓮花	bu bu lian hua	616
+步步爲營	bu bu wei ying	615
+不茶不飯	bu cha bu fan	755
+不癡不聾	bu chi bu long	754
+不瞅不睬	bu chou bu cai	753
+不打不成相識	bu da bu cheng xiang shi	752
+不悱不發	bu fei bu fa	430
+不憤不啓	bu fen bu qi	429
+不豐不殺	bu feng bu sha	428
+不尷不尬	bu gan bu ga	427
+不古不今	bu gu bu jin	426
+不管不顧	bu guan bu gu	425
+不哼不哈	bu heng bu ha	424
+不慌不忙	bu huang bu mang	161
+不即不離	bu ji bu li	423
+不疾不徐	bu ji bu xu	422
+不稼不穡	bu jia bu se	421
+不驕不躁	bu jiao bu zao	420
+不亢不卑	bu kang bu bei	419
+不愧不作	bu kui bu zuo	418
+不郎不秀	bu lang bu xiu	417
+不稂不莠	bu lang bu you	416
+不倫不類	bu lun bu lei	415
+不蔓不枝	bu man bu zhi	414
+不明不白	bu ming bu bai	413
+不偏不黨	bu pian bu dang	412
+不偏不倚	bu pian bu yi	411
+不破不立	bu po bu li	410
+不屈不撓	bu qu bu nao	409
+不日不月	bu ri bu yue	408
+不三不四	bu san bu si	407
+不衫不履	bu shan bu lv	406
+不上不下	bu shang bu xia	405
+不生不滅	bu sheng bu mie	404
+不識不知	bu shi bu zhi	403
+不死不活	bu si bu huo	402
+不痛不癢	bu tong bu yang	401
+不吐不茹	bu tu bu ru	400
+不聞不問	bu wen bu wen	399
+不文不武	bu wen bu wu	398
+不徐不疾	bu xu bu ji	397
+不壓衆百不隨一	bu ya zhong bai bu sui yi	432
+不夷不惠	bu yi bu hui	395
+不依不饒	bu yi bu rao	396
+不陰不陽	bu yin bu yang	394
+不折不扣	bu zhe bu kou	393
+不知不覺	bu zhi bu jue	392
+不忮不求	bu zhi bu qiu	391
+草草了事	cao cao liao shi	614
+草草收兵	cao cao shou bing	613
+層層疊疊	ceng ceng die die	266
+察察爲明	cha cha wei ming	612
+常來常往	chang lai chang wang	160
+吵吵鬧鬧	chao chao nao nao	647
+吵吵嚷嚷	chao chao rang rang	642
+超超玄著	chao chao xuan zhu	611
+潮乎乎	chao hu hu	293
+炒買炒賣	chao mai chao mai	158
+潮漲潮落	chao zhang chao luo	159
+徹頭徹尾	che tou che wei	157
+陳陳相因	chen chen xiang yin	610
+沉甸甸	chen dian dian	239
+誠惶誠恐	cheng huang cheng kong	154
+成名成家	cheng ming cheng jia	155
+稱王稱霸	cheng wang cheng ba	156
+誠心誠意	cheng xin cheng yi	153
+吃吃喝喝	chi chi he he	662
+赤裸裸	chi luo luo	230
+抽抽搭搭	chou chou da da	738
+楚楚動人	chu chu dong ren	215
+楚楚可憐	chu chu ke lian	609
+牀上安牀	chuang shang an chuang	456
+吹吹打打	chui chui da da	271
+蠢蠢欲動	chun chun yu dong	608
+綽綽有餘	chuo chuo you yu	607
+刺刺不休	ci ci bu xiu	606
+此情此景	ci qing ci jing	152
+匆匆忙忙	cong cong mang mang	649
+從難從嚴	cong nan cong yan	150
+從重從快	cong zhong cong kuai	151
+大包大攬	da bao da lan	149
+大大方方	da da fang fang	665
+大大咧咧	da da lie lie	624
+大大落落	da da luo luo	737
+大風大浪	da feng da lang	148
+大腹便便	da fu pian pian	201
+大轟大嗡	da hong da weng	147
+大名鼎鼎	da ming ding ding	189
+大起大落	da qi da luo	146
+大是大非	da shi da fei	145
+代代相傳	dai dai xiang chuan	758
+旦旦而伐	dan dan er fa	742
+地地道道	di di dao dao	666
+嘀嘀咕咕	di di gu gu	765
+的的確確	di di que que	276
+滴溜溜	di liu liu	317
+喋喋不休	die die bu xiu	741
+鼎鼎大名	ding ding da ming	740
+頂呱呱	ding gua gua	53
+嘟嘟囔囔	du du nang nang	283
+斷斷續續	duan duan xu xu	268
+多才多藝	duo cai duo yi	144
+咄咄逼人	duo duo bi ren	604
+咄咄怪事	duo duo guai shi	603
+多多少少	duo duo shao shao	256
+多多益善	duo duo yi shan	605
+多災多難	duo zai duo nan	142
+多姿多彩	duo zi duo cai	143
+惡狠狠	e hen hen	292
+恩恩相報	en en xiang bao	602
+泛泛而談	fan fan er tan	601
+反反覆覆	fan fan fu fu	275
+泛泛之交	fan fan zhi jiao	600
+泛泛之人	fan fan zhi ren	599
+防不及防	fang bu ji fang	455
+防不勝防	fang bu sheng fang	454
+方方正正	fang fang zheng zheng	273
+肥肥胖胖	fei fei pang pang	254
+沸沸揚揚	fei fei yang yang	735
+匪匪翼翼	fei fei yi yi	736
+非親非故	fei qin fei gu	141
+憤憤不平	fen fen bu ping	598
+紛紛攘攘	fen fen rang rang	734
+紛紛揚揚	fen fen yang yang	733
+縫縫補補	feng feng bu bu	677
+瘋瘋癲癲	feng feng dian dian	623
+風風火火	feng feng huo huo	732
+風風雨雨	feng feng yu yu	731
+風言風語	feng yan feng yu	140
+服服帖帖	fu fu tie tie	633
+乾巴巴	gan ba ba	245
+乾乾淨淨	gan gan jing jing	762
+高高興興	gao gao xing xing	628
+高高在上	gao gao zai shang	597
+格格不入	ge ge bu ru	596
+耿耿於懷	geng geng yu huai	595
+耿耿於心	geng geng yu xin	594
+軲軲轤轤	gu gu lu lu	282
+孤零零	gu ling ling	335
+骨碌碌	gu lu lu	328
+顧慮重重	gu lv chong chong	174
+古色古香	gu se gu xiang	139
+呱呱叫	gua gua jiao	252
+官官相護	guan guan xiang hu	593
+冠上加冠	guan shang jia guan	453
+光亮亮	guang liang liang	27
+光溜溜	guang liu liu	24
+光閃閃	guang shan shan	26
+光禿禿	guang tu tu	15
+鬼鬼祟祟	gui gui sui sui	729
+滾滾而來	gun gun er lai	214
+袞袞諸公	gun gun zhu gong	592
+國將不國	guo jiang bu guo	452
+哈哈大笑	ha ha da xiao	217
+含含糊糊	han han hu hu	660
+汗膩膩	han ni ni	31
+含情脈脈	han qing mo mo	182
+汗漬漬	han zi zi	30
+行行出狀元	hang hang chu zhuang yuan	591
+浩浩蕩蕩	hao hao dang dang	728
+好好先生	hao hao xian sheng	590
+赫赫有名	he he you ming	589
+赫赫之功	he he zhi gong	588
+赫赫之光	he he zhi guang	587
+合情合理	he qing he li	138
+黑洞洞	hei dong dong	58
+黑乎乎	hei hu hu	233
+黑糊糊	hei hu hu	50
+黑亮亮	hei liang liang	7
+黑漆漆	hei qi qi	65
+黑油油	hei you you	23
+黑黝黝	hei you you	70
+轟轟烈烈	hong hong lie lie	727
+紅嫩嫩	hong nen nen	2
+紅撲撲	hong pu pu	291
+紅彤彤	hong tong tong	307
+紅豔豔	hong yan yan	306
+紅殷殷	hong yin yin	9
+忽高忽低	hu gao hu di	137
+互利互惠	hu li hu hui	135
+糊里糊塗	hu li hu tu	136
+互諒互讓	hu liang hu rang	134
+呼嚕嚕	hu lu lu	329
+虎視眈眈	hu shi dan dan	169
+花花公子	hua hua gong zi	586
+花花世界	hua hua shi jie	585
+花花太歲	hua hua tai sui	584
+話裏有話	hua li you hua	451
+滑溜溜	hua liu liu	4
+話中有話	hua zhong you hua	450
+環環緊扣	huan huan jin kou	212
+黃燦燦	huang can can	243
+黃澄澄	huang deng deng	60
+惶惶不可終日	huang huang bu ke zhong ri	583
+慌慌張張	huang huang zhang zhang	262
+恢恢有餘	hui hui you yu	582
+繪聲繪色	hui sheng hui se	133
+昏昏沉沉	hun hun chen chen	673
+渾渾噩噩	hun hun e e	726
+昏昏欲睡	hun hun yu shui	581
+昏頭昏腦	hun tou hun nao	132
+活靈活現	huo ling huo xian	131
+或明或暗	huo ming huo an	130
+岌岌不可終日	ji ji bu ke zhong ri	580
+岌岌可危	ji ji ke wei	579
+急急忙忙	ji ji mang mang	260
+濟濟一堂	ji ji yi tang	578
+家家戶戶	jia jia hu hu	725
+簡簡單單	jian jian dan dan	669
+見所未見	jian suo wei jian	449
+將門有將	jiang men you jiang	448
+矯矯不羣	jiao jiao bu qun	577
+戒驕戒躁	jie jiao jie zao	129
+結結巴巴	jie jie ba ba	724
+結結實實	jie jie shi shi	265
+緊梆梆	jin bang bang	244
+金燦燦	jin can can	303
+斤斤計較	jin jin ji jiao	574
+津津樂道	jin jin le dao	575
+津津有味	jin jin you wei	576
+斤斤自守	jin jin zi shou	573
+兢兢業業	jing jing ye ye	723
+井井有條	jing jing you tiao	572
+靜悄悄	jing qiao qiao	313
+精益求精	jing yi qiu jing	447
+炯炯有神	jiong jiong you shen	571
+九九歸一	jiu jiu gui yi	569
+赳赳武夫	jiu jiu wu fu	570
+舉不勝舉	ju bu sheng ju	757
+踽踽獨行	ju ju du xing	568
+涓涓不壅	juan juan bu yong	567
+眷眷之心	juan juan zhi xin	566
+侃侃而談	kan kan er tan	565
+可歌可泣	ke ge ke qi	128
+磕磕碰碰	ke ke peng peng	645
+客客氣氣	ke ke qi qi	278
+硜硜之愚	keng keng zhi yu	564
+空蕩蕩	kong dang dang	320
+空空如也	kong kong ru ye	563
+口口聲聲	kou kou sheng sheng	722
+口口相傳	kou kou xiang chuan	562
+苦巴巴	ku ba ba	1
+苦苦哀求	ku ku ai qiu	219
+苦苦求索	ku ku qiu suo	210
+哭哭啼啼	ku ku ti ti	634
+苦思苦想	ku si ku xiang	127
+誇誇其談	kua kua qi tan	561
+快快樂樂	kuai kuai le le	651
+款款而談	kuan kuan er tan	560
+困難重重	kun nan chong chong	173
+拉拉扯扯	la la che che	674
+來去匆匆	lai qu cong cong	191
+懶洋洋	lan yang yang	299
+藍幽幽	lan you you	57
+藍湛湛	lan zhan zhan	44
+朗朗乾坤	lang lang qian kun	558
+朗朗上口	lang lang shang kou	559
+琅琅上口	lang lang shang kou	202
+牢牢把握	lao lao ba wo	218
+嘮嘮叨叨	lao lao dao dao	281
+老老實實	lao lao shi shi	640
+樂呵呵	le he he	334
+樂陶陶	le tao tao	38
+樂悠悠	le you you	39
+樂滋滋	le zi zi	766
+磊磊落落	lei lei luo luo	759
+累累如珠	lei lei ru zhu	557
+淚淋淋	lei lin lin	232
+淚潸潸	lei shan shan	285
+淚汪汪	lei wang wang	222
+冷冰冰	leng bing bing	297
+冷冷落落	leng leng luo luo	279
+冷冷清清	leng leng qing qing	730
+冷言冷語	leng yan leng yu	126
+利國利民	li guo li min	124
+歷歷可數	li li ke shu	555
+利利落落	li li luo luo	280
+慄慄危懼	li li wei ju	556
+歷歷在目	li li zai mu	554
+離心離德	li xin li de	125
+戀戀不捨	lian lian bu she	553
+涼冰冰	liang bing bing	34
+亮晶晶	liang jing jing	301
+踉踉蹌蹌	liang liang qiang qiang	763
+涼颼颼	liang sou sou	294
+亮錚錚	liang zheng zheng	68
+了了草草	liao liao cao cao	676
+寥寥可數	liao liao ke shu	552
+寥寥數語	liao liao shu yu	208
+寥寥無幾	liao liao wu ji	551
+烈烈轟轟	lie lie hong hong	721
+林林總總	lin lin zong zong	720
+零零碎碎	ling ling sui sui	636
+碌碌無能	lu lu wu neng	550
+碌碌無爲	lu lu wu wei	549
+碌碌無聞	lu lu wu wen	548
+陸陸續續	lu lu xu xu	269
+亂哄哄	luan hong hong	66
+亂蓬蓬	luan peng peng	49
+亂騰騰	luan teng teng	42
+輪扁斫輪	lun bian zhuo lun	744
+犖犖大端	luo luo da duan	547
+落落大方	luo luo da fang	545
+落落寡合	luo luo gua he	546
+落落穆穆	luo luo mu mu	719
+落落難合	luo luo nan he	544
+囉囉嗦嗦	luo luo suo suo	267
+綠蔥蔥	lv cong cong	240
+綠森森	lv sen sen	14
+綠茵茵	lv yin yin	17
+綠瑩瑩	lv ying ying	51
+綠油油	lv you you	290
+罵咧咧	ma lie lie	323
+馬馬虎虎	ma ma hu hu	718
+麻麻亮	ma ma liang	251
+滿打滿算	man da man suan	123
+蔓蔓日茂	man man ri mao	543
+慢慢騰騰	man man teng teng	635
+慢騰騰	man teng teng	314
+滿盈盈	man ying ying	322
+忙忙碌碌	mang mang lu lu	650
+毛毛雨	mao mao yu	247
+毛絨絨	mao rong rong	289
+毛茸茸	mao rong rong	224
+沒頭沒腦	mei tou mei nao	122
+美滋滋	mei zi zi	221
+悶悶不樂	men men bu le	542
+夢中說夢	meng zhong shuo meng	743
+密麻麻	mi ma ma	229
+迷迷糊糊	mi mi hu hu	272
+靡靡之音	mi mi zhi yin	541
+綿綿瓜瓞	mian mian gua die	540
+面面觀	mian mian guan	253
+面面俱到	mian mian ju dao	539
+面面相覷	mian mian xiang qu	538
+民風民俗	min feng min su	121
+明晃晃	ming huang huang	305
+明明白白	ming ming bai bai	682
+明明赫赫	ming ming he he	717
+默默奉獻	mo mo feng xian	213
+脈脈含情	mo mo han qing	535
+模模糊糊	mo mo hu hu	716
+默默無聞	mo mo wu wen	537
+默默無言	mo mo wu yan	536
+默默無語	mo mo wu yu	207
+難分難解	nan fen nan jie	120
+難解難分	nan jie nan fen	119
+男男女女	nan nan nv nv	646
+難捨難分	nan she nan fen	118
+能屈能伸	neng qu neng shen	117
+粘糊糊	nian hu hu	22
+念念不忘	nian nian bu wang	534
+唸唸有詞	nian nian you ci	203
+娘娘腔	niang niang qiang	250
+嫋嫋婷婷	niao niao ting ting	715
+怒衝衝	nu chong chong	241
+怒氣衝衝	nu qi chong chong	193
+暖暖和和	nuan nuan he he	259
+暖融融	nuan rong rong	295
+諾諾連聲	nuo nuo lian sheng	533
+胖嘟嘟	pang du du	54
+胖墩墩	pang dun dun	238
+胖乎乎	pang hu hu	325
+泡泡糖	pao pao tang	248
+蓬蓬勃勃	peng peng bo bo	678
+蓬蓬鬆鬆	peng peng song song	270
+蓬鬆鬆	peng song song	3
+翩翩公子	pian pian gong zi	532
+翩翩起舞	pian pian qi wu	531
+翩翩少年	pian pian shao nian	530
+偏聽偏信	pian ting pian xin	116
+飄飄然	piao piao ran	249
+平平安安	ping ping an an	683
+平平常常	ping ping chang chang	675
+平平淡淡	ping ping dan dan	668
+平平靜靜	ping ping jing jing	657
+平平穩穩	ping ping wen wen	631
+平起平坐	ping qi ping zuo	115
+破破爛爛	po po lan lan	652
+婆婆媽媽	po po ma ma	714
+僕僕風塵	pu pu feng chen	529
+普普通通	pu pu tong tong	632
+氣沖沖	qi chong chong	336
+氣鼓鼓	qi gu gu	236
+氣呼呼	qi hu hu	234
+期期艾艾	qi qi ai ai	713
+慼慼具爾	qi qi ju er	528
+氣勢洶洶	qi shi xiong xiong	178
+齊刷刷	qi shua shua	327
+氣息奄奄	qi xi yan yan	177
+恰恰相反	qia qia xiang fan	205
+千里迢迢	qian li tiao tiao	179
+前前後後	qian qian hou hou	661
+謙謙君子	qian qian jun zi	527
+千千萬萬	qian qian wan wan	712
+強強聯手	qiang qiang lian shou	211
+切切此布	qie qie ci bu	526
+竊竊私議	qie qie si yi	524
+切切私語	qie qie si yu	525
+竊竊私語	qie qie si yu	523
+勤勤懇懇	qin qin ken ken	655
+清凌凌	qing ling ling	48
+輕飄飄	qing piao piao	225
+清清白白	qing qing bai bai	681
+清清楚楚	qing qing chu chu	672
+卿卿我我	qing qing wo wo	711
+青幽幽	qing you you	16
+煢煢孑立	qiong qiong jie li	521
+區區小事	qu qu xiao shi	204
+區區之衆	qu qu zhi zhong	522
+拳拳服膺	quan quan fu ying	520
+拳拳之枕	quan quan zhi zhen	519
+羣策羣力	qun ce qun li	114
+穰穰滿家	rang rang man jia	518
+熱乎乎	re hu hu	296
+熱辣辣	re la la	315
+熱氣騰騰	re qi teng teng	181
+熱騰騰	re teng teng	287
+人才濟濟	ren cai ji ji	184
+人來人往	ren lai ren wang	113
+人人皆知	ren ren jie zhi	517
+認認真真	ren ren zhen zhen	625
+人人自危	ren ren zi wei	516
+人山人海	ren shan ren hai	112
+忍無可忍	ren wu ke ren	446
+人心惶惶	ren xin huang huang	186
+日復一日	ri fu yi ri	445
+日甚一日	ri shen yi ri	444
+肉墩墩	rou dun dun	20
+如火如荼	ru huo ru tu	111
+入情入理	ru qing ru li	109
+如醉如癡	ru zui ru chi	110
+軟綿綿	ruan mian mian	226
+若即若離	ruo ji ruo li	108
+若明若暗	ruo ming ruo an	107
+三三兩兩	san san liang liang	710
+三三五五	san san wu wu	709
+色迷迷	se mi mi	227
+色色俱全	se se ju quan	515
+傻乎乎	sha hu hu	326
+傻愣愣	sha leng leng	324
+殺氣騰騰	sha qi teng teng	180
+善善惡惡	shan shan e e	708
+姍姍來遲	shan shan lai chi	514
+善始善終	shan shi shan zhong	106
+神采奕奕	shen cai yi yi	171
+神乎其神	shen hu qi shen	443
+生氣勃勃	sheng qi bo bo	199
+生生不息	sheng sheng bu xi	513
+生生不已	sheng sheng bu yi	512
+生生世世	sheng sheng shi shi	707
+時處處	shi chu chu	671
+溼淋淋	shi lin lin	32
+溼漉漉	shi lu lu	311
+時時處處	shi shi chu chu	220
+世世代代	shi shi dai dai	670
+是是非非	shi shi fei fei	706
+時時刻刻	shi shi ke ke	656
+實實在在	shi shi zai zai	626
+時隱時現	shi yin shi xian	105
+瘦巴巴	shou ba ba	19
+瘦嶙嶙	shou lin lin	18
+舒舒服服	shu shu fu fu	263
+水凌凌	shui ling ling	47
+水靈靈	shui ling ling	59
+水汪汪	shui wang wang	318
+說說笑笑	shuo shuo xiao xiao	277
+死氣沉沉	si qi chen chen	194
+絲絲入扣	si si ru kou	511
+鬆鬆垮垮	song song kua kua	654
+鬆鬆散散	song song san san	641
+鬆塌塌	song ta ta	21
+酸溜溜	suan liu liu	231
+隨隨便便	sui sui bian bian	679
+損之又損	sun zhi you sun	442
+縮手縮腳	suo shou suo jiao	104
+所作所爲	suo zuo suo wei	103
+踏踏實實	ta ta shi shi	639
+罈罈罐罐	tan tan guan guan	664
+堂堂正正	tang tang zheng zheng	705
+滔滔不絕	tao tao bu jue	510
+陶陶兀兀	tao tao wu wu	704
+逃之夭夭	tao zhi yao yao	172
+天蒼蒼	tian cang cang	288
+甜津津	tian jin jin	338
+甜絲絲	tian si si	768
+天網恢恢	tian wang hui hui	185
+亭亭玉立	ting ting yu li	509
+痛定思痛	tong ding si tong	441
+同工同酬	tong gong tong chou	102
+痛痛快快	tong tong kuai kuai	261
+同心同德	tong xin tong de	101
+頭涔涔	tou cen cen	286
+頭上安頭	tou shang an tou	440
+偷偷摸摸	tou tou mo mo	703
+頭頭腦腦	tou tou nao nao	648
+頭頭是道	tou tou shi dao	508
+土裏土氣	tu li tu qi	99
+徒子徒孫	tu zi tu sun	100
+團團轉	tuan tuan zhuan	246
+推推搡搡	tui tui sang sang	284
+吞吞吐吐	tun tun tu tu	702
+拖拖拉拉	tuo tuo la la	653
+歪歪斜斜	wai wai xie xie	274
+完完全全	wan wan quan quan	643
+微乎其微	wei hu qi wei	439
+惟妙惟肖	wei miao wei xiao	98
+爲所欲爲	wei suo yu wei	438
+娓娓不倦	wei wei bu juan	506
+娓娓動聽	wei wei dong ting	505
+娓娓而談	wei wei er tan	504
+唯唯否否	wei wei fou fou	701
+唯唯連聲	wei wei lian sheng	507
+唯唯諾諾	wei wei nuo nuo	700
+聞所未聞	wen suo wei wen	437
+穩穩當當	wen wen dang dang	667
+穩紮穩打	wen zha wen da	97
+文質彬彬	wen zhi bin bin	200
+我行我素	wo xing wo su	96
+霧沉沉	wu chen chen	242
+無適無莫	wu di wu mo	751
+無冬無夏	wu dong wu xia	746
+無法無天	wu fa wu tian	745
+無根無蒂	wu gen wu di	390
+無毀無譽	wu hui wu yu	389
+無盡無休	wu jin wu xiu	388
+無舊無新	wu jiu wu xin	387
+無咎無譽	wu jiu wu yu	386
+無拘無束	wu ju wu shu	385
+無可無不可	wu ke wu bu ke	384
+烏溜溜	wu liu liu	36
+霧茫茫	wu mang mang	228
+霧朦朦	wu meng meng	64
+無偏無黨	wu pian wu dang	383
+無情無義	wu qing wu yi	382
+無窮無盡	wu qiong wu jin	381
+無拳無勇	wu quan wu yong	380
+無聲無息	wu sheng wu xi	378
+無聲無臭	wu sheng wu xiu	379
+無時無刻	wu shi wu ke	377
+無思無慮	wu si wu lv	376
+惡惡從短	wu wu cong duan	503
+屋下架屋	wu xia jia wu	436
+無依無靠	wu yi wu kao	375
+無影無蹤	wu ying wu zong	374
+無憂無慮	wu you wu lv	373
+無尤無怨	wu you wu yuan	372
+無怨無德	wu yuan wu de	370
+無緣無故	wu yuan wu gu	371
+喜衝衝	xi chong chong	40
+喜氣洋洋	xi qi yang yang	176
+嘻嘻哈哈	xi xi ha ha	663
+熙熙攘攘	xi xi rang rang	699
+息息相關	xi xi xiang guan	502
+息息相通	xi xi xiang tong	501
+喜洋洋	xi yang yang	767
+喜盈盈	xi ying ying	63
+喜滋滋	xi zi zi	41
+響噹噹	xiang dang dang	56
+相門有相	xiang men you xiang	435
+香噴噴	xiang pen pen	319
+想入非非	xiang ru fei fei	188
+笑哈哈	xiao ha ha	333
+笑呵呵	xiao he he	235
+笑眯眯	xiao mi mi	332
+笑嘻嘻	xiao xi xi	67
+嘵嘵不休	xiao xiao bu xiu	500
+小小不言	xiao xiao bu yan	499
+小心翼翼	xiao xin yi yi	175
+笑吟吟	xiao yin yin	46
+笑盈盈	xiao ying ying	37
+血淋淋	xie lin lin	312
+蠍蠍螫螫	xie xie zhe zhe	698
+信誓旦旦	xin shi dan dan	190
+辛辛苦苦	xin xin ku ku	264
+心心念念	xin xin nian nian	761
+欣欣向榮	xin xin xiang rong	497
+心心相印	xin xin xiang yin	498
+興沖沖	xing chong chong	337
+星星點點	xing xing dian dian	684
+形形色色	xing xing se se	697
+惺惺惜惺	xing xing xi xing	622
+惺惺惜惺惺	xing xing xi xing xing	685
+星星之火	xing xing zhi huo	496
+惺惺作態	xing xing zuo tai	495
+興致勃勃	xing zhi bo bo	198
+雄赳赳	xiong jiu jiu	330
+雄心勃勃	xiong xin bo bo	197
+熊熊大火	xiong xiong da huo	216
+休休有容	xiu xiu you rong	494
+煦煦孑孑	xu xu jie jie	696
+栩栩如生	xu xu ru sheng	493
+懸懸而望	xuan xuan er wang	491
+軒軒甚得	xuan xuan shen de	492
+玄之又玄	xuan zhi you xuan	434
+循循善誘	xun xun shan you	490
+牙牙學語	ya ya xue yu	489
+眼巴巴	yan ba ba	35
+嚴嚴實實	yan yan shi shi	638
+奄奄一息	yan yan yi xi	488
+眼睜睜	yan zheng zheng	300
+怏怏不樂	yang yang bu le	484
+泱泱大風	yang yang da feng	487
+洋洋大觀	yang yang da guan	486
+洋洋得意	yang yang de yi	485
+洋洋灑灑	yang yang sa sa	695
+搖搖晃晃	yao yao huang huang	659
+遙遙領先	yao yao ling xian	482
+遙遙無期	yao yao wu qi	480
+遙遙相對	yao yao xiang dui	481
+嶢嶢易缺	yao yao yi que	483
+搖搖欲墜	yao yao yu zhui	479
+野茫茫	ye mang mang	45
+野心勃勃	ye xin bo bo	196
+一板一眼	yi ban yi yan	750
+一棒一條痕	yi bang yi tiao hen	749
+一步一個腳印	yi bu yi ge jiao yin	748
+一步一鬼	yi bu yi gui	747
+亦步亦趨	yi bu yi qu	94
+一草一木	yi cao yi mu	369
+一長一短	yi chang yi duan	368
+一唱一和	yi chang yi he	367
+一成一旅	yi cheng yi lv	366
+一串串	yi chuan chuan	12
+一簇簇	yi cu cu	61
+一簞一瓢	yi dan yi piao	365
+一德一心	yi de yi xin	364
+一堆堆	yi dui dui	308
+衣冠楚楚	yi guan chu chu	192
+一舉一動	yi ju yi dong	363
+一顆顆	yi ke ke	62
+一鱗一爪	yi lin yi zhao	362
+一龍一蛇	yi long yi she	361
+一龍一豬	yi long yi zhu	360
+一模一樣	yi mu yi yang	359
+一噴一醒	yi pen yi xing	358
+一片片	yi pian pian	310
+一顰一笑	yi pin yi xiao	357
+一琴一鶴	yi qin yi he	356
+一丘一壑	yi qiu yi he	355
+疑人勿用用人勿疑	yi ren wu yong yong ren wu yi	431
+一觴一詠	yi shang yi yong	354
+疑神疑鬼	yi shen yi gui	95
+一生一世	yi sheng yi shi	353
+一手一足	yi shou yi zu	352
+一絲一毫	yi si yi hao	351
+一團團	yi tuan tuan	309
+一五一十	yi wu yi shi	350
+一心一德	yi xin yi de	349
+一心一計	yi xin yi ji	348
+一心一意	yi xin yi yi	347
+一薰一蕕	yi xun yi you	346
+一言一行	yi yan yi xing	345
+悒悒不樂	yi yi bu le	477
+依依不捨	yi yi bu she	478
+依依惜別	yi yi xi bie	206
+一吟一詠	yi yin yi yong	344
+一飲一啄	yi yin yi zhuo	343
+一張一弛	yi zhang yi chi	342
+一朝一夕	yi zhao yi xi	341
+一針一線	yi zhen yi xian	340
+一字一板	yi zi yi ban	339
+陰森森	yin sen sen	223
+銀閃閃	yin shan shan	302
+隱隱約約	yin yin yue yue	627
+影影綽綽	ying ying chuo chuo	694
+盈盈一水	ying ying yi shui	476
+又紅又專	you hong you zhuan	88
+油乎乎	you hu hu	25
+油黃黃	you huang huang	8
+油亮亮	you liang liang	29
+油膩膩	you ni ni	28
+有始有終	you shi you zhong	91
+有條有理	you tiao you li	93
+有頭有尾	you tou you wei	92
+憂心忡忡	you xin chong chong	170
+有勇有謀	you yong you mou	90
+悠悠盪盪	you you dang dang	693
+悠悠忽忽	you you hu hu	692
+有滋有味	you zi you wei	89
+油漬漬	you zi zi	33
+愈演愈烈	yu yan yu lie	87
+鬱鬱蔥蔥	yu yu cong cong	690
+鬱鬱寡歡	yu yu gua huan	475
+魚魚雅雅	yu yu ya ya	691
+圓滾滾	yuan gun gun	5
+圓乎乎	yuan hu hu	6
+圓溜溜	yuan liu liu	316
+怨天怨地	yuan tian yuan di	86
+元元本本	yuan yuan ben ben	689
+原原本本	yuan yuan ben ben	688
+源源不斷	yuan yuan bu duan	472
+源源不絕	yuan yuan bu jue	473
+源源而來	yuan yuan er lai	471
+冤冤相報	yuan yuan xiang bao	474
+芸芸衆生	yun yun zhong sheng	470
+載歌載舞	zai ge zai wu	85
+再接再厲	zai jie zai li	84
+髒兮兮	zang xi xi	55
+鑿鑿有據	zao zao you ju	469
+賊喊捉賊	zei han zhuo zei	433
+紮紮實實	zha zha shi shi	637
+戰戰兢兢	zhan zhan jing jing	687
+湛湛青天	zhan zhan qing tian	467
+沾沾自喜	zhan zhan zi xi	468
+昭昭在目	zhao zhao zai mu	466
+真刀真槍	zhen dao zhen qiang	83
+振振有詞	zhen zhen you ci	463
+振振有辭	zhen zhen you ci	465
+整日整夜	zheng ri zheng ye	82
+錚錚佼佼	zheng zheng jiao jiao	686
+整整齊齊	zheng zheng qi qi	644
+蒸蒸日上	zheng zheng ri shang	462
+錚錚有聲	zheng zheng you sheng	464
+正正之旗	zheng zheng zhi qi	461
+直勾勾	zhi gou gou	237
+知己知彼	zhi ji zhi bi	81
+直挺挺	zhi ting ting	13
+支支吾吾	zhi zhi wu wu	630
+衆目睽睽	zhong mu kui kui	168
+忠心耿耿	zhong xin geng geng	187
+皺巴巴	zhou ba ba	69
+惴惴不安	zhui zhui bu an	460
+諄諄告誡	zhun zhun gao jie	459
+自暴自棄	zi bao zi qi	76
+自高自大	zi gao zi da	80
+自給自足	zi ji zi zu	78
+自覺自願	zi jue zi yuan	79
+自賣自誇	zi mai zi kua	77
+自生自滅	zi sheng zi mie	74
+自私自利	zi si zi li	75
+自言自語	zi yan zi yu	73
+紫瑩瑩	zi ying ying	321
+孜孜不倦	zi zi bu juan	458
+字字句句	zi zi ju ju	255
+仔仔細細	zi zi xi xi	629
+孜孜以求	zi zi yi qiu	457
+自作自受	zi zuo zi shou	72
+祖祖輩輩	zu zu bei bei	680
+罪行累累	zui xing lei lei	183
+醉醺醺	zui xun xun	331

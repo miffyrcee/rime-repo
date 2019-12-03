@@ -1,0 +1,1940 @@
+# Rime Sogou
+# encoding: utf-8
+#
+# name: 歇後語集錦【官方推薦】
+# type: 俗語
+# description: 歇後語大全
+# example: 白費心機 案板底下放風第  白送 按老方子吃藥 苦也
+#
+---
+name: luna_pinyin.sogou.rest
+version: "1575342906726"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+阿斗當皇帝	a dou dang huang di	1918
+阿斗的江山	a dou de jiang shan	1914
+阿公吃黃連	a gong chi huang lian	1922
+阿拉伯數字八字分家	a la bo shu zi ba zi fen jia	1926
+挨鞭子不挨棍子	ai bian zi bu ai gun zi	1904
+挨鞭子的日子到了	ai bian zi de ri zi dao le	901
+挨刀的貨	ai dao de huo	1102
+捱了棒的狗	ai le bang de gou	1881
+愛上鉤	ai shang gou	425
+矮子放屁	ai zi fang pi	1891
+矮子爬坡	ai zi pa po	1912
+矮子騎大馬	ai zi qi da ma	1902
+矮子上樓梯	ai zi shang lou ti	1887
+矮子推掌	ai zi tui zhang	1916
+矮子坐高凳	ai zi zuo gao deng	1895
+矮子坐高登	ai zi zuo gao deng	1898
+案板底下放風第	an ban di xia fang feng di	1910
+案板上砍骨頭	an ban shang kan gu tou	1889
+岸邊的青蛙	an bian de qing wa	1885
+按綵球的乞丐	an cai qiu de qi gai	1399
+暗地裏耍拳	an di li shua quan	1900
+按雞頭啄米	an ji tou zhuo mi	1920
+按老方子吃藥	an lao fang zi chi yao	1908
+安祿山起兵	an lu shan qi bing	1893
+庵廟裏的尼姑	an miao li de ni gu	1906
+暗室裏穿針	an shi li chuan zhen	1897
+暗喜歡	an xi huan	976
+安營紮寨	an ying zha zhai	468
+按着葫蘆挖籽	an zhe hu lu wa zi	1883
+按着腦袋往火炕裏鑽	an zhe nao dai wang huo kang li zuan	1879
+按着牛頭喝水	an zhe niu tou he shui	1924
+暗中活動	an zhong huo dong	17
+八百年前立的旗杆	ba bai nian qian li de qi gan	1858
+巴不得	ba bu de	1528
+拔草引蛇	ba cao yin she	1821
+八個老漢划拳	ba ge lao han hua quan	1854
+八個歪脖坐一桌	ba ge wai bo zuo yi zhuo	1850
+拔尖	ba jian	800
+芭蕉開花	ba jiao kai hua	1872
+芭蕉葉上壘鳥窩	ba jiao ye shang lei niao wo	1867
+疤瘌眼長瘡	ba la yan zhang chuang	1862
+拔了毛的鳳凰	ba le mao de feng huang	1874
+把臉裝進褲襠裏	ba lian zhuang jin ku dang li	1869
+把你往苦裏引	ba ni wang ku li yin	136
+把人跌閃得好苦	ba ren die shan de hao ku	1010
+八十老人吹燈	ba shi lao ren chui deng	1846
+霸王別姬	ba wang bie ji	1865
+八仙過海	ba xian guo hai	1841
+八賢王進宮	ba xian wang jin gong	1834
+八月十五吃元宵	ba yue shi wu chi yuan xiao	1825
+八月十五的月亮	ba yue shi wu de yue liang	1830
+巴掌穿鞋	ba zhang chuan xie	1877
+擺佈不開	bai bu bu kai	84
+擺不平	bai bu ping	534
+白搭工	bai da gong	72
+白費神	bai fei shen	1816
+白費心機	bai fei xin ji	1919
+白骨精化美女	bai gu jing hua mei nv	1860
+白骨精說人話	bai gu jing shuo ren hua	1856
+百貨大樓賣西裝	bai huo da lou mai xi zhuang	1832
+百斤重擔能上肩一兩筆桿提不動	bai jin zhong dan neng shang jian yi liang bi gan ti bu dong	1827
+白蠟材結桂花	bai la cai jie gui hua	1852
+白了尾巴尖的狐狸	bai le wei ba jian de hu li	1848
+柏馬屁拍到蹄子上	bai ma pi pai dao ti zi shang	819
+白娘子遇許仙	bai niang zi yu xu xian	1843
+白跑	bai pao	241
+白日做夢	bai ri zuo meng	437
+白送	bai song	1913
+白疼了一場	bai teng liao yi chang	1655
+白天盼月亮	bai tian pan yue liang	1838
+百萬雄師下江南	bai wan xiong shi xia jiang nan	1823
+白鑽空子	bai zuan kong zi	1735
+半道上撿個喇叭	ban dao shang jian ge la ba	1810
+半斤對八兩	ban jin dui ba liang	1808
+半空中騎馬	ban kong zhong qi ma	1805
+斑馬的腦袋	ban ma de nao dai	1812
+搬菩薩洗澡	ban pu sa xi zao	1818
+半夜做夢娶新娘	ban ye zuo meng qu xin niang	1801
+斑鴆打架	ban zhen da jia	1814
+扮豬吃老虎	ban zhu chi lao hu	1798
+包輸	bao shu	249
+輩輩苦	bei bei ku	1304
+背後整人	bei hou zheng ren	829
+悲喜交加	bei xi jiao jia	328
+本領高	ben ling gao	374
+本末顛倒	ben mo dian dao	760
+本質太差	ben zhi tai cha	954
+蹦老高	beng lao gao	1696
+甭想	beng xiang	1837
+彼此彼此	bi ci bi ci	1806
+彼此一樣醜	bi ci yi yang chou	984
+必定有緣故	bi ding you yuan gu	849
+畢恭畢敬	bi gong bi jing	880
+比馬大	bi ma da	571
+比上不足比下不餘	bi shang bu zu bi xia bu yu	757
+變得真快	bian de zhen kuai	1710
+變壞了	bian huai le	549
+變他本色	bian ta ben shai	677
+憋出個猴來	bie chu ge hou lai	188
+別看他小	bie kan ta xiao	1161
+癟了	bie le	1526
+憋氣窩火	bie qi wo huo	1878
+別人不親自己親	bie ren bu qin zi ji qin	1392
+不安好心眼	bu an hao xin yan	735
+不必多言	bu bi duo yan	1244
+不變色	bu bian se	1278
+步步登高	bu bu deng gao	454
+步步高昇	bu bu gao sheng	1886
+不成	bu cheng	885
+不出所料	bu chu suo liao	1775
+不得不低頭	bu de bu di tou	783
+不得不老實	bu de bu lao shi	1632
+不得己	bu de ji	68
+不點不亮	bu dian bu liang	1120
+不懂	bu dong	372
+不對路數	bu dui lu shu	296
+不對頭	bu dui tou	988
+不分老嫩	bu fen lao nen	274
+不分上下	bu fen shang xia	145
+不分主次	bu fen zhu ci	565
+不乾脆	bu gan cui	477
+不敢想	bu gan xiang	1153
+不敢坐上席	bu gan zuo shang xi	325
+不顧根本	bu gu gen ben	1250
+不管驢事	bu guan lv shi	1038
+不過癮	bu guo yin	1386
+不好提	bu hao ti	1132
+不合算	bu he suan	355
+不合轍	bu he zhe	1055
+不懷好意	bu huai hao yi	1622
+不會套	bu hui tao	1110
+不計其數	bu ji qi shu	1718
+不記前仇俏媳婦戴鳳冠	bu ji qian chou qiao xi fu dai feng guan	725
+不簡單	bu jian dan	196
+不進則退	bu jin ze tui	903
+不可靠	bu ke kao	432
+不可能不受沾染	bu ke neng bu shou zhan ran	675
+不爛搞到爛	bu lan gao dao lan	311
+不領情	bu ling qing	1536
+不露頭	bu lu tou	1605
+不能不求人	bu neng bu qiu ren	1264
+不能容忍	bu neng rong ren	181
+不怕沒人要	bu pa mei ren yao	118
+不怕壓力大	bu pa ya li da	696
+不怕影兒斜	bu pa ying er xie	70
+不如雞	bu ru ji	1873
+不上算	bu shang suan	356
+不是好東西	bu shi hao dong xi	1175
+不是好苗頭	bu shi hao miao tou	179
+不是好人	bu shi hao ren	876
+不是好種	bu shi hao zhong	1626
+不是路	bu shi lu	385
+不是門	bu shi men	615
+不是哪塊香料	bu shi na kuai xiang liao	751
+不是鬧着玩的	bu shi nao zhe wan de	960
+不是時候	bu shi shi hou	1694
+不識時務	bu shi shi wu	403
+不識擡舉	bu shi tai ju	266
+不是偷也是偷	bu shi tou ye shi tou	60
+不識相	bu shi xiang	1232
+不是這塊料	bu shi zhe kuai liao	1094
+不是正經材料	bu shi zheng jing cai liao	1006
+不死也要脫層皮	bu si ye yao tuo ceng pi	1280
+不算數	bu suan shu	1028
+不惜代價	bu xi dai jia	1067
+不響	bu xiang	905
+不想給你吵	bu xiang gei ni chao	1155
+不相上下	bu xiang shang xia	1807
+不象樣	bu xiang yang	569
+不曉得軟硬	bu xiao de ruan ying	1769
+不行了	bu xing le	1106
+不要臉	bu yao lian	1541
+不腰痛	bu yao tong	409
+不着邊際	bu zhao bian ji	1078
+不知吃力	bu zhi chi li	1234
+不知底細	bu zhi di xi	1496
+不知幾品	bu zhi ji pin	1520
+不知輕重	bu zhi qing zhong	948
+不值摔打	bu zhi shuai da	714
+不知死活	bu zhi si huo	1238
+不知眼有多高	bu zhi yan you duo gao	1219
+不阻力	bu zu li	899
+彩虹和白雲談情	cai hong he bai yun tan qing	1764
+財迷轉向	cai mi zhuan xiang	1792
+採取主動	cai qu zhu dong	775
+財神爺戴烏紗帽	cai shen ye dai wu sha mao	1788
+踩着肩頭往頭上拉屎	cai zhe jian tou wang tou shang la shi	1756
+藏頭露尾	cang tou lu wei	1508
+蒼蠅叮菩薩	cang ying ding pu sa	1748
+蒼蠅嘴巴狗鼻子	cang ying zui ba gou bi zi	1752
+草包	cao bao	1096
+曹操敗走華客道	cao cao bai zou hua ke dao	1776
+曹操敗走華容道	cao cao bai zou hua rong dao	1740
+曹操吃雞肋	cao cao chi ji lei	1780
+曹操遇蔣幹	cao cao yu jiang gan	1772
+曹操諸葛亮	cao cao zhu ge liang	1744
+廁所裏照鏡子	ce suo li zhao jing zi	1794
+茶壺有嘴難說話	cha hu you zui nan shuo hua	1790
+茶鋪裏不要的夥計	cha pu li bu yao de huo ji	1786
+長城上的磚	chang cheng shang de zhuan	1774
+嫦娥跳舞	chang e tiao wu	1782
+唱高調	chang gao diao	435
+長頸鹿進馬羣	chang jing lu jin ma qun	1778
+長絲瓜當扁擔	chang si gua dang bian dan	1770
+唱戲的穿龍袍	chang xi de chuan long pao	1768
+唱戲的鬍子	chang xi de hu zi	1766
+扯得長	che de chang	309
+徹底垮臺	che di kua tai	283
+扯褲子補補丁	che ku zi bu bu ding	1758
+扯着老虎尾巴喊救命	che zhe lao hu wei ba han jiu ming	1762
+趁機磨刀	chen ji mo dao	49
+成不了皇帝	cheng bu liao huang di	1767
+城隍廟裏着了火	cheng huang miao li zhe le huo	1750
+城隍娘娘有喜	cheng huang niang niang you xi	1754
+城樓上亮相	cheng lou shang liang xiang	1746
+成全好事	cheng quan hao shi	1486
+成羣結隊	cheng qun jie dui	1698
+逞什麼	cheng shen me	218
+成雙成對	cheng shuang cheng dui	1721
+誠心實意	cheng xin shi yi	449
+吃虧的是自己	chi kui de shi zi ji	764
+吃了對門謝隔壁	chi le dui men xie ge bi	1742
+癡人說夢	chi ren shuo meng	292
+吃軟不吃硬	chi ruan bu chi ying	1903
+癡心妄想	chi xin wang xiang	34
+吃魚不吐骨頭	chi yu bu tu gu tou	1738
+遲早要飛	chi zao yao fei	499
+充人來了	chong ren lai le	1312
+臭不要臉	chou bu yao lian	481
+醜對醜	chou dui chou	466
+臭美	chou mei	1793
+抽你的筋剝你的皮	chou ni de jin bo ni de pi	972
+楚霸王自刎烏江	chu ba wang zi wen wu jiang	1784
+出不了格	chu bu liao ge	716
+出不了好主意	chu bu liao hao zhu yi	1643
+出師不利	chu shi bu li	1582
+出手不高	chu shou bu gao	1915
+喘不上氣	chuan bu shang qi	1845
+吹不得	chui bu de	352
+吹不響	chui bu xiang	591
+吹的	chui de	1378
+吹了	chui le	114
+垂頭喪氣	chui tou sang qi	508
+此路不通	ci lu bu tong	1057
+蔥頭不開花	cong tou bu kai hua	1760
+從頭甜到腳	cong tou tian dao jiao	1556
+粗中有細	cu zhong you xi	1040
+催命鬼	cui ming gui	840
+存心害人	cun xin hai ren	874
+錯了	cuo le	1741
+錯路一條	cuo lu yi tiao	313
+大擺布	da bai bu	631
+大不了	da bu liao	1448
+搭不上手	da bu shang shou	420
+大材小用	da cai xiao yong	704
+大車初一打拼夥	da che chu yi da pin huo	1688
+大處不算小處算	da chu bu suan xiao chu suan	100
+大吹大擂	da chui da lei	1460
+打燈籠走親戚一明去明來	da deng long zou qin qi yi ming qu ming lai	1693
+大公雞吃米	da gong ji chi mi	1719
+大姑娘嫁太監	da gu niang jia tai jian	1672
+大姑娘瞧嫁妝	da gu niang qiao jia zhuang	1676
+大姑娘腫臉	da gu niang zhong lian	1684
+大海里的一滴水	da hai li de yi di shui	1670
+大街上的行人	da jie shang de xing ren	1707
+打開棺材喊捉賊	da kai guan cai han zhuo zei	1686
+打開天窗	da kai tian chuang	1682
+大老粗	da lao cu	1826
+大流子的弟弟	da liu zi de di di	1703
+打鑼賣糖	da luo mai tang	1692
+大門日的石獅子	da men ri de shi shi zi	1722
+大年三十看黃曆	da nian san shi kan huang li	1662
+打鳥姿態	da niao zi tai	1690
+打破腦袋叫扇子扇	da po nao dai jiao shan zi shan	1730
+大起大落	da qi da luo	781
+搭起戲臺賣豆腐	da qi xi tai mai dou fu	1713
+搭起戲臺賣螃蟹	da qi xi tai mai pang xie	1709
+大熱天穿皮襖	da re tian chuan pi ao	1695
+打上黑臉照鏡	da shang hei lian zhao jing	1701
+大聖吃毫毛	da sheng chi hao mao	1711
+大聲叫喊	da sheng jiao han	686
+大水衝了龍王廟	da shui chong le long wang miao	1666
+打死老鼠喂貓	da si lao shu wei mao	1726
+打烏米的眼睛	da wu mi de yan jing	1678
+大蝦炒雞爪兒	da xia chao ji zhua er	1680
+大顯神威	da xian shen wei	21
+大象喝水	da xiang he shui	1715
+大小各有用場	da xiao ge you yong chang	1594
+大雁飛行	da yan fei xing	1699
+大智若愚	da zhi ruo yu	1797
+打腫臉充胖子	da zhong lian chong pang zi	1734
+打足了氣的皮球	da zu le qi de pi qiu	1697
+打足氣的氣球	da zu qi de qi qiu	1674
+帶刺	dai ci	1737
+呆着不動	dai zhe bu dong	690
+戴着面具進棺材	dai zhe mian ju jin guan cai	1668
+戴着面具親嘴	dai zhe mian ju qin zui	1664
+呆子	dai zi	1252
+擔當不起	dan dang bu qi	1092
+淡而無味	dan er wu wei	1564
+膽小如鼠	dan xiao ru shu	370
+擋鳳板做鍋蓋	dang feng ban zuo guo gai	1705
+倒捱了一錐子	dao ai le yi zhui zi	698
+倒挨一腳	dao ai yi jiao	818
+稻草人救火	dao cao ren jiu huo	1796
+道道多	dao dao duo	739
+搗鼓不開	dao gu bu kai	192
+倒了大黴	dao le da mei	1771
+盜馬賊披袈裟	dao ma zei pi jia sha	1728
+倒貼	dao tie	1142
+道聽途說	dao ting tu shuo	1053
+倒着走	dao zhe zou	3
+得不償失	de bu chang shi	354
+得心應手	de xin ying shou	407
+等不到老	deng bu dao lao	1017
+等着挨刀	deng zhe ai dao	1637
+登着耗子當成牛	deng zhe hao zi dang cheng niu	1379
+低聲下氣	di sheng xia qi	1890
+點不起火	dian bu qi huo	731
+點燃的蠟燭一長命不了	dian ran de la zhu yi zhang ming bu liao	1720
+點着火的雙響	dian zhe huo de shuang xiang	1717
+吊兒郎當	diao er lang dang	1651
+動不得	dong bu de	962
+東倒西歪	dong dao xi wai	804
+抖起來了	dou qi lai le	887
+抖什麼威風	dou shen me wei feng	122
+都閒着	dou xian zhe	169
+堵不完的窟窿	du bu wan de ku long	1757
+獨具隻眼	du ju zhi yan	1615
+肚裏有貨倒不出	du li you huo dao bu chu	511
+獨吞	du tun	1047
+斷了柄鋤頭安了把	duan le bing chu tou an le ba	1732
+斷了線的梭子	duan le xian de suo zi	1736
+短命的貨	duan ming de huo	198
+對不上號	dui bu shang hao	952
+對天講話	dui tian jiang hua	968
+多此一舉	duo ci yi ju	1236
+多一層比少一層好	duo yi ceng bi shao yi ceng hao	333
+多一股子氣	duo yi gu zi qi	547
+多餘	duo yu	439
+躲雨躲到城隍廟	duo yu duo dao cheng huang miao	1724
+多嘴多舌	duo zui duo she	532
+鵝蛋石跌進刺蓬裏	e dan shi die jin ci peng li	1660
+惡鬼見鍾旭	e gui jian zhong xu	1633
+餓虎進宅	e hu jin zhai	1623
+餓狼竄進羊廄	e lang cuan jin yang jiu	1654
+惡狼對羊笑	e lang dui yang xiao	1621
+惡狼和瘋狗作伴	e lang he feng gou zuo ban	1625
+餓狼日裏奪脆骨	e lang ri li duo cui gu	1618
+惡狼生個賊狐狸	e lang sheng ge zei hu li	1627
+鵝盆裏不準鴨插嘴	e pen li bu zhun ya cha zui	1634
+惡人登門	e ren deng men	1629
+惡人雕戴皮帽	e ren diao dai pi mao	1631
+惡人先告狀	e ren xian gao zhuang	42
+鵝伸脖子	e shen bo zi	1638
+額頭角上擱扁擔	e tou jiao shang ge bian dan	1610
+額頭上插牡丹	e tou shang cha mu dan	1608
+額外負擔	e wai fu dan	964
+鵝在水中尋食	e zai shui zhong xun shi	1636
+餓着肚子做夢	e zhe du zi zuo meng	1646
+餓豬佔木槽	e zhu zhan mu cao	1650
+二百加五十	er bai jia wu shi	1620
+二百五	er bai wu	1619
+二不愣當家	er bu leng dang jia	1644
+二尺長的吹火筒	er chi zhang de chui huo tong	1648
+耳朵裏塞棉花	er duo li sai mian hua	1658
+耳朵塞驢毛	er duo sai lv mao	1614
+二郎神的印堂	er lang shen de yin tang	1616
+二兩棉花	er liang mian hua	1640
+二流子	er liu zi	1702
+二流子打鼓	er liu zi da gu	1652
+二踢腳	er ti jiao	1642
+二萬五千里長徵	er wan wu qian li chang zheng	1612
+爾虞我詐	er yu wo zha	825
+兒子不養娘	er zi bu yang niang	1656
+發啦	fa la	669
+乏味	fa wei	1565
+翻不過身來	fan bu guo shen lai	1201
+翻江倒海	fan jiang dao hai	447
+犯勁	fan jin	1472
+反了	fan le	1892
+飛不起來	fei bu qi lai	1909
+費功夫	fei gong fu	767
+非輸不可	fei shu bu ke	1330
+非災即禍	fei zai ji huo	441
+扶不直	fu bu zhi	491
+父子相認	fu zi xiang ren	1502
+旮旯裏藏毒蛇	ga la li cang du she	1606
+嘎小子買燒雞	ga xiao zi mai shao ji	1597
+改朝換代	gai chao huan dai	23
+蓋房請來箍桶匠	gai fang qing lai gu tong jiang	1593
+蓋了九牀被子做美夢	gai le jiu chuang bei zi zuo mei meng	1589
+該下臺了	gai xia tai le	208
+乾癟	gan bie	1474
+乾草點燈	gan cao dian deng	1585
+趕場帶相親	gan chang dai xiang qin	1548
+趕場走進死衚衕	gan chang zou jin si hu tong	1544
+乾打雷不下雨	gan da lei bu xia yu	1581
+乾乾脆脆	gan gan cui cui	1888
+乾旱的莊稼	gan han de zhuang jia	1577
+幹河溝的魚	gan he gou de yu	1573
+幹河灘裏種牡丹	gan he tan li zhong mu dan	1569
+幹活打瞌睡	gan huo da ke shui	1587
+趕雞下河	gan ji xia he	1540
+趕腳的騎驢	gan jiao de qi lv	1535
+乾淨不了	gan jing bu liao	1171
+橄欖屁股	gan lan pi gu	1604
+趕龍王下海	gan long wang xia hai	1529
+幹蘿蔔纓熬湯	gan luo bo ying ao tang	1566
+擀麪杖吹火	gan mian zhang chui huo	1599
+擀麪杖分長短	gan mian zhang fen chang duan	1595
+擀麪杖鑽石頭	gan mian zhang zuan shi tou	1591
+幹輕巧活	gan qing qiao huo	377
+甘蔗拔節	gan zhe ba jie	1561
+甘蔗林裏種香瓜	gan zhe lin li zhong xiang gua	1557
+甘蔗皮編席子	gan zhe pi bian xi zi	1552
+趕着王母娘娘叫大姑	gan zhe wang mu niang niang jiao da gu	1525
+剛扯帆就遇頂頭風	gang che fan jiu yu ding tou feng	1583
+剛出爐的純鋼	gang chu lu de chun gang	1579
+剛出山的太陽	gang chu shan de tai yang	1575
+剛出水的蝦子	gang chu shui de xia zi	1571
+剛出土的黃連	gang chu tu de huang lian	1568
+剛逮住的鯉魚	gang dai zhu de li yu	1563
+高出了頭	gao chu le tou	1777
+高飛的鳥兒遇老鷹	gao fei de niao er yu lao ying	1559
+高級合金鋼	gao ji he jin gang	1555
+高明	gao ming	27
+高攀	gao pan	1197
+高山頭種辣椒	gao shan tou zhong la jiao	1550
+高興得發傻	gao xing dei fa sha	1398
+高姿態	gao zi tai	1745
+疙瘩餅子送閨女	ge da bing zi song gui nv	1546
+隔黃河送秋波	ge huang he song qiu bo	1538
+隔年的臭蟲	ge nian de chou chong	1527
+隔年的春聯	ge nian de chun lian	1533
+各人享各人福	ge ren xiang ge ren fu	915
+隔山打鳥	ge shan da niao	1523
+割下鼻子換面吃	ge xia bi zi huan mian chi	1542
+各顯神通	ge xian shen tong	1840
+各有各的打法	ge you ge de da fa	156
+各有一技之長	ge you yi ji zhi chang	335
+各於一行	ge yu yi hang	1691
+胳肢窩裏夾耗子	ge zhi wo li jia hao zi	1601
+各走各的道	ge zou ge de dao	210
+各走一端	ge zou yi duan	911
+根底淺	gen di qian	831
+根深時茂	gen shen shi mao	692
+根子不正	gen zi bu zheng	1851
+夠不着	gou bu zhao	1894
+夠喘的了	gou chuan de le	575
+勾勾搭搭	gou gou da da	882
+狗眼看人	gou yan kan ren	1221
+夠硬	gou ying	1553
+顧前不顧後	gu qian bu gu hou	428
+鼓足了勁	gu zu le jin	236
+掛個空名	gua ge kong ming	1195
+怪事一樁	guai shi yi zhuang	619
+怪物	guai wu	538
+管不了廟裏事	guan bu liao miao li shi	1227
+管得寬	guan de kuan	445
+管的寬	guan de kuan	555
+觀點模糊	guan dian mo hu	1088
+光打光	guang da guang	349
+光剩嘴了	guang sheng zui le	214
+光耍嘴	guang shua zui	5
+鬼把戲	gui ba xi	844
+鬼點子多	gui dian zi duo	173
+鬼相	gui xiang	835
+鬼樣子	gui yang zi	836
+過得硬	guo de ying	1554
+過一天算一天	guo yi tian suan yi tian	427
+還不了	hai bu le	1203
+還是老一套	hai shi lao yi tao	1907
+旱該倒了	han gai dao le	1384
+罕見	han jian	270
+寒酸	han suan	530
+好大的膽	hao da de dan	1617
+好大的口氣	hao da de kou qi	1136
+好大的氣	hao da de qi	625
+好大的胃口	hao da de wei kou	281
+好景不長	hao jing bu chang	1866
+好看有限	hao kan you xian	1013
+好厲害	hao li hai	78
+好難請	hao nan qing	1833
+好捏	hao nie	665
+好色之徒	hao se zhi tu	679
+好上加好	hao shang jia hao	724
+好偉大	hao wei da	833
+合在一起幹	he zai yi qi gan	1069
+黑吃黑	hei chi hei	720
+黑老鴉下了個白雞蛋	hei lao ya xia le ge bai ji dan	1443
+黑李這碰見猛張飛	hei li zhe peng jian meng zhang fei	1447
+黑下髒來	hei xia zang lai	194
+黑瞎子吃石榴	hei xia zi chi shi liu	1455
+黑瞎子上轎	hei xia zi shang jiao	1459
+黑瞎子耍門扛	hei xia zi shua men kang	1451
+黑旋風的本名	hei xuan feng de ben ming	1463
+狠對狠	hen dui hen	1213
+恨人不死	hen ren bu si	974
+橫衝直撞	heng chong zhi zhuang	1408
+橫闖一個點兒	heng chuang yi ge dian er	128
+橫槓竹子	heng gang zhu zi	1471
+哼哈二將鬥法	heng ha er jiang dou fa	1467
+橫說豎說都有理	heng shuo shu shuo dou you li	553
+橫行霸道	heng xing ba dao	855
+橫行不了	heng xing bu liao	579
+紅不過一會兒了	hong bu guo yi hui er le	652
+紅不久	hong bu jiu	116
+紅到頂了	hong dao ding le	1549
+紅光滿面	hong guang man mian	1574
+紅花女做媒	hong hua nv zuo mei	1483
+烘爐裏的王八	hong lu li de wang ba	1475
+紅娘捱打	hong niang ai da	1487
+紅人	hong ren	1476
+紅運將至	hong yun jiang zhi	288
+洪澤湖的魚鷹	hong ze hu de yu ying	1479
+後半截	hou ban jie	996
+後患無窮	hou huan wu qiong	55
+後悔已晚	hou hui yi wan	29
+後勁大	hou jin da	255
+後來居上	hou lai ju shang	1248
+喉嚨長刺口生瘡	hou long zhang ci kou sheng chuang	1491
+猴學樣	hou xue yang	1495
+猴子戴涼帽	hou zi dai liang mao	1521
+猴子的屁股	hou zi de pi gu	1517
+猴子扇扇子	hou zi shan shan zi	1513
+互不相干	hu bu xiang gan	251
+護城河的王八	hu cheng he de wang ba	1465
+糊糊塗塗	hu hu tu tu	934
+胡砍	hu kan	1159
+胡拉亂扯	hu la luan che	913
+狐狸吃不到的葡萄	hu li chi bu dao de pu tao	1501
+狐狸吃刺蝟	hu li chi ci wei	1505
+狐狸鑽罐子	hu li zuan guan zi	1509
+葫蘆掉井裏	hu lu diao jing li	1489
+葫蘆蜂的窩	hu lu feng de wo	1485
+葫蘆裏賣藥	hu lu li mai yao	1497
+葫蘆裏裝水	hu lu li zhuang shui	1493
+胡蘿蔔就燒酒	hu luo bo jiu shao jiu	1481
+胡蘿蔔刻的小孩兒	hu luo bo ke de xiao hai er	1477
+胡撲打	hu pu da	317
+猢猻穿衣裳	hu sun chuan yi shang	1469
+胡屠戶的女婿	hu tu hu de nv xu	1473
+互相照應	hu xiang zhao ying	762
+畫筆敲敲	hua bi qiao qiao	1441
+華而不實	hua er bu shi	1262
+花崗岩下油鍋	hua gang yan xia you guo	1445
+花骨朵碰在屠刀上	hua gu duo peng zai tu dao shang	1453
+花果山上沒外姓	hua guo shan shang mei wai xing	1457
+花架下養雞鴨	hua jia xia yang ji ya	1439
+畫匠不給神作揖	hua jiang bu gei shen zuo yi	1435
+花轎前的樂隊	hua jiao qian de yue dui	1461
+畫面上的酒菜	hua mian shang de jiu cai	1437
+花瓶裏種樹	hua ping li zhong shu	1449
+話中帶刺	hua zhong dai ci	1266
+壞到一塊了	huai dao yi kuai le	1861
+懷的鬼胎	huai de gui tai	1753
+懷兒婆的口糧	huai er po de kou liang	1431
+皇帝補皮鞋	huang di bu pi xie	1499
+黃豆煮豆腐	huang dou zhu dou fu	1503
+黃連樹上結糖梨	huang lian shu shang jie tang li	1511
+黃連樹下種苦瓜	huang lian shu xia zhong ku gua	1507
+荒涼	huang liang	185
+黃牛拉磨	huang niu la mo	1515
+黃鼠狼抽了筋	huang shu lang chou le jin	1423
+黃鼠狼的脾氣	huang shu lang de pi qi	1519
+黃鼠狼見了雞	huang shu lang jian le ji	1433
+黃鼠狼下息	huang shu lang xia xi	1425
+會唱會跳	hui chang hui tiao	140
+回頭見高低	hui tou jian gao di	741
+回頭難	hui tou nan	1035
+悔之莫及	hui zhi mo ji	30
+會走不會飛	hui zou bu hui fei	583
+渾蛋	hun dan	638
+混蛋到底	hun dan dao di	298
+混飯吃	hun fan chi	1059
+混年號	hun nian hao	1464
+渾身打哆哆	hun shen da duo duo	1422
+渾身都軟了	hun shen dou ruan le	1370
+渾身是氣	hun shen shi qi	786
+活蹦亂跳	huo beng luan tiao	1570
+豁出來了	huo chu lai le	90
+豁出去了	huo chu qu le	1729
+火氣太大	huo qi tai da	1124
+貨色不多架勢不大	huo se bu duo jia shi bu da	1708
+禍在眼前	huo zai yan qian	1402
+豁子吵嘴	huo zi chao zui	1427
+豁子喝米湯	huo zi he mi tang	1429
+雞腸舌刮油	ji chang she gua you	1405
+記吃不記打	ji chi bu ji da	360
+機關槍瞄大炮	ji guan qiang miao da pao	1407
+唧唧喳喳	ji ji zha zha	1082
+脊樑骨上長茄子	ji liang gu shang chang qie zi	1340
+積木搭牆	ji mu da qiang	1375
+急人之所急	ji ren zhi suo ji	657
+藉絲炒黃豆芽	ji si chao huang dou ya	883
+畸形人做衣服	ji xing ren zuo yi fu	1335
+賈寶玉出家	jia bao yu chu jia	1359
+賈寶玉的通靈玉	jia bao yu de tong ling yu	1355
+賈寶玉看西廂記	jia bao yu kan xi xiang ji	1351
+假充鷹	jia chong ying	1630
+假的	jia de	1765
+賈府門前的獅子	jia fu men qian de shi zi	1347
+嫁禍於人	jia huo yu ren	1727
+賈家姑娘嫁賈家	jia jia gu niang jia jia jia	1363
+假門假事	jia men jia shi	1362
+家人不認識一家人	jia ren bu ren shi yi jia ren	1665
+見不得人	jian bu de ren	1868
+奸臣當道	jian chen dang dao	827
+煎過三遍的藥渣	jian guo san bian de yao zha	1385
+賤貨	jian huo	794
+見窟窿就鑽	jian ku long jiu zuan	743
+見面就崩	jian mian jiu beng	1446
+見死不救	jian si bu jiu	53
+肩頭上放花炮	jian tou shang fang hua pao	1403
+見異思遷	jian yi si qian	19
+見者有份	jian zhe you fen	1522
+講風涼話	jiang feng liang hua	366
+蔣幹盜書	jiang gan dao shu	1349
+醬缸醃時子	jiang gang yan shi zi	1381
+醬壇裏裝個鱉	jiang tan li zhuang ge bie	1377
+腳踩兩隻船	jiao cai liang zhi chuan	1413
+腳踩西瓜皮手裏抓把泥	jiao cai xi gua pi shou li zhua ba ni	1415
+腳蹬鼻子	jiao deng bi zi	1411
+腳底下踩棒槌	jiao di xia cai bang chui	1417
+跤龍頭上搔癢	jiao long tou shang sao yang	1353
+腳盆裏撐船	jiao pen li cheng chuan	1342
+教菩薩認字	jiao pu sa ren zi	1401
+叫人眼飽肚飢	jiao ren yan bao du ji	1436
+腳踏實地	jiao ta shi di	268
+狡兔撞鷹	jiao tu zhuang ying	1337
+結果不好	jie guo bu hao	1300
+街上賣笛	jie shang mai di	1369
+借題發揮	jie ti fa hui	1
+街頭的狗	jie tou de gou	1361
+街頭上耍把戲	jie tou shang shua ba xi	1365
+進不得城	jin bu de cheng	1470
+金不換	jin bu huan	1215
+盡見鬼	jin jian gui	1723
+盡講風涼話	jin jiang feng liang hua	1292
+斤斤計較	jin jin ji jiao	608
+進來容易出去難	jin lai rong yi chu qu nan	163
+浸溼的木頭	jin shi de mu tou	732
+盡是老調	jin shi lao diao	628
+進退兩難	jin tui liang nan	779
+盡往上看	jin wang shang kan	1677
+緊往上爬	jin wang shang pa	1193
+儘想好事	jin xiang hao shi	1800
+緊相連	jin xiang lian	1870
+緊着褲子數日月	jin zhe ku zi shu ri yue	1367
+盡捉弄人	jin zhuo nong ren	502
+經不起風雨	jing bu qi feng yu	142
+經不起推敲	jing bu qi tui qiao	1086
+經得起打擊	jing de qi da ji	688
+驚弓之鳥	jing gong zhi niao	1419
+京戲走臺步	jing xi zou tai bu	1397
+驚蟄後的蜈蚣	jing zhe hou de wu gong	1421
+鏡子裏親嘴	jing zi li qin zui	1393
+就當自己長得白	jiu dang zi ji zhang de bai	1442
+酒鬼掉進酒池裏	jiu gui diao jin jiu chi li	1391
+酒鬼喝汽水	jiu gui he qi shui	1387
+揪着馬尾巴賽跑	jiu zhe ma wei ba sai pao	1345
+就着豬肉吃油條	jiu zhe zhu rou chi you tiao	1373
+酒盅裏拌黃瓜	jiu zhong li ban huang gua	1395
+決不回頭	jue bu hui tou	1258
+絕戶頭得個改家子	jue hu tou de ge gai jia zi	1344
+決了堤的水	jue le di de shui	1409
+撅着屁股看天	jue zhe pi gu kan tian	1389
+開弓的箭	kai gong de jian	1259
+開卦府的包公	kai gua fu de bao gong	1273
+開棺驗屍	kai guan yan shi	1295
+開花的白菜	kai hua de bai cai	1303
+開花期遇暴雨	kai hua qi yu bao yu	1301
+開會差半點	kai hui cha ban dian	1261
+開會請了假	kai hui qing le jia	1275
+開局擺開攔河車	kai ju bai kai lan he che	1297
+開局的兵卒	kai ju de bing zu	1299
+開了閘的河水	kai le zha de he shui	1291
+開溜	kai liu	321
+開水裏撈肥皂	kai shui li lao fei zao	1277
+開水泡黃豆	kai shui pao huang dou	1283
+開水潑老鼠	kai shui po lao shu	1281
+開水碗上的蔥花	kai shui wan shang de cong hua	1263
+開水洗臉	kai shui xi lian	1285
+開水煮白玉	kai shui zhu bai yu	1279
+開洋葷	kai yang hun	57
+開着電扇聊天	kai zhe dian shan liao tian	1293
+開着收音機聽戲	kai zhe shou yin ji ting xi	1289
+開着拖拉機攆兔子	kai zhe tuo la ji nian tu zi	1287
+砍不倒大樹	kan bu dao da shu	1257
+看不上眼	kan bu shang yan	458
+看錯人了	kan cuo ren le	1747
+砍倒大樹捉鳥	kan dao da shu zhuo niao	1253
+砍倒的柳樹	kan dao de liu shu	1255
+看多少算多少	kan duo shao suan duo shao	753
+看家拳頭	kan jia quan tou	1226
+看見和尚喊姨夫	kan jian he shang han yi fu	1229
+看見尼姑喊嫂子	kan jian ni gu han sao zi	1231
+看見外公叫爺爺	kan jian wai gong jiao ye ye	1233
+看門的神仙	kan men de shen xian	1228
+看你咋吹	kan ni za chui	228
+看破戲塵	kan po xi chen	1358
+看人挑擔	kan ren tiao dan	1235
+砍樹吃桔子	kan shu chi ju zi	1251
+看戲挑媳婦	kan xi tiao xi fu	1218
+看羊的狗	kan yang de gou	1224
+看衣裳行事	kan yi shang xing shi	1222
+看着天說話	kan zhe tian shuo hua	1220
+靠不住	kao bu zhu	433
+刻薄	ke bo	540
+嗑瓜子吃核桃	ke gua zi chi he tao	1265
+嗑瓜子瞌出個臭蟲	ke gua zi ke chu ge chou chong	1313
+嗑瓜子嗑出蝦米來	ke gua zi ke chu xia mi lai	1315
+客氣碰着老實	ke qi peng zhe lao shi	1269
+瞌睡送個枕頭	ke shui song ge zhen tou	1271
+磕完頭撒供	ke wan tou sa gong	1307
+肯定	ken ding	1189
+肯定了	ken ding le	640
+啃着魚骨聊天	ken zhe yu gu liao tian	1267
+坑到家了	keng dao jia le	1065
+坑人不淺	keng ren bu qian	980
+空袋了	kong dai le	1325
+空肚子打飽隔	kong du zi da bao ge	1323
+空費芯	kong fei xin	1116
+空架子	kong jia zi	1205
+空勞神	kong lao shen	1815
+空手進衙門	kong shou jin ya men	1331
+空手跑進中藥店	kong shou pao jin zhong yao dian	1327
+空手抓白魚	kong shou zhua bai yu	1329
+空想	kong xiang	1645
+空心羅漢	kong xin luo han	1333
+口蜜腹劍	kou mi fu jian	48
+窟窿套窟窿	ku long tao ku long	1382
+苦苗苗	ku miao miao	1567
+苦生苦長	ku sheng ku chang	1506
+苦水裏泡大的	ku shui li pao da de	862
+苦也	ku ye	1921
+苦竹子根頭出苦筍	ku zhu zi gen tou chu ku sun	1305
+筷子搭橋	kuai zi da qiao	1311
+筷子頂豆腐	kuai zi ding dou fu	1319
+筷子裏拔旗杆	kuai zi li ba qi gan	1309
+筐裏選瓜	kuang li xuan gua	1317
+葵花籽裏拌鹽水	kui hua zi li ban yan shui	1321
+拉肚子吃瀉藥	la du zi chi xie yao	1109
+垃圾堆裏的破鞋	la ji dui li de po xie	1101
+辣椒炒豆腐	la jiao chao dou fu	1113
+蠟臺上無油	la tai shang wu you	1117
+臘鴨子煮到鍋裏頭	la ya zi zhu dao guo li tou	1129
+臘月裏扇扇子	la yue li shan shan zi	1125
+拉着手走路	la zhe shou zou lu	1105
+蠟燭的脾氣	la zhu de pi qi	1121
+癩蛤蟆穿大紅袍	lai ha ma chuan da hong pao	1141
+癩蛤蟆打吹欠	lai ha ma da chui qian	1137
+賴泥下窯	lai ni xia yao	1144
+來頭不小	lai tou bu xiao	722
+癩子的腦袋	lai zi de nao dai	1133
+爛板橋上的龍王	lan ban qiao shang de long wang	1176
+懶廚子做席	lan chu zi zuo xi	1156
+濫竿充數	lan gan chong shu	1196
+爛膏藥貼在好肉上	lan gao yao tie zai hao rou shang	1192
+懶驢上磨	lan lv shang mo	1148
+爛泥裏打樁子	lan ni li da zhuang zi	1180
+爛泥菩薩	lan ni pu sa	1184
+爛泥菩薩洗臉	lan ni pu sa xi lian	1172
+爛泥土下窯	lan ni tu xia yao	1212
+懶婆娘的裹腳布	lan po niang de guo jiao bu	1152
+爛魚開了膛	lan yu kai le tang	1188
+狼吃狼	lang chi lang	1200
+榔頭對錘子	lang tou dui chui zi	1214
+狼惜豬娃	lang xi zhu wa	1204
+浪中行船	lang zhong hang chuan	1164
+浪子回頭	lang zi hui tou	1216
+老等	lao deng	1478
+老調子	lao diao zi	684
+勞而無功	lao er wu gong	337
+牢房裏賭博	lao fang li du bo	1168
+老肥豬上屠場	lao fei zhu shang tu chang	1103
+老墳頭裏的屍骨	lao fen tou li de shi gu	1206
+老鴰叮蚌殼	lao gua ding bang ke	1210
+老光棍	lao guang gun	1857
+老海瑞上金殿	lao hai rui shang jin dian	1099
+老猴爬旗杆	lao hou pa qi gan	1107
+老虎的兒子	lao hu de er zi	1162
+老虎和豬生的	lao hu he zhu sheng de	1166
+老虎皮兔子膽	lao hu pi tu zi dan	1158
+老糊塗	lao hu tu	745
+老奸巨猾	lao jian ju hua	1847
+老來俏	lao lai qiao	617
+老驢打滾	lao lv da gun	1202
+老母豬爬樓梯	lao mu zhu pa lou ti	1198
+老母豬上山	lao mu zhu shang shan	1194
+老牛拉破車	lao niu la po che	1119
+老牛鑽狗洞	lao niu zuan gou dong	1115
+老實人	lao shi ren	1802
+老鼠扒屎盆	lao shu ba shi pen	1135
+老鼠管倉	lao shu guan cang	1146
+老鼠爬香爐	lao shu pa xiang lu	1150
+老鼠碰見貓	lao shu peng jian mao	1154
+老鼠睡貓窩	lao shu shui mao wo	1139
+老鼠偷秤砣	lao shu tou cheng tuo	1143
+老鼠咬屁股	lao shu yao pi gu	1190
+老水牛拉馬車	lao shui niu la ma che	1111
+老太婆過年	lao tai po guo nian	1182
+老太婆啃雞筋	lao tai po ken ji jin	1178
+老太太扎鞋底	lao tai tai zha xie di	1186
+老太爺看告示	lao tai ye kan gao shi	1174
+老鷹吃雞毛	lao ying chi ji mao	1170
+老主意	lao zhu yi	473
+老子納妾兒姘居	lao zi na qie er pin ju	1131
+老子偷豬兒偷牛	lao zi tou zhu er tou niu	1123
+老子坐班房	lao zi zuo ban fang	1127
+樂顛了餡兒	le dian le xian er	749
+冷不防	leng bu fang	1199
+冷落	leng luo	671
+立不起來	li bu qi lai	1324
+立場不穩	li chang bu wen	1338
+理虧	li kui	1462
+裏外發燒	li wai fa shao	358
+戀戀不捨	lian lian bu she	40
+臉上無光	lian shang wu guang	798
+兩人一份	liang ren yi fen	1430
+兩想	liang xiang	1641
+兩袖清風	liang xiu qing feng	1781
+兩眼墨黑	liang yan mo hei	11
+亮月下耍大刀	liang yue xia shua da dao	1160
+料不到	liao bu dao	636
+零比零	ling bi ling	1925
+靈丹妙藥	ling dan miao yao	443
+另搞一套	ling gao yi tao	1334
+另有所圖	ling you suo tu	96
+溜了	liu le	585
+留神	liu shen	1306
+溜鬚不要命	liu xu bu yao ming	1352
+溜鬚拍馬	liu xu pai ma	1021
+留一手	liu yi shou	1225
+露底	lou di	788
+路不寬	lu bu kuan	1310
+露骨	lu gu	577
+露了蹄半山崖的觀音	lu le ti ban shan ya de guan yin	1803
+露頭角	lu tou jiao	520
+滷煮寒鴨子	lu zhu han ya zi	1208
+亂蹦亂跳	luan beng luan tiao	1562
+亂聯繫	luan lian xi	1074
+亂牽扯	luan qian che	1073
+亂認親	luan ren qin	1230
+略使小技	lue shi xiao ji	64
+略顯其能	lue xian qi neng	1839
+馬鞭打牛	ma bian da niu	1062
+馬槽邊上的蒼蠅	ma cao bian shang de cang ying	1060
+馬車過沼澤地	ma che guo zhao ze di	1058
+麻袋裏裝麥秸	ma dai li zhuang mai jie	1097
+麻袋做龍袍	ma dai zuo long pao	1095
+麻稈搭橋	ma gan da qiao	1093
+麻稈做術腿	ma gan zuo shu tui	1091
+麻姑娘搽雪花膏	ma gu niang cha xue hua gao	1089
+螞蟥叭在牛尾上	ma huang ba zai niu wei shang	1025
+麻秸抵門	ma jie di men	1087
+馬臉比母豬頭	ma lian bi mu zhu tou	1003
+麻臉姑娘掉井裏	ma lian gu niang diao jing li	981
+麻臉媳婦拜見上嘴婆	ma lian xi fu bai jian shang zui po	985
+螞蛉長毛	ma ling chang mao	1032
+麻柳樹解板子	ma liu shu jie ban zi	1007
+馬路上跑火車	ma lu shang pao huo che	1056
+馬路新聞	ma lu xin wen	1054
+麻婆打扮	ma po da ban	1014
+麻婆照鏡子	ma po zhao jing zi	1085
+麻雀搬家	ma que ban jia	1083
+麻雀吃桑葚	ma que chi sang shen	1018
+麻雀的肚腹	ma que de du fu	1081
+麻雀掉到洞庭湖裏	ma que diao dao dong ting hu li	1079
+麻雀鬥雞	ma que dou ji	983
+麻雀嫁女	ma que jia nv	979
+馬羣裏的駱駝	ma qun li de luo tuo	1052
+馬勺當鑼打	ma shao dang luo da	1050
+麻蛇鑽刺棵	ma she zuan ci ke	1077
+麻繩穿針	ma sheng chuan zhen	1072
+麻繩打毛衣	ma sheng da mao yi	1075
+馬食槽不許驢插嘴	ma shi cao bu xu lv cha zui	1048
+馬桶裏倒香水	ma tong li dao xiang shui	1046
+馬桶上插花	ma tong shang cha hua	1043
+碼頭工人扛麻包	ma tou gong ren kang ma bao	1037
+馬王爺	ma wang ye	1039
+馬尾穿蘿蔔	ma wei chuan luo bo	1041
+馬尾拴雞蛋	ma wei shuan ji dan	1034
+麻線搓繩	ma xian cuo sheng	1070
+螞蟻打食	ma yi da shi	1020
+麻油炒豆腐	ma you chao dou fu	1068
+螞蚱配蝗蟲	ma zha pei huang chong	1016
+碼子前面添零	ma zi qian mian tian ling	1029
+麻子敲門	ma zi qiao men	1066
+麻子跳傘	ma zi tiao san	1064
+買車不要騾子	mai che bu yao luo zi	997
+賣棺材的聞人重病	mai guan cai de wen ren zhong bing	977
+賣棺材的咬牙	mai guan cai de yao ya	975
+買回彩電帶回發票	mai hui cai dian dai hui fa piao	999
+麥秸燒火	mai jie shao huo	1005
+買賣不大架子大	mai mai bu da jia zi da	1712
+麥芒戮到眼睛裏	mai mang lu dao yan jing li	1001
+買帽子當鞋穿	mai mao zi dang xie chuan	989
+賣弄風流	mai nong feng liu	1813
+麥田裏的韭菜	mai tian li de jiu cai	1009
+麥田裏撒豌豆	mai tian li sa wan dou	1012
+買眼藥進了石灰店	mai yan yao jin le shi hui dian	993
+蠻不講理	man bu jiang li	226
+滿肚子熊點子	man du zi xiong dian zi	1454
+慢工出細活	man gong chu xi huo	1514
+慢慢挪	man man nuo	1396
+慢慢騰騰	man man teng teng	1118
+滿嘴噴糞	man zui pen fen	485
+忙上加忙	mang shang jia mang	276
+冒充打獵人	mao chong da lie ren	1600
+冒充富態	mao chong fu tai	1733
+冒貨	mao huo	597
+沒安好心	mei an hao xin	319
+沒出息	mei chu xi	1274
+沒得用	mei de yong	1530
+沒肚量	mei du liang	1332
+沒多大勁	mei duo da jin	924
+沒方子	mei fang zi	1326
+沒福	mei fu	1905
+沒高的	mei gao de	1308
+沒骨氣	mei gu qi	966
+沒幾步跑頭	mei ji bu pao tou	581
+沒見過大場面	mei jian guo da chang mian	286
+沒進步	mei jin bu	120
+沒臉回江東	mei lian hui jiang dong	1783
+沒人領情	mei ren ling qing	1537
+沒人要的貨	mei ren yao de huo	1100
+美上天了	mei shang tian le	323
+沒什麼兩樣	mei shen me liang yang	504
+沒水吃渴死人	mei shui chi ke si ren	1027
+沒一點情味	mei yi dian qing wei	1663
+沒影子	mei ying zi	823
+沒用處	mei yong chu	1532
+沒有出路	mei you chu lu	820
+沒有迴音	mei you hui yin	650
+沒有幾句	mei you ji ju	104
+沒有看出你來	mei you kan chu ni lai	232
+沒有熱乎勁	mei you re hu jin	190
+沒有日子了	mei you ri zi le	1661
+沒有一塊好的	mei you yi kuai hao de	220
+沒有用	mei you yong	755
+沒緣	mei yuan	769
+沒長勁	mei zhang jin	1004
+沒指望	mei zhi wang	847
+沒咒念	mei zhou nian	38
+沒準兒	mei zhun er	7
+門當戶對	men dang hu dui	1015
+悶起來了	men qi lai le	463
+懵門了	meng men le	897
+迷迷糊糊	mi mi hu hu	1586
+彌天大謊	mi tian da huang	94
+面面有用	mian mian you yong	536
+勉強不得	mian qiang bu de	1923
+面生	mian sheng	108
+明打明	ming da ming	350
+命根子	ming gen zi	1354
+明砍	ming kan	397
+明看不成器丟又捨不得	ming kan bu cheng qi diu you she bu de	1343
+摸不着底	mo bu zhao di	986
+摸出來的	mo chu lai de	315
+莫名其妙	mo ming qi miao	368
+莫想	mo xiang	1836
+莫須有	mo xu you	747
+木匠鋪里拉大鋸	mu jiang pu li la da ju	991
+目空一切	mu kong yi qie	272
+木偶流眼淚	mu ou liu yan lei	995
+牧人不刮鬍子	mu ren bu gua hu zi	1022
+木頭人過河	mu tou ren guo he	987
+拿菜刀哄孩子	na cai dao hong hai zi	961
+拿根麪條去上吊	na gen mian tiao qu shang diao	957
+哪還用言	na hai yong yan	330
+拿腦袋撞牆	na nao dai zhuang qiang	937
+拿烏龜當鍋蓋	na wu gui dang guo gai	941
+哪一壺不開單提哪一壺	na yi hu bu kai dan ti na yi hu	1785
+拿着車票進戲館子	na zhe che piao jin xi guan zi	953
+拿着碾盆打月亮	na zhe nian pen da yue liang	949
+拿着鐵鍬當鍋使	na zhe tie qiao dang guo shi	945
+奈何不得	nai he bu de	1864
+耐滑頭	nai hua tou	347
+難產	nan chan	938
+難纏	nan chan	1033
+難撐	nan cheng	1090
+難得	nan de	1328
+難得一回	nan de yi hui	737
+難分色	nan fen se	1008
+難逢	nan feng	1498
+難過	nan guo	1896
+難回頭	nan hui tou	1036
+難交	nan jiao	773
+難嚼難嚥	nan jiao nan yan	1177
+難看	nan kan	1683
+難劈	nan pi	102
+難通過	nan tong guo	1114
+難脫身	nan tuo shen	1209
+難下手	nan xia shou	1284
+難養活	nan yang huo	1240
+鬧個不停	nao ge bu ting	545
+鬧了個大窩脖	nao le ge da wo bo	1596
+腦門上開口	nao men shang kai kou	969
+腦門上長瘤	nao men shang zhang liu	965
+惱一個好一個	nao yi ge hao yi ge	1725
+鬧鐘打哈哈	nao zhong da ha ha	971
+哪吒戰小龍	ne zha zhan xiao long	973
+內行	nei hang	1341
+內外勾結	nei wai gou jie	878
+泥巴捏的小人	ni ba nie de xiao ren	967
+你吃雞鴨肉我啃窩窩頭	ni chi ji ya rou wo ken wo wo tou	916
+你東我西	ni dong wo xi	25
+逆風點火	ni feng dian huo	943
+泥佛爺的眼珠兒	ni fo ye de yan zhu er	963
+尼姑生孩子	ni gu sheng hai zi	927
+你來我去	ni lai wo qu	990
+你賣門神我賣鬼	ni mai men shen wo mai gui	919
+泥菩薩洗臉	ni pu sa xi lian	959
+你去南極我去北極	ni qu nan ji wo qu bei ji	912
+泥人經不起雨打	ni ren jing bu qi yu da	955
+泥神笑菩薩	ni shen xiao pu sa	951
+逆水行船	ni shui xing chuan	900
+逆水行舟	ni shui xing zhou	904
+你算哪一路	ni suan na yi lu	165
+膩透了	ni tou le	1372
+你行我也行	ni xing wo ye xing	1104
+你也好不了多少	ni ye hao bu liao duo shao	950
+你有秤桿我有砣	ni you cheng gan wo you tuo	923
+泥蒸的饅頭	ni zheng de man tou	947
+你做生意我教書	ni zuo sheng yi wo jiao shu	908
+年年都一樣	nian nian dou yi yang	1829
+碾盤對碾盤	nian pan dui nian pan	931
+拈輕怕重	nian qing pa zhong	611
+唸完了經打和尚	nian wan le jing da he shang	892
+攆走孤狸住上狼	nian zou gu li zhu shang lang	896
+鳥兒搬家	niao er ban jia	884
+鳥槍換炮	niao qiang huan pao	888
+捏死手中鳥	nie si shou zhong niao	890
+捏着鼻尖兒做夢	nie zhe bi jian er zuo meng	886
+寧折不彎	ning zhe bu wan	1578
+牛背上翻踉頭	niu bei shang fan liang tou	894
+牛犢子叫街	niu du zi jiao jie	898
+牛犢子上套	niu du zi shang tao	902
+牛皮鼓溼水	niu pi gu shi shui	906
+牛牽鼻子馬抓鬃	niu qian bi zi ma zhua zong	910
+牛頭不對馬嘴	niu tou bu dui ma zui	914
+牛羊的肚腹	niu yang de du fu	917
+弄不多柴禾	nong bu duo chai he	1256
+暖水瓶爆烈	nuan shui ping bao lie	933
+女孩子打架	nv hai zi da jia	921
+女人的手腕	nv ren de shou wan	925
+女婿認不得丈人	nv xu ren bu de zhang ren	929
+藕炒豆芽	ou chao dou ya	879
+漚爛的花生	ou lan de hua sheng	877
+偶像面前磕頭	ou xiang mian qian ke tou	881
+怕是真的	pa shi zhen de	158
+怕死碰見鬼子兵	pa si peng jian gui zi bing	815
+趴在磨子上睡覺	pa zai mo zi shang shui jiao	811
+拍照片不上卷	pai zhao pian bu shang juan	824
+判官拍照	pan guan pai zhao	837
+判官敲門	pan guan qiao men	841
+判官玩魔術	pan guan wan mo shu	845
+潘仁美掛帥	pan ren mei gua shuai	828
+盼月亮從西出	pan yue liang cong xi chu	848
+盤子裏生豆芽	pan zi li sheng dou ya	832
+胖大海掉進黃連水	pang da hai diao jin huang lian shui	863
+螃蟹過門檻	pang xie guo men kan	852
+螃蟹爬到路上	pang xie pa dao lu shang	856
+螃蟹上樹	pang xie shang shu	859
+胖子排橫隊	pang zi pai heng dui	867
+跑不了	pao bu liao	1572
+炮打林中鳥	pao da lin zhong niao	873
+跑得快	pao de kuai	32
+跑馬吃烤鴨	pao ma chi kao ya	871
+跑馬使絆子	pao ma shi ban zi	875
+配得起你	pei de qi ni	922
+噴雲吐霧	pen yun tu wu	1466
+碰了一鼻灰	peng le yi bi hui	1149
+捧着泥鰍玩	peng zhe ni qiu wan	869
+碰着啥咬啥	peng zhe sha yao sha	331
+屁股上掃帚	pi gu shang sao zhou	834
+屁股上捅一刀	pi gu shang tong yi dao	830
+披虎皮上山	pi hu pi shang shan	865
+皮匠不帶錐子	pi jiang bu dai zhui zi	854
+皮褲套棉褲	pi ku tao mian ku	850
+皮老心不老	pi lao xin bu lao	771
+琵琶斷了弦	pi pa duan le xian	858
+脾氣不一樣	pi qi bu yi yang	1743
+脾氣相投	pi qi xiang tou	1624
+皮球上戳眼眼	pi qiu shang chuo yan yan	846
+皮球上磨刀	pi qiu shang mo dao	843
+砒霜拌大蔥	pi shuang ban da cong	861
+皮鞋打蠟	pi xie da la	839
+便宜買回的處理品	pian yi mai hui de chu li pin	795
+騙子碰到騙子	pian zi peng dao pian zi	826
+貧血病人	pin xue bing ren	799
+平地搭梯子	ping di da ti zi	817
+瓶子裏的蒼蠅	ping zi li de cang ying	822
+破罐子破摔	po guan zi po shuai	813
+破棉襖套綢衫	po mian ao tao chou shan	809
+破廟裏的菩薩	po miao li de pu sa	805
+破土的春筍	po tu de chun sun	801
+破襪子補帽沿	po wa zi bu mao yan	797
+破網打魚	po wang da yu	793
+婆媳吵架兒子勸	po xi chao jia er zi quan	791
+破鞋幫	po xie bang	789
+破蒸籠蒸饅頭	po zheng long zheng man tou	787
+剖腹獻肝膽	pou fu xian gan dan	803
+剖魚得珠	pou yu de zhu	807
+葡萄汁充花露水	pu tao zhi chong hua lu shui	752
+撲騰不開	pu teng bu kai	160
+七八月的南瓜	qi ba yue de nan gua	772
+氣不打一處來	qi bu da yi chu lai	785
+七尺漢子六尺門	qi chi han zi liu chi men	784
+氣得嘣八丈高	qi de beng ba zhang gao	1716
+七顛八倒	qi dian ba dao	493
+乞丐過日子	qi gai guo ri zi	713
+乞丐跳舞	qi gai tiao wu	709
+漆黑一團	qi hei yi tuan	606
+齊桓公用管仲	qi huan gong yong guan zhong	726
+氣急敗壞	qi ji bai huai	1880
+起了心	qi le xin	1302
+騎驢看唱本	qi lv kan chang ben	754
+騎驢望着坐轎的	qi lv wang zhe zuo jiao de	758
+騎馬上天山	qi ma shang tian shan	742
+騎馬時間少擦鐙時間多	qi ma shi jian shao ca deng shi jian duo	761
+騎牛找牛	qi niu zhao niu	746
+棋盤裏的老將	qi pan li de lao jiang	717
+砌牆的磚頭	qi qiang de zhuan tou	1249
+七石缸裏撈芝麻	qi shi gang li lao zhi ma	768
+七手八腳	qi shou ba jiao	851
+齊頭並迸	qi tou bing beng	866
+七仙女嫁董永	qi xian nv jia dong yong	776
+騎着駱駝吃包子	qi zhe luo tuo chi bao zi	750
+起重機吊雞毛	qi zhong ji diao ji mao	705
+錢串子腦袋	qian chuan zi nao dai	744
+千斤頂幹活	qian jin ding gan huo	697
+千里送客	qian li song ke	701
+千里姻緣一線牽	qian li yin yuan yi xian qian	1842
+千年的大樹	qian nian de da shu	693
+千年的銅鐘	qian nian de tong zhong	689
+淺灘上放木排	qian tan shang fang mu pai	778
+錢塘江漲潮	qian tang jiang zhang chao	782
+前途光明	qian tu guang ming	147
+謙虛	qian xu	279
+錢也有權也有	qian ye you quan ye you	1787
+前有強敵後有追兵	qian you qiang di hou you zhui bing	780
+千真萬真	qian zhen wan zhen	1185
+強盜發善心	qiang dao fa shan xin	738
+強盜碰着賊爺爺	qiang dao peng zhe zei ye ye	721
+強盜照鏡子	qiang dao zhao jing zi	734
+強拉媳婦成親	qiang la xi fu cheng qin	730
+強人所難	qiang ren suo nan	663
+牆頭上的種白菜	qiang tou shang de zhong bai cai	774
+牆頭上種菜	qiang tou shang zhong cai	770
+強裝有本事	qiang zhuang you ben shi	132
+巧媳婦	qiao xi fu	766
+巧言哄人	qiao yan hong ren	341
+秦檜殺岳飛的罪名	qin hui sha yue fei de zui ming	748
+親肉一塊	qin rou yi kuai	1380
+秦叔寶的黃騾馬	qin shu bao de huang luo ma	723
+親員	qin yuan	1376
+輕而易舉	qing er yi ju	889
+清高	qing gao	387
+清了吧	qing le ba	74
+青石板上的青苔	qing shi ban shang de qing tai	695
+青石板上摔鳥龜	qing shi ban shang shuai niao gui	703
+青蛙吃黃蜂	qing wa chi huang feng	699
+青蛙過冬	qing wa guo dong	691
+青蛙求偶	qing wa qiu ou	687
+青蛙拴生鞭梢上	qing wa shuan sheng bian shao shang	715
+青娃望玉兔	qing wa wang yu tu	719
+青娃笑蝌蚪	qing wa xiao ke dou	711
+請小姨子作伴	qing xiao yi zi zuo ban	736
+蜻蜒點水魚打花	qing yan dian shui yu da hua	756
+青竹竿掏茅坑	qing zhu gan tao mao keng	707
+窮得叮噹響	qiong de ding dang xiang	1049
+窮鬼們聚到一塊了	qiong gui men ju dao yi kuai le	1687
+窮橫	qiong heng	222
+窮極了	qiong ji le	944
+窮快活	qiong kuai huo	708
+窮相畢露	qiong xiang bi lu	82
+窮壯膽	qiong zhuang dan	212
+求之不得	qiu zhi bu de	1390
+全靠別人施捨	quan kao bie ren shi she	712
+全落空	quan luo kong	415
+全憑手快	quan ping shou kuai	1276
+全憑一張嘴	quan ping yi zhang zui	560
+全是酸的	quan shi suan de	1500
+拳頭打跳蚤	quan tou da tiao zao	765
+蜷腿帶拱腰	quan tui dai gong yao	1679
+全仗嘴	quan zhang zui	559
+缺牙啃西瓜	que ya ken xi gua	740
+瘸子騎瞎驢	que zi qi xia lv	763
+瘸子走山路	que zi zou shan lu	759
+染布不勻	ran bu bu yun	637
+染坊的常客	ran fang de chang ke	680
+染坊的大缸	ran fang de da gang	603
+染房裏吹笛子	ran fang li chui di zi	683
+染坊裏的衣料	ran fang li de yi liao	635
+染缸裏的衣服	ran gang li de yi fu	678
+染缸裏落白布	ran gang li luo bai bu	682
+染匠的衣服	ran jiang de yi fu	676
+染匠下河	ran jiang xia he	632
+讓結巴念繞回令	rang jie ba nian rao hui ling	664
+讓了香瓜尋苦瓜	rang le xiang gua xun ku gua	630
+饒舌的鳥鴉	rao she de niao ya	685
+饒舌的烏鴉	rao she de wu ya	629
+熱鍋爆米花	re guo bao mi hua	627
+熱鍋裏的鴨子	re guo li de ya zi	602
+熱鍋上的螞蟻	re guo shang de ma yi	662
+熱鍋上的蒸籠	re guo shang de zheng long	626
+熱火盆裏抽火炭	re huo pen li chou huo tan	672
+熱炕頭上的白麪	re kang tou shang de bai mian	670
+熱面孔碰到冷毛巾	re mian kong peng dao leng mao jin	624
+熱情在裏頭	re qing zai li tou	1789
+熱水瓶	re shui ping	660
+熱水瓶脾氣	re shui ping pi qi	668
+熱水瓶上系索子	re shui ping shang xi suo zi	600
+熱蹄子馬	re ti zi ma	622
+熱窩炒豆子	re wo chao dou zi	674
+熱中送扇雪中送炭	re zhong song shan xue zhong song tan	658
+人把狗咬死了	ren ba gou yao si le	620
+人才市場填個表	ren cai shi chang tian ge biao	655
+人到矮檐下	ren dao ai yan xia	656
+人到古稀穿花衣	ren dao gu xi chuan hua yi	618
+人各有志	ren ge you zhi	907
+人急跳窗戶	ren ji tiao chuang hu	616
+人老心不老	ren lao xin bu lao	470
+人面鬼心	ren mian gui xin	1859
+任人擺佈	ren ren bai bu	633
+任人解剖	ren ren jie pou	88
+忍痛圖好看	ren tong tu hao kan	1607
+人熊傢伙笨	ren xiong jia huo ben	1450
+人在屋檐下	ren zai wu yan xia	614
+人在心不在	ren zai xin bu zai	729
+人造牛黃	ren zao niu huang	598
+任重道遠	ren zhong dao yuan	1611
+人走家散	ren zou jia san	112
+扔下討飯籃打乞丐	reng xia tao fan lan da qi gai	613
+扔下鐵錘拿燈草	reng xia tie chui na deng cao	612
+日出西山水倒流	ri chu xi shan shui dao liu	610
+日落西山	ri luo xi shan	653
+日子難過	ri zi nan guo	1366
+容不得半點火墾	rong bu de ban dian huo ken	1246
+絨毛鴨子剛下水	rong mao ya zi gang xia shui	647
+絨球打臉	rong qiu da lian	649
+絨球打鑼	rong qiu da luo	651
+肉案上的買賣	rou an shang de mai mai	609
+肉包子打狗	rou bao zi da gou	645
+肉骨頭擂大鼓	rou gu tou lei da gu	596
+肉骨頭落了鍋	rou gu tou luo le guo	641
+肉鍋裏煮元宵	rou guo li zhu yuan xiao	639
+肉爛在湯裏	rou lan zai tang li	643
+肉爛嘴不爛	rou lan zui bu lan	1207
+肉丸子掉迸煤堆裏	rou wan zi diao beng mei dui li	607
+柔中有剛	rou zhong you gang	452
+入伏的高梁	ru fu de gao liang	605
+如來佛的手心	ru lai fo de shou xin	594
+軟麪包餃子	ruan mian bao jiao zi	666
+軟弱無能	ruan ruo wu neng	1917
+軟中有硬	ruan zhong you ying	451
+撒了穀子拾稻草	sa le gu zi shi dao cao	566
+仨錢買匹馬	sa qian mai pi ma	568
+賽馬場上的冠軍	sai ma chang shang de guan jun	563
+三百斤的野豬	san bai jin de ye zhu	561
+三本經書掉了兩本	san ben jing shu diao le liang ben	558
+三岔口的地保	san cha kou de di bao	556
+三寸舌頭是軟的	san cun she tou shi ruan de	554
+三分錢買個臭豬蹄	san fen qian mai ge chou zhu ti	552
+三伏天的狗	san fu tian de gou	551
+三伏天的餿豆腐	san fu tian de sou dou fu	550
+三個鼻孔眼兒	san ge bi kong yan er	548
+三個醉漢撒酒瘋	san ge zui han sa jiu feng	546
+三根纜繩拴兩邊	san gen lan sheng shuan liang bian	544
+三顧茅廬	san gu mao lu	542
+三合板上雕花	san he ban shang diao hua	541
+三間瓦房不開門	san jian wa fang bu kai men	539
+三角挫刀	san jiao cuo dao	537
+三角磚頭	san jiao zhuan tou	535
+三斤半鴨子二斤半嘴	san jin ban ya zi er jin ban zui	533
+三九天吃梅子	san jiu tian chi mei zi	531
+三句話不離本行	san ju hua bu li ben hang	345
+三令五申	san ling wu shen	1853
+三五成羣	san wu cheng qun	1019
+三心二意	san xin er yi	1412
+喪膽	sang dan	932
+色厲內荏	se li nei ren	1157
+煞風景	sha feng jing	1438
+砂鍋裏的火藥	sha guo li de huo yao	1247
+扇陰風	shan yin feng	171
+上不着天下不着地	shang bu zhao tian xia bu zhao di	1488
+上帝保佑	shang di bao you	253
+上晃下搖	shang huang xia yao	98
+上了大當	shang le da dang	1348
+上臉	shang lian	1410
+上樑不正下樑歪	shang liang bu zheng xia liang wai	1130
+上氣不接下氣	shang qi bu jie xia qi	1844
+上下兩難	shang xia liang nan	1901
+燒不成個東西	shao bu cheng ge dong xi	1211
+少不了挨一刀	shao bu liao ai yi dao	126
+少見	shao jian	488
+少有	shao you	487
+設底兒	she di er	399
+神氣來了	shen qi lai le	110
+身子爛了踊頭還硬	shen zi lan le yong tou hai ying	1128
+生了外心	sheng le wai xin	1339
+士兵搭帳篷	shi bing da zhang peng	469
+實打實	shi da shi	930
+時高時低	shi gao shi di	1163
+屎殼郎打噴嚏	shi ke lang da pen ti	486
+屎殼郎戴面具	shi ke lang dai mian ju	482
+失面子	shi mian zi	958
+十拿九穩	shi na jiu wen	727
+屎尿多	shi niao duo	1147
+使偏勁	shi pian jin	543
+十五隻小船出海	shi wu zhi xiao chuan chu hai	494
+實心實意	shi xin shi yi	1545
+實心竹竿做笛子	shi xin zhu gan zuo di zi	592
+實心竹子做笛子	shi xin zhu zi zuo di zi	490
+十有九空	shi you jiu kong	1584
+施展不開	shi zhan bu kai	1394
+食之無味棄之可惜	shi zhi wu wei qi zhi ke xi	1779
+受潮的麻花	shou chao de ma hua	478
+手電筒沒燈泡	shou dian tong mei deng pao	472
+受了冷氣受熱氣	shou le leng qi shou re qi	1704
+瘦驢拉硬屎	shou lv la ying shi	574
+手捧雞蛋過河	shou peng ji dan guo he	476
+受人牽連	shou ren qian lian	1126
+瘦死的駱駝	shou si de luo tuo	572
+壽星出點子	shou xing chu dian zi	474
+壽星娶小	shou xing qu xiao	471
+瘦子光膀幾	shou zi guang bang ji	578
+樹不起來	shu bu qi lai	1318
+屬大腸的	shu da chang de	492
+熟得早	shu de zao	1576
+屬地瓜的	shu di gua de	480
+屬狗尾巴的	shu gou wei ba de	484
+熟螃蟹	shu pang xie	580
+樹梢上吹喇叭	shu shao shang chui la ba	496
+暑天下大雪	shu tian xia da xue	489
+樹葉子掉到河裏	shu ye zi diao dao he li	498
+熟一個蹦一個	shu yi ge beng yi ge	673
+樹樁上的鳥兒	shu zhuang shang de niao er	501
+耍滑頭	shua hua tou	868
+耍皮影子的	shua pi ying zi de	503
+甩不掉	shuai bu diao	1024
+甩不脫	shuai bu tuo	1023
+雙胞胎比長相	shuang bao tai bi chang xiang	507
+霜打的黃瓜	shuang da di huang gua	590
+霜打的麻葉	shuang da di ma ye	509
+雙喜臨門	shuang xi lin men	261
+水壺裏盛湯圓	shui hu li cheng tang yuan	512
+水浸菩薩	shui jin pu sa	527
+水裏的蛤蟆	shui li de ha ma	514
+水面打一棒	shui mian da yi bang	517
+水牛吃活蟹	shui niu chi huo xie	519
+水牛過河	shui niu guo he	522
+水泡豆子	shui pao dou zi	525
+水平太低	shui ping tai di	305
+水平有限	shui ping you xian	599
+水獺找泥鰍	shui ta zhao ni qiu	529
+誰擡你啊	shui tai ni a	1458
+誰也甭想逃出去	shui ye beng xiang tao chu qu	593
+誰也別說誰	shui ye bie shuo shui	1426
+誰也不吃虧	shui ye bu chi kui	642
+誰也不正眼看誰	shui ye bu zheng yan kan shui	1849
+誰有吃就跟誰走	shui you chi jiu gen shui zou	1360
+說不出個好處來	shuo bu chu ge hao chu lai	234
+說不出好話來	shuo bu chu hao hua lai	1490
+說不通	shuo bu tong	1613
+說得多	shuo de duo	1364
+說黑話	shuo hei hua	423
+說亮話	shuo liang hua	1681
+死不放	si bu fang	1649
+死不甘心	si bu gan xin	1254
+死不了人	si bu liao ren	956
+死不要臉	si bu yao lian	1667
+死盡忠心	si jin zhong xin	802
+死心眼兒	si xin yan er	1346
+送福	song fu	1628
+送來一口肉	song lai yi kou rou	1138
+素不相識	su bu xiang shi	151
+隨波逐流	sui bo zhu liu	497
+塌鼻子嫁個斜眼	ta bi zi jia ge xie yan	467
+塔頂散步	ta ding san bu	462
+塌鍋乾飯	ta guo gan fan	464
+踏死蛤蟆肚子脹	ta si ha ma du zi zhang	460
+太把自己看大了	tai ba zi ji kan da le	216
+擡棺材的掉褲子	tai guan cai de diao ku zi	457
+太極拳的功夫	tai ji quan de gong fu	453
+太監出家	tai jian chu jia	450
+太平洋搬家	tai ping yang ban jia	448
+太平洋上的警察	tai ping yang shang de jing cha	446
+泰山頂上唱大戲	tai shan ding shang chang da xi	436
+臺上唱戲臺下打鼾	tai shang chang xi tai xia da han	459
+太上老君開處方	tai shang lao jun kai chu fang	444
+太歲鄉頭坐	tai sui xiang tou zuo	442
+擡腿上樓梯	tai tui shang lou ti	455
+太陽地裏望星星	tai yang di li wang xing xing	438
+太陽底下點燈	tai yang di xia dian deng	440
+談崩了	tan beng le	857
+談不上	tan bu shang	1639
+貪吃不留種	tan chi bu liu zhong	429
+彈棉花胎的進官	tan mian hua tai de jin guan	419
+貪便宜	tan pian yi	1911
+炭篩子篩芝麻	tan shai zi shai zhi ma	416
+檀香木蓋茅坑	tan xiang mu gai mao keng	417
+談心不點燈	tan xin bu dian deng	424
+貪心鬼	tan xin gui	411
+癱子靠跛子	tan zi kao bo zi	434
+罈子裏的鹹菜	tan zi li de xian cai	422
+罈子裏和麪	tan zi li huo mian	421
+癱子請客	tan zi qing ke	431
+貪嘴的魚兒	tan zui de yu er	426
+躺在功勞簿上睡大覺	tang zai gong lao bu shang shui da jiao	414
+躺在棺材裏想金條	tang zai guan cai li xiang jin tiao	412
+躺着說話	tang zhe shuo hua	410
+討吃的喂猴	tao chi de wei hou	406
+討飯找馬騎	tao fan zhao ma qi	404
+陶工手裏的粘上	tao gong shou li de zhan shang	408
+討媳婦嫁女兒	tao xi fu jia nv er	402
+套袖改襪子	tao xiu gai wa zi	400
+騰雲駕霧	teng yun jia wu	1804
+替狗忙	ti gou mang	1134
+剃頭的動手	ti tou de dong shou	394
+剃頭匠發火	ti tou jiang fa huo	392
+提心吊膽	ti xin diao dan	343
+提着燈籠打柴	ti zhe deng long da chai	398
+提着口袋倒核桃	ti zhe kou dai dao he tao	396
+田埂上搭橋	tian geng shang da qiao	386
+甜果都從苦根來	tian guo dou cong ku gen lai	1510
+天黑敬菩薩	tian hei jing pu sa	390
+天花亂墜	tian hua luan zhui	1063
+天降良緣	tian jiang liang yuan	339
+田裏的莊稼	tian li de zhuang jia	384
+填滿肚子算事	tian man du zi suan shi	1169
+甜蜜	tian mi	1551
+天上的老鷹不吃髒東西	tian shang de lao ying bu chi zang dong xi	388
+田鼠走親戚	tian shu zou qin qi	382
+天天向上	tian tian xiang shang	604
+田頭訓子	tian tou xun zi	380
+天下奇聞	tian xia qi wen	1031
+挑燈草走路	tiao deng cao zou lu	378
+挑水騎單車	tiao shui qi dan che	376
+鐵面無私	tie mian wu si	1272
+鐵蛇掉井裏	tie she diao jing li	373
+聽見貓叫骨頭酥	ting jian mao jiao gu tou su	371
+聽啞巴唱戲	ting ya ba chang xi	369
+亭子裏談心	ting zi li tan xin	367
+同行	tong hang	918
+童養媳當媒人	tong yang xi dang mei ren	363
+同一個馬鞍上的人	tong yi ge ma an shang de ren	365
+偷吃的貓兒	tou chi de mao er	361
+偷吃海椒挨耳光	tou chi hai jiao ai er guang	359
+偷雞不成蝕把米	tou ji bu cheng shi ba mi	357
+偷雞摸蛋	tou ji mo dan	1518
+偷來的喇叭	tou lai de la ba	353
+頭破血流	tou po xue liu	936
+頭挑	tou tiao	1609
+頭頭是道	tou tou shi dao	1811
+突出	tu chu	1051
+屠夫說豬農夫說谷	tu fu shuo zhu nong fu shuo gu	346
+屠夫送禮	tu fu song li	344
+圖個乾脆	tu ge gan cui	1480
+土裏來泥裏去	tu li lai ni li qu	381
+土生土長	tu sheng tu zhang	383
+土腥味	tu xing wei	946
+禿子腦袋當玩具	tu zi nao dai dang wan ju	348
+禿子揍和尚	tu zi zou he shang	351
+團團轉	tuan tuan zhuan	661
+挖苦	wa ku	15
+挖一個少一個	wa yi ge shao yi ge	1882
+外辣裏軟	wai la li ruan	1112
+外面冷裏頭熱	wai mian leng li tou re	667
+外頭涼裏面熱	wai tou liang li mian re	659
+玩的騙人術	wan de pian ren shu	36
+晚了遲了	wan le chi le	62
+玩心不退	wan xin bu tui	405
+忘本	wang ben	1061
+枉費心機	wang fei xin ji	1400
+忘了自己從哪來了	wang le zi ji cong na lai le	710
+望洋興嘆	wang yang xing tan	51
+往最壞處想	wang zui huai chu xiang	134
+尾巴翹上天	wei ba qiao shang tian	1635
+爲的是嘴	wei de shi zui	1492
+威風掃地	wei feng sao di	1356
+爲民請命	wei min qing ming	1098
+未知經過多少風雨	wei zhi jing guo duo shao feng yu	1773
+蚊龍困在沙灘上	wen long kun zai sha tan shang	1357
+文明人不做文明事	wen ming ren bu zuo wen ming shi	247
+聞聲不見人	wen sheng bu jian ren	1288
+紋絲不動	wen si bu dong	1590
+窩脖	wo bo	601
+握不住	wo bu zhu	940
+無不識貨	wu bu shi huo	204
+無恥下流	wu chi xia liu	1428
+無出路	wu chu lu	821
+無痕跡	wu hen ji	515
+無可奈何	wu ke nai he	1863
+無奇不有	wu qi bu you	1030
+無牽無掛	wu qian wu gua	1659
+無情	wu qing	623
+無人買	wu ren mai	175
+無傷痕	wu shang hen	516
+無事不來	wu shi bu lai	1653
+無事生非	wu shi sheng fei	44
+武藝高	wu yi gao	375
+無依無靠	wu yi wu kao	816
+無用	wu yong	1531
+吸飽風的帆	xi bao feng de fan	237
+喜出望外	xi chu wang wai	806
+細吹細打	xi chui xi da	978
+稀飯鍋裏扔鐵砣	xi fan guo li reng tie tuo	299
+膝蓋頭套襪子	xi gai tou tao wa zi	297
+西瓜皮打鞋掌	xi gua pi da xie zhang	322
+西瓜皮做帽子	xi gua pi zuo mao zi	239
+細嚼饅咽	xi jiao man yan	259
+洗臉盆裏游泳	xi lian pen li you yong	306
+喜馬拉雅山上賣牛黃	xi ma la ya shan shang mai niu huang	291
+西門慶請武大郎	xi men qing qing wu da lang	320
+惜錢不治病	xi qian bu zhi bing	301
+喜鵲落頭上	xi que luo tou shang	289
+西山猛虎不咬人	xi shan meng hu bu yao ren	295
+西施坐飛機	xi shi zuo fei ji	324
+蟋蟀鬥公雞	xi shuai dou gong ji	336
+戲臺後頭的鑼鼓	xi tai hou tou de luo gu	287
+戲臺上拜天地	xi tai shang bai tian di	285
+戲臺上堵槍眼	xi tai shang du qiang yan	304
+嘻嘻哈哈年過十八	xi xi ha ha nian guo shi ba	303
+西廂記作枕頭	xi xiang ji zuo zhen tou	293
+戲園子失火	xi yuan zi shi huo	284
+惜債買藉吃	xi zhai mai ji chi	1383
+戲中有戲	xi zhong you xi	1350
+下不了口	xia bu liao kou	1504
+嚇不住人	xia bu zhu ren	9
+瞎逞能	xia cheng neng	573
+下大雪找蹄印	xia da xue zhao ti yin	271
+瞎打一陣	xia da yi zhen	1899
+下地不穿鞋	xia di bu chuan xie	269
+瞎姑娘戴眼鏡	xia gu niang dai yan jing	334
+嚇唬人	xia hu ren	864
+嚇唬人哩	xia hu ren li	648
+下轎打轎伕	xia jiao da jiao fu	267
+瞎了眼的癩皮狗	xia le yan de lai pi gou	332
+瞎妹子當媒人	xia mei zi dang mei ren	278
+蝦吞礁石	xia tun jiao shi	282
+瞎張羅	xia zhang luo	792
+瞎子背瞎子	xia zi bei xia zi	277
+瞎子吃黃瓜	xia zi chi huang gua	275
+瞎子打過獨林橋	xia zi da guo du lin qiao	314
+瞎子逛商店	xia zi guang shang dian	273
+蝦子過河	xia zi guo he	280
+瞎子夾豆腐	xia zi jia dou fu	312
+瞎子救人	xia zi jiu ren	318
+瞎子上街	xia zi shang jie	316
+閒不住	xian bu zhu	621
+鹹菜拌豆腐	xian cai ban dou fu	1243
+鹹菜缸裏養白螺	xian cai gang li yang bai luo	1241
+鹹菜煮豆腐	xian cai zhu dou fu	1245
+險乎得很	xian hu de hen	86
+閒話不少	xian hua bu shao	200
+鹹肉里加醬油	xian rou li jia jiang you	1237
+鹹魚落塘	xian yu luo tang	1239
+想不透	xiang bu tou	1588
+香臭不分	xiang chou bu fen	1045
+香臭難分	xiang chou nan fen	1044
+想得倒美	xiang de dao mei	1799
+想得寬	xiang de kuan	13
+享福又受苦	xiang fu you shou ku	1671
+象個人似的	xiang ge ren shi de	1468
+橡皮糖	xiang pi tang	310
+想沾點仙氣	xiang zhan dian xian qi	1524
+想轉了	xiang zhuan le	810
+小鬼的嘴裏都冒煙	xiao gui de zui li dou mao yan	1749
+小題大作	xiao ti da zuo	92
+小心過度	xiao xin guo du	475
+鞋底打掌	xie di da zhang	588
+鞋底抹油	xie di mo you	586
+鞋殼簍裏跑馬	xie ke lou li pao ma	582
+泄氣	xie qi	842
+鞋上繡金夙	xie shang xiu jin su	584
+心到神知	xin dao shen zhi	389
+新郎官戴孝	xin lang guan dai xiao	329
+新郎官揭蓋頭	xin lang guan jie gai tou	264
+新女婿請接生婆	xin nv xu qing jie sheng po	262
+新上門的姑爺	xin shang men de gu ye	326
+新上市的黃瓜	xin shang shi de huang gua	327
+心碎	xin sui	1452
+新媳婦吃飯	xin xi fu chi fan	260
+新媳婦哭公公	xin xi fu ku gong gong	235
+新學	xin xue	646
+心眼多	xin yan duo	1484
+心眼狹小	xin yan xia xiao	1080
+新衣服打補丁	xin yi fu da bu ding	570
+行不通	xing bu tong	1876
+行不通走不通	xing bu tong zou bu tong	1543
+杏花村的酒	xing hua cun de jiu	256
+興師動衆	xing shi dong zhong	1822
+星星跟着月亮走	xing xing gen zhe yue liang zou	258
+凶多吉少	xiong duo ji shao	1558
+胸前劃十字	xiong qian hua shi zi	254
+凶神惡煞	xiong shen e sha	46
+熊耍把戲狗叫喚	xiong shua ba xi gou jiao huan	252
+秀才的手中	xiu cai de shou zhong	250
+秀才偷筆	xiu cai tou bi	248
+秀才遇到虎	xiu cai yu dao hu	246
+繡花姑娘打架	xiu hua gu niang da jia	244
+羞死人	xiu si ren	456
+休想	xiu xiang	1835
+許不下羊羔許駱駝	xu bu xia yang gao xu luo tuo	342
+虛度年華	xu du nian hua	302
+虛情當成真意	xu qing dang cheng zhen yi	1268
+虛情假意	xu qing jia yi	994
+許仙碰着白娘子	xu xian peng zhe bai niang zi	340
+虛張聲勢	xu zhang sheng shi	1580
+宣統坐江山	xuan tong zuo jiang shan	308
+雪堆的假山	xue dui de jia shan	240
+薛仁貴的行頭	xue ren gui de xing tou	242
+薛仁貴徵東	xue ren gui zheng dong	338
+學人樣	xue ren yang	1512
+鴨棚的老漢睡懶覺	ya peng de lao han shui lan jiao	197
+眼饞	yan chan	1432
+言傳身教	yan chuan shen jiao	379
+菸袋鍋烤手	yan dai guo kao shou	191
+菸袋鍋裏煮飯	yan dai guo li zhu fan	193
+鹽堆裏爬出來的人	yan dui li pa chu lai de ren	201
+菸灰抹面皮	yan hui mo mian pi	195
+眼睛上出芽了	yan jing shang chu ya le	180
+眼裏的灰塵	yan li de hui chen	182
+醃蘿蔔拌黃瓜	yan luo bo ban huang gua	170
+閻王開店	yan wang kai dian	176
+閻王爺的扇子	yan wang ye de shan zi	172
+閻王爺做的芝麻餅	yan wang ye zuo de zhi ma bing	174
+唁閒嗑	yan xian ke	1320
+演員謝幕	yan yuan xie mu	209
+嚴陣以待	yan zhen yi dai	1296
+楊繼業數兒子	yang ji ye shu er zi	125
+養麥地裏藏禿子	yang mai di li cang tu zi	233
+養麥地裏抓王八	yang mai di li zhua wang ba	728
+羊羣裏跑出個駱駝	yang qun li pao chu ge luo tuo	123
+養在圈裏的豬	yang zai quan li de zhu	127
+楊志賣刀	yang zhi mai dao	205
+樣子神氣	yang zi shen qi	1183
+藥店裏招手	yao dian li zhao shou	137
+要飯的打狗	yao fan de da gou	223
+要飯的拿餅子	yao fan de na bing zi	221
+要飯的拿戳子	yao fan de na chuo zi	219
+腰桿子硬	yao gan zi ying	167
+腰裏別鋼筋	yao li bie gang jin	168
+腰裏別鐮刀	yao li bie lian dao	131
+腰裏掖着個扁擔	yao li ye zhe ge bian dan	129
+藥鋪裏賣棺材	yao pu li mai guan cai	135
+妖言惑衆	yao yan huo zhong	1855
+要也不是不要也不是	yao ye bu shi bu yao ye bu shi	926
+咬着鐵棍還說牙齒硬	yao zhe tie gun hai shuo ya chi ying	133
+夜不關門	ye bu guan men	213
+葉公好龍	ye gong hao long	159
+夜壺打了把	ye hu da le ba	215
+夜壺裏洗澡	ye hu li xi zao	161
+爺見孫貓見竄	ye jian sun mao jian cuan	162
+野狸子舔虎鼻樑	ye li zi tian hu bi liang	187
+野牛闖進火海里	ye niu chuang jin huo hai li	184
+野獸當家	ye shou dang jia	186
+夜鶯配鸚鵡	ye ying pei ying wu	139
+掖着個孫悟空	ye zhe ge sun wu kong	189
+一輩子出不了頭	yi bei zi chu bu liao tou	479
+一本正經	yi ben zheng jing	557
+一步登天	yi bu deng tian	796
+一觸即發	yi chu ji fa	393
+一觸即跳	yi chu ji tiao	1884
+一吹就散	yi chui jiu san	1763
+一錯再錯	yi cuo zai cuo	1167
+一對醜	yi dui chou	465
+一付壞心腸	yi fu huai xin chang	1187
+一個比一個難看	yi ge bi yi ge nan kan	1002
+一個比一個兇	yi ge bi yi ge xiong	1223
+一個不留	yi ge bu liu	395
+一個刁一個滑	yi ge diao yi ge hua	528
+一個更比一個兇	yi ge geng bi yi ge xiong	1122
+一個師父一路拳	yi ge shi fu yi lu quan	157
+一個樣	yi ge yang	505
+一個願打一個願挨	yi ge yuan da yi ge yuan ai	106
+以功爲守	yi gong wei shou	1336
+一鼓作氣	yi gu zuo qi	513
+一鬨而散	yi hong er san	872
+一夥更比一夥兇	yi huo geng bi yi huo xiong	895
+一節也不通	yi jie ye bu tong	1560
+一進一出	yi jin yi chu	401
+一舉兩得	yi ju liang de	1547
+一溜二抹	yi liu er mo	1414
+一馬當先	yi ma dang xian	562
+一模一樣	yi mo yi yang	506
+姨奶奶的枕頭鳳	yi nai nai de zhen tou feng	202
+一年不如一年	yi nian bu ru yi nian	1181
+一篇大道理	yi pian da dao li	1173
+一竅不通	yi qiao bu tong	1598
+一去不回頭	yi qu bu hui tou	644
+一時光	yi shi guang	838
+一雙腳踏兩隻船	yi shuang jiao ta liang zhi chuan	155
+一攤泥	yi tan ni	526
+一套一套的	yi tao yi tao de	1831
+一條心	yi tiao xin	1871
+一頭滿意	yi tou man yi	1217
+一推就倒	yi tui jiu dao	1374
+一拖再拖	yi tuo zai tuo	777
+一窩不如一窩	yi wo bu ru yi wo	1424
+一窩孫	yi wo sun	1456
+一瀉千里	yi xie qian li	1290
+以怨報德	yi yuan bao de	265
+引火上身	yin huo shang shen	1795
+硬按公雞下蛋	ying an gong ji xia dan	231
+硬棒槌彈棉花	ying bang chui tan mian hua	225
+硬撐市面	ying cheng shi mian	1322
+鷹飛藍天走夜路	ying fei lan tian zou ye lu	211
+硬牛皮	ying niu pi	229
+硬碰硬	ying peng ying	702
+硬欺負人	ying qi fu ren	1755
+硬往上貼	ying wang shang tie	587
+硬往死裏逼	ying wang si li bi	1539
+硬要麻雀生鵝蛋	ying yao ma que sheng e dan	227
+蠅子見了血	ying zi jian le xue	207
+永不回頭	yong bu hui tou	521
+又長又臭	you chang you chou	1151
+有吹的了	you chui de le	1809
+又刺又痛	you ci you tong	1000
+有點五葷六素	you dian wu hun liu su	595
+有點硬功夫	you dian ying gong fu	893
+有點自大	you dian zi da	1282
+有肚量	you du liang	1714
+又毒又辣	you du you la	860
+又惡又蠢	you e you chun	1165
+又高又貴	you gao you gui	290
+有根有據	you gen you ju	998
+有功之臣	you gong zhi chen	418
+有貨倒不出	you huo dao bu chu	510
+有假無真	you jia wu zhen	294
+有勁使不上	you jin shi bu shang	1286
+有來有往	you lai you wang	1706
+有了把柄	you le ba bing	1731
+有力無處使	you li wu chu shi	518
+有命沒毛	you ming mei mao	183
+有你不多沒你不少	you ni bu duo mei ni bu shao	1669
+有去無回	you qu wu hui	1076
+由人擺佈	you ren bai bu	634
+有日子的人了	you ri zi de ren le	1675
+有聲有色	you sheng you se	1440
+又屬百靈鳥又屬袋鼠	you shu bai ling niao you shu dai shu	141
+有無地之別	you wu di zhi bie	718
+有眼不識泰山	you yan bu shi tai shan	928
+有眼無珠	you yan wu zhu	1388
+有言在先	you yan zai xian	1242
+有也不多	you ye bu duo	1404
+有用是親無用是仇	you yong shi qin wu yong shi chou	891
+玉皇大帝拜財神一有錢大三輩	yu huang da di bai cai shen yi you qian da san bei	144
+魚簍裏的螃蟹	yu lou li de pang xie	164
+魚盆裏的螃蟹	yu pen li de pang xie	166
+遇上了好人	yu shang le hao ren	1314
+漁網當傘	yu wang dang san	178
+與我無關	yu wo wu guan	1026
+雨夜打燈籠	yu ye da deng long	143
+與衆不同	yu zhong bu tong	1824
+遠處有燈	yuan chu you deng	148
+袁世凱當皇帝	yuan shi kai dang huang di	199
+冤枉死人	yuan wang si ren	1685
+圓珠筆蘸墨水一多事	yuan zhu bi zhan mo shui yi duo shi	203
+圓桌會議	yuan zhuo hui yi	146
+遠走高飛	yuan zou gao fei	1418
+越吃越糟	yue chi yue zao	1108
+越打越下	yue da yue xia	1179
+越彈越亂	yue dan yue luan	224
+越管越光	yue guan yue guang	1145
+越來越兇	yue lai yue xiong	1420
+月亮當鏡子	yue liang dang jing zi	217
+月亮下看書	yue liang xia kan shu	150
+越摸越翹	yue mo yue qiao	483
+越鬧越臭	yue nao yue chou	76
+越弄越糟	yue nong yue zao	1817
+越數越少	yue shu yue shao	124
+越掏越臭	yue tao yue chou	706
+越小越兇	yue xiao yue xiong	982
+越選越差	yue xuan yue cha	1316
+雲裏張口袋	yun li zhang kou dai	154
+雲南老虎蒙古駱駝	yun nan lao hu meng gu luo tuo	152
+砸鍋賣鐵	za guo mai tie	91
+雜貨鋪卸貨	za huo pu xie huo	121
+雜種	za zhong	1011
+宰個鴿鴿也要請屠夫提刀	zai ge ge ge ye yao qing tu fu ti dao	93
+在劫難逃	zai jie nan tao	814
+宰相的千金皇帝的女	zai xiang de qian jin huang di de nv	119
+再也洗不清	zai ye xi bu qing	681
+再吟詩也跑不脫	zai yin shi ye pao bu tuo	245
+髒水罐子掉到茅坑裏	zang shui guan zi diao dao mao keng li	77
+早春的桃花	zao chun de tao hua	117
+棗核兒解板	zao he er jie ban	105
+遭驢拉重協	zao lv la zhong xie	576
+竈門前拿竹筒	zao men qian na zhu tong	115
+棗木做燒柴	zao mu zuo shao chai	103
+早晚要飛	zao wan yao fei	500
+早晚要炸	zao wan yao zha	1673
+竈王爺上尺	zao wang ye shang chi	111
+竈王爺貼在腿肚上	zao wang ye tie zai tui du shang	113
+賊過才張弓	zei guo cai zhang gong	63
+賊頭賊腦	zei tou zei nao	733
+賊娃子拾東西	zei wa zi shi dong xi	61
+扎不下根	zha bu xia gen	694
+蚱蜢碰上雞	zha meng peng shang ji	59
+紮實	zha shi	1444
+齋公吃羊肉	zhai gong chi yang rou	58
+債主找到了負債的	zhai zhu zhao dao le fu zhai de	75
+站不穩	zhan bu wen	1416
+斬草不除根	zhan cao bu chu gen	56
+粘豆粥糊鍋	zhan dou zhou hu guo	939
+沾光	zhan guang	257
+粘米煮山芋	zhan mi zhu shan yu	935
+沾你的光了	zhan ni de guang le	149
+粘牙的燒餅	zhan ya de shao bing	109
+站在岸邊看翻船	zhan zai an bian kan fan chuan	54
+站在海邊打咳聲	zhan zai hai bian da ke sheng	52
+站在河岸撈月亮	zhan zai he an lao yue liang	73
+沾沾自喜	zhan zhan zi xi	413
+站着身子正	zhan zhe shen zi zheng	71
+戰爭販子唱和平	zhan zheng fan zi chang he ping	50
+張飛擺屠案	zhang fei bai tu an	47
+張飛的媽媽	zhang fei de ma ma	45
+張果老騎驢	zhang guo lao qi lv	4
+長了兔子腿	zhang le tu zi tui	33
+張驢兒上公堂	zhang lv er shang gong tang	43
+丈母孃跺腳	zhang mu niang duo jiao	31
+張生回頭望鶯鶯	zhang sheng hui tou wang ying ying	41
+張天師得了啞病	zhang tian shi de le ya bing	39
+張天師畫符	zhang tian shi hua fu	37
+張勳復辟	zhang xun fu bi	35
+找錯了人	zhao cuo le ren	1592
+趙匡胤穿龍袍	zhao kuang yin chuan long pao	24
+照明彈上天	zhao ming dan shang tian	28
+找死	zhao si	1761
+趙雲大戰長板坡	zhao yun da zhan chang ban po	22
+照住屁股蹬一腳	zhao zhu pi gu deng yi jiao	26
+這把骨頭不知往哪	zhe ba gu tou bu zhi wang na	870
+遮不住陽光	zhe bu zhu yang guang	177
+這山看着那山高	zhe shan kan zhe na shan gao	20
+砧板上的魚	zhen ban shang de yu	89
+偵察員破案	zhen cha yuan po an	18
+針鋒相對	zhen feng xiang dui	243
+真好	zhen hao	853
+真靈	zhen ling	1751
+針挑黃連	zhen tiao huang lian	16
+真相大白	zhen xiang da bai	263
+枕着扁擔睡覺	zhen zhe bian dan shui jiao	14
+正大光明	zheng da guang ming	1828
+正合適	zheng he shi	138
+整筐丟西瓜	zheng kuang diu xi gua	101
+正是時候	zheng shi shi hou	1270
+睜眼瞎看告示	zheng yan xia kan gao shi	12
+睜隻眼閉隻眼	zheng zhi yan bi zhi yan	1689
+直尺量曲線	zhi chi liang qu xian	8
+知道遲到了	zhi dao chi dao le	1260
+知道你是哪塊地裏有呢	zhi dao ni shi na kuai di li you ne	1434
+趾高氣揚	zhi gao qi yang	495
+紙糊的老虎	zhi hu de lao hu	10
+只可遠看不能近瞧	zhi ke yuan kan bu neng jin qiao	1140
+肢皮人烤火	zhi pi ren kao huo	1371
+只說不練的把式	zhi shuo bu lian de ba shi	6
+只圖表面好看	zhi tu biao mian hao kan	1042
+只圖眼前快活	zhi tu yan qian kuai huo	1534
+指望不上	zhi wang bu shang	230
+直性子對直性子	zhi xing zi dui zhi xing zi	1406
+只有三年	zhi you san nian	307
+只有一個心眼	zhi you yi ge xin yan	1647
+指着禿子罵和尚	zhi zhe tu zi ma he shang	2
+置之不理	zhi zhi bu li	391
+周瑜打黃蓋	zhou yu da huang gai	107
+皺皺巴巴的	zhou zhou ba ba de	589
+主次不分	zhu ci bu fen	564
+諸葛亮弔孝	zhu ge liang diao xiao	67
+諸葛亮三氣周瑜	zhu ge liang san qi zhou yu	65
+諸葛亮用空城計	zhu ge liang yong kong cheng ji	69
+煮熟的鴨子飛上天	zhu shu de ya zi fei shang tian	95
+抓小辮子	zhua xiao bian zi	920
+抓住了關鍵	zhua zhu le guan jian	909
+拽着樹葉打滴溜	zhuai zhe shu ye da di liu	87
+裝百子	zhuang bai zi	808
+裝瘋	zhuang feng	153
+裝滑頭	zhuang hua tou	238
+裝模作樣	zhuang mo zuo yang	66
+裝什麼蒜	zhuang shen me suan	1759
+裝相	zhuang xiang	1494
+裝樣	zhuang yang	1657
+追查到底	zhui cha dao di	1294
+桌子縫裏舔芝麻	zhuo zi feng li tian zhi ma	83
+桌子上唱大戲	zhuo zi shang chang da xi	85
+自暴自棄	zi bao zi qi	812
+自吹	zi chui	1368
+自大	zi da	524
+自焚	zi fen	942
+自顧不暇	zi gu bu xia	362
+自己跟自己過不去	zi ji gen zi ji guo bu qu	300
+自己嚇唬自己	zi ji xia hu zi ji	1700
+自來紅	zi lai hong	1516
+自鳴得意	zi ming de yi	970
+自騎自誇	zi qi zi kua	567
+自身難保	zi shen nan bao	1482
+自討苦吃	zi tao ku chi	1820
+自我膨脹	zi wo peng zhang	523
+自我推銷	zi wo tui xiao	654
+自找苦吃	zi zhao ku chi	1819
+自找麻煩	zi zhao ma fan	1191
+自找難看	zi zhao nan kan	1084
+總有一別	zong you yi bie	700
+走不動	zou bu dong	206
+走不通	zou bu tong	1875
+走錯了門	zou cuo le men	992
+走到哪兒於到哪兒	zou dao na er yu dao na er	130
+走的是一個方向	zou de shi yi ge fang xiang	364
+走對了路子	zou dui le lu zi	1739
+走路算賬	zou lu suan zhang	1791
+走投無路	zou tou wu lu	461
+鑽不進	zuan bu jin	1071
+鑽進鳥籠裏的貓	zuan jin niao long li de mao	81
+鑽子頭上加鋼針	zuan zi tou shang jia gang zhen	79
+嘴饞上了當	zui chan shang le dang	80
+醉漢過鐵索橋	zui han guo tie suo qiao	99
+醉翁之意不在酒	zui weng zhi yi bu zai jiu	97
+坐不穩	zuo bu wen	1603
+坐不住	zuo bu zhu	1602
+坐等	zuo deng	430
+作用不全	zuo yong bu quan	1298

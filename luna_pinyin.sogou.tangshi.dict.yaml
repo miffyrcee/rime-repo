@@ -1,0 +1,3577 @@
+# Rime Sogou
+# encoding: utf-8
+#
+# name: 唐詩300首【官方推薦】
+# type: 詩詞歌賦
+# description: 包含唐詩300首的所有詩人、詩名、詩句。
+# example: 張九齡 側見雙翠鳥 弋者何所慕 欣欣此生意 誰知林棲者 聞風坐相悅
+#
+---
+name: luna_pinyin.sogou.tangshi
+version: "1575343485814"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+哀江頭	ai jiang tou	1691
+唉乃一聲山水綠	ai nai yi sheng shan shui lv	2324
+哀弱羽之飄零	ai ruo yu zhi piao ling	1563
+哀王孫	ai wang sun	1670
+哀哉王孫慎勿疏	ai zai wang sun shen wu shu	1643
+黯黯見臨洮	an an jian lin tao	3042
+安禪製毒龍	an chan zhi du long	1298
+安得至老不更歸	an de zhi lao bu geng gui	2458
+安能摧眉折腰事權貴	an neng cui mei zhe yao shi quan gui	2768
+安能以此上論列	an neng yi ci shang lun lie	2332
+安知峯壑今來變	an zhi feng he jin lai bian	1904
+安置妥帖平不頗	an zhi tuo tie ping bu po	2347
+罷官昨日今如何	ba guan zuo ri jin ru he	2911
+罷歸無舊業	ba gui wu jiu ye	1176
+把劍覓徐君	ba jian mi xu jun	1371
+拔劍四顧心茫然	ba jian si gu xin mang ran	1826
+芭蕉葉大梔子肥	ba jiao ye da zhi zi fei	2474
+把酒話桑麻	ba jiu hua sang ma	1229
+巴人訟芋田	ba ren song yu tian	1291
+罷如江海凝清光	ba ru jiang hai ning qing guang	2526
+巴山道中除夜有懷	ba shan dao zhong chu ye you huai	887
+灞上秋居	ba shang qiu ju	916
+灞原風雨定	ba yuan feng yu ding	915
+八月蝴蝶來	ba yue hu die lai	2973
+八月湖水平	ba yue hu shui ping	1270
+八月十五夜贈張功曹	ba yue shi wu ye zeng zhang gong cao	2457
+八月蕭關道	ba yue xiao guan dao	3053
+八陣圖	ba zhen tu	299
+白波九道流雪山	bai bo jiu dao liu xue shan	2822
+百步九折縈巖巒	bai bu jiu zhe ying yan luan	1882
+白帝城邊古木疏	bai di cheng bian gu mu shu	785
+白髮悲花落	bai fa bei hua luo	1495
+白髮催年老	bai fa cui nian lao	1239
+白骨亂蓬蒿	bai gu luan peng hao	3038
+白居易	bai ju yi	2321
+白狼河北音書斷	bai lang he bei yin shu duan	357
+白馬嚼齧黃金勒	bai ma jiao nie huang jin le	1681
+白門寥落意多違	bai men liao luo yi duo wei	423
+百年都是幾多時	bai nian dou shi ji duo shi	512
+百年多病獨登臺	bai nian duo bing du deng tai	696
+白日登山望烽火	bai ri deng shan wang feng huo	1994
+白日放歌須縱酒	bai ri fang ge xu zong jiu	705
+白日落梁州	bai ri luo liang zhou	893
+白日依山盡	bai ri yi shan jin	292
+白首臥鬆雲	bai shou wo song yun	1487
+白水繞東城	bai shui rao dong cheng	1471
+白頭宮女在	bai tou gong nv zai	242
+白頭搔更短	bai tou sao geng duan	1430
+白雪歌送武判官歸京	bai xue ge song wu pan guan gui jing	2707
+白雲回望合	bai yun hui wang he	1321
+白雲千載空悠悠	bai yun qian zai kong you you	834
+白雲無盡時	bai yun wu jin shi	3383
+白雲依靜渚	bai yun yi jing zhu	1158
+半壁見海日	ban bi jian hai ri	2794
+半夜軍行戈相撥	ban ye jun xing ge xiang bo	2734
+斑騅只系垂楊岸	ban zhui zhi xi chui yang an	410
+傍鄰聞者多嘆息	bang lin wen zhe duo tan xi	2864
+報答平生未展眉	bao da ping sheng wei zhan mei	506
+報到山中去	bao dao shan zhong qu	841
+報得三春輝	bao de san chun hui	2951
+褒公鄂公毛髮動	bao gong e gong mao fa dong	2637
+寶扇迎歸九華帳	bao shan ying gui jiu hua zhang	1974
+北斗兼春遠	bei dou jian chun yuan	940
+北斗闌干南鬥斜	bei dou lan gan nan dou xie	84
+北斗七星高	bei dou qi xing gao	204
+北風江上寒	bei feng jiang shang han	1197
+北風捲地白草折	bei feng juan di bai cao zhe	2706
+碑高三丈字如鬥	bei gao san zhang zi ru dou	2048
+背後何所見	bei hou he suo jian	1709
+北極朝庭終不改	bei ji chao ting zhong bu gai	688
+北青蘿	bei qing luo	936
+被驅不異犬與雞	bei qu bu yi quan yu ji	1733
+北闕休上書	bei que xiu shang shu	1243
+北山白雲裏	bei shan bai yun li	3325
+北土非吾願	bei tu fei wu yuan	1223
+本長安倡女	ben chang an chang nv	2190
+奔湊如朝東	ben cou ru chao dong	3228
+奔流到海不復回	ben liu dao hai bu fu hui	1781
+本以高難飽	ben yi gao nan bao	971
+崩年亦在永安宮	beng nian yi zai yong an gong	639
+迸泉颯颯飛木末	beng quan sa sa fei mu mo	2875
+彼何人哉軒與羲	bi he ren zai xuan yu xi	2081
+碧文圓頂夜深縫	bi wen yuan ding ye shen feng	415
+遍插茱萸少一人	bian cha zhu yu shao yi ren	143
+變調如聞楊柳春	bian diao ru wen yang liu chun	2854
+邊亭流血成海水	bian ting liu xue cheng hai shui	1741
+邊庭飄搖那可度	bian ting piao yao na ke du	2003
+便下襄陽向洛陽	bian xia xiang yang xiang luo yang	703
+遍飲坐者	bian yin zuo zhe	2498
+便至四十西營田	bian zhi si shi xi ying tian	1744
+表曰臣愈昧死上	biao yue chen yu mei si shang	2050
+別房太尉墓	bie fang tai wei mu	1377
+別來滄海事	bie lai cang hai shi	1061
+別離在今晨	bie li zai jin chen	3087
+別時茫茫江浸月	bie shi mang mang jiang jin yue	2167
+別意與之誰短長	bie yi yu zhi shui duan chang	2760
+別有幽愁暗恨生	bie you you chou an hen sheng	2142
+賓從雜沓實要津	bin cong za ta shi yao jin	1698
+鬢髮各已蒼	bin fa ge yi cang	3468
+鬢絲生幾縷	bin si sheng ji lv	3129
+兵車行	bing che xing	1755
+稟君子	bing jun zi	1591
+柄任儒術崇丘軻	bing ren ru shu chong qiu ke	2333
+兵衛森畫戟	bing wei sen hua ji	3175
+冰崖轉石萬壑雷	bing ya zhuan shi wan he lei	1870
+波撼岳陽城	bo han yue yang cheng	1267
+薄宦梗猶泛	bo huan geng you fan	967
+波瀾動遠空	bo lan dong yuan kong	1282
+波瀾誓不起	bo lan shi bu qi	2959
+薄暮空潭曲	bo mu kong tan qu	1299
+薄暮漁樵乘水入	bo mu yu qiao cheng shui ru	1913
+泊秦淮	bo qin huai	6
+波上馬嘶看棹去	bo shang ma si kan zhao qu	397
+伯仲之間見伊呂	bo zhong zhi jian jian yi lv	627
+不哀傷而自怨	bu ai shang er zi yuan	1572
+不把雙眉鬥畫長	bu ba shuang mei dou hua chang	365
+不辨仙源何處尋	bu bian xian yuan he chu xun	1900
+不才明主棄	bu cai ming zhu qi	1241
+不重生男重生女	bu chong sheng nan chong sheng nv	2294
+步出東齋讀	bu chu dong zhai du	3076
+不得到遼西	bu de dao liao xi	207
+不得顧采薇	bu de gu cai wei	3379
+不得收骨肉	bu de shou gu rou	3441
+不犯此	bu fan ci	3208
+不敢長語臨交衢	bu gan chang yu lin jiao qu	1653
+不敢過臨洮	bu gan guo lin tao	201
+不敢問來人	bu gan wen lai ren	213
+不敢倚先賢	bu gan yi xian xian	1289
+不見長安見塵霧	bu jian chang an jian chen wu	2214
+不見玉顏空死處	bu jian yu yan kong si chu	2266
+不盡長江滾滾來	bu jin chang jiang gun gun lai	698
+不據山河據平地	bu ju shan he ju ping di	2076
+不覺碧山暮	bu jue bi shan mu	1457
+不覺已鳴鴉	bu jue yi ming ya	1098
+不堪人事日蕭條	bu kan ren shi ri xiao tiao	711
+不堪盈手贈	bu kan ying shou zeng	1624
+不肯低頭在草莽	bu ken di tou zai cao mang	2921
+不露文章世已驚	bu lu wen zhang shi yi jing	2569
+不能廢人運酒舫	bu neng fei ren yun jiu fang	2482
+不能聽終淚如雨	bu neng ting zhong lei ru yu	2451
+不寢聽金鑰	bu qin ting jin yao	1423
+不是宸遊玩物華	bu shi chen you wan wu hua	756
+不似潁川空使酒	bu si ying chuan kong shi jiu	1941
+不惜珊瑚持與人	bu xi shan hu chi yu ren	1970
+不信妾腸斷	bu xin qie chang duan	1832
+步行奪得胡馬騎	bu xing duo de hu ma qi	1959
+不以道昏而昧其視	bu yi dao hun er mei qi shi	1582
+不疑靈境難聞見	bu yi ling jing nan wen jian	1909
+不以俗厚而易其真	bu yi su hou er yi qi zhen	1580
+不知何處吹蘆管	bu zhi he chu chui lu guan	63
+不知香積寺	bu zhi xiang ji si	1305
+不知心恨誰	bu zhi xin hen shui	300
+不自著羅衣	bu zi zhu luo yi	3334
+採柏動盈掬	cai bai dong ying ju	3427
+才薄將奈石鼓何	cai bo jiang nai shi gu he	2391
+裁縫寄遠道	cai feng ji yuan dao	2998
+纔可容顏十五餘	cai ke rong yan shi wu yu	1980
+蔡女昔造胡笳聲	cai nv xi zao hu jia sheng	2898
+採桑綠水邊	cai sang lv shui bian	3022
+採山因買斧	cai shan yin mai fu	3133
+蠶叢及魚鳧	can cong ji yu fu	1895
+蠶飢妾欲去	can ji qie yu qu	3019
+蠶眠桑葉稀	can mian sang ye xi	3347
+殘宵猶得夢依稀	can xiao you de meng yi xi	419
+殘陽西入崦	can yang xi ru yan	935
+殘螢棲玉露	can ying qi yu lu	977
+殘月下章臺	can yue xia zhang tai	854
+殘雲歸太華	can yun gui tai hua	986
+殘鍾廣陵樹	can zhong guang ling shu	3151
+蒼蒼橫翠微	cang cang heng cui wei	3517
+蒼蒼竹林寺	cang cang zhu lin si	287
+滄海月明珠有淚	cang hai yue ming zhu you lei	482
+滄江好煙月	cang jiang hao yan yue	992
+滄江急夜流	cang jiang ji ye liu	1215
+蒼茫古木連窮巷	cang mang gu mu lian qiong xiang	1944
+蒼茫雲海間	cang mang yun hai jian	3035
+蒼然滿關中	cang ran man guan zhong	3224
+蒼山夾亂流	cang shan jia luan liu	901
+嘈嘈切切錯雜彈	cao cao qie qie cuo za dan	2148
+草木有本心	cao mu you ben xin	3544
+草色新雨中	cao se xin yu zhong	3271
+側見雙翠鳥	ce jian shuang cui niao	3559
+側身西望常諮嗟	ce shen xi wang chang zi jie	1856
+參差連曲陌	cen ci lian qu mo	951
+岑夫子	cen fu zi	1772
+岑參	cen shen	3241
+曾貌先帝照夜白	ceng mao xian di zhao ye bai	2683
+曾驅十萬師	ceng qu shi wan shi	1177
+曾是寂寥金燼暗	ceng shi ji liao jin jin an	412
+差池不相見	cha chi bu xiang jian	3273
+釵擘黃金合分鈿	chai bo huang jin he fen dian	2210
+豺狼在邑龍在野	chai lang zai yi long zai ye	1655
+釵留一股合一扇	chai liu yi gu he yi shan	2211
+禪房花木深	chan fang hua mu shen	1505
+蟬鳴空桑林	chan ming kong sang lin	3054
+蟬休露滿枝	chan xiu lu man zhi	943
+單于獵火照狼山	chan yu lie huo zhao lang shan	2016
+單于夜遁逃	chan yu ye dun tao	173
+單于已在金山西	chan yu yi zai jin shan xi	2722
+讒之天子言其私	chan zhi tian zi yan qi si	2045
+長安城連東掖垣	chang an cheng lian dong ye yuan	2873
+長安城頭頭白烏	chang an cheng tou tou bai wu	1669
+長安水邊多麗人	chang an shui bian duo li ren	1716
+長安一片月	chang an yi pian yue	3009
+長安遇馮著	chang an yu feng zhu	3137
+長飆風中自來往	chang biao feng zhong zi lai wang	2861
+常存抱柱信	chang cun bao zhu xin	2983
+長簟迎風早	chang dian ying feng zao	1105
+腸斷未忍掃	chang duan wei ren sao	949
+長風吹林雨墮瓦	chang feng chui lin yu duo wa	2876
+長風幾萬裏	chang feng ji wan li	3034
+長風連日作大浪	chang feng lian ri zuo da lang	2483
+長風破浪會有時	chang feng po lang hui you shi	1818
+長風萬里送秋雁	chang feng wan li song qiu yan	2754
+長幹行	chang gan xing	2996
+長幹行二首之二	chang gan xing er shou zhi er	195
+長幹行二首之一	chang gan xing er shou zhi yi	200
+長歌楚天碧	chang ge chu tian bi	3057
+長戈利矛日可麾	chang ge li mao ri ke hui	2075
+長歌吟松風	chang ge yin song feng	3510
+長河浪頭連天黑	chang he lang tou lian tian hei	2916
+長恨歌	chang hen ge	2320
+常建	chang jian	3251
+長江獨至今	chang jiang du zhi jin	1181
+長江一帆遠	chang jiang yi fan yuan	1165
+長樂鐘聲花外盡	chang le zhong sheng hua wai jin	593
+悵然吟式微	chang ran yin shi wei	3343
+長沙過賈誼宅	chang sha guo jia yi zhai	614
+長沙謫去古今憐	chang sha zhe qu gu jin lian	597
+長繩百尺拽碑倒	chang sheng bai chi zhuai bei dao	2044
+長使英雄淚滿襟	chang shi ying xiong lei man jin	729
+長亭酒一瓢	chang ting jiu yi piao	987
+悵望千秋一灑淚	chang wang qian qiu yi sa lei	656
+悵臥新春白袷衣	chang wo xin chun bai qia yi	424
+長相思	chang xiang si	1854
+長相思二首之二	chang xiang si er shou zhi er	1842
+長相思二首之一	chang xiang si er shou zhi yi	1855
+嘗學琵琶於穆曹二善才	chang xue pi pa yu mu cao er shan cai	2189
+長願向南流	chang yuan xiang nan liu	889
+朝罷須裁五色詔	chao ba xu cai wu se zhao	766
+朝避猛虎	chao bi meng hu	1861
+朝別黃鶴樓	chao bie huang he lou	2837
+潮落夜江斜月裏	chao luo ye jiang xie yue li	28
+潮平兩岸闊	chao ping liang an kuo	1515
+朝聞遊子唱驪歌	chao wen you zi chang li ge	809
+巢在三珠樹	chao zai san zhu shu	3558
+車轔轔	che lin lin	1754
+車馬去閒閒	che ma qu xian xian	1330
+車師西門佇獻捷	che shi xi men zhu xian jie	2727
+車走雷聲語未通	che zou lei sheng yu wei tong	413
+塵埃不見咸陽橋	chen ai bu jian xian yang qiao	1750
+陳侯立身何坦蕩	chen hou li shen he tan dang	2924
+陳王昔時宴平樂	chen wang xi shi yan ping le	1763
+塵心未盡思鄉縣	chen xin wei jin si xiang xian	1908
+晨搖玉佩趨金殿	chen yao yu pei qu jin dian	741
+晨詣超師院讀禪經	chen yi chao shi yuan du chan jing	3080
+陳子昂	chen zi ang	2950
+澄澄變今古	cheng cheng bian jin gu	3286
+澄澄映葭葦	cheng cheng ying jia wei	3358
+城春草木深	cheng chun cao mu shen	1435
+承恩不在貌	cheng en bu zai mao	865
+承恩數上南薰殿	cheng en shu shang nan xun dian	2642
+承歡侍宴無閒暇	cheng huan shi yan wu xian xia	2303
+稱名憶舊容	cheng ming yi jiu rong	1062
+城闕輔三秦	cheng que fu san qin	1620
+城闕夜千重	cheng que ye qian zhong	1084
+城上高樓接大荒	cheng shang gao lou jie da huang	550
+城下沒全師	cheng xia mei quan shi	1016
+丞相祠堂何處尋	cheng xiang ci tang he chu xun	736
+城小賊不屠	cheng xiao zei bu tu	3191
+誠知此恨人人有	cheng zhi ci hen ren ren you	516
+城中相識盡繁華	cheng zhong xiang shi jin fan hua	1965
+城中增暮寒	cheng zhong zeng mu han	320
+赤壁	chi bi	11
+遲遲鐘鼓初長夜	chi chi zhong gu chu chang ye	2251
+持此謝高鳥	chi ci xie gao niao	3539
+池潢不敢顧	chi huang bu gan gu	3560
+赤雞白狗賭梨慄	chi ji bai gou du li li	1812
+恥令越甲鳴吾君	chi ling yue jia ming wu jun	1933
+魑魅喜人過	chi mei xi ren guo	1389
+持謝鄰家子	chi xie lin jia zi	3329
+池月漸東上	chi yue jian dong shang	3311
+重上君子堂	chong shang jun zi tang	3464
+蟲聲新透綠窗紗	chong sheng xin tou lv chuang sha	82
+籌筆驛	chou bi yi	442
+惆悵南朝事	chou chang nan chao shi	1182
+酬程延秋夜即事見贈	chou cheng yan qiu ye ji shi jian zeng	1106
+抽刀斷水水更流	chou dao duan shui shui geng liu	2748
+酬郭給事	chou guo gei shi	746
+愁因薄暮起	chou yin bo mu qi	3321
+愁雲黲淡萬里凝	chou yun can dan wan li ning	2697
+酬張少府	chou zhang shao fu	1315
+觸波濤	chu bo tao	2492
+處處伴愁顏	chu chu ban chou yan	1030
+處處黃蘆草	chu chu huang lu cao	3051
+處處聞啼鳥	chu chu wen ti niao	312
+初彈淥水後楚妃	chu dan lu shui hou chu fei	2904
+出洞無論隔山水	chu dong wu lun ge shan shui	1907
+初發揚子寄元大校書	chu fa yang zi ji yuan da xiao shu	3155
+楚江懷古	chu jiang huai gu	907
+楚江微雨裏	chu jiang wei yu li	1115
+出郊曠清曙	chu jiao kuang qing shu	3117
+楚客相思益渺然	chu ke xiang si yi miao ran	603
+出門搔白首	chu men sao bai shou	3398
+初日郢門山	chu ri ying men shan	922
+初日照高林	chu ri zhao gao lin	1507
+出入高下窮煙霏	chu ru gao xia qiong yan fei	2466
+出塞復入塞	chu sai fu ru sai	3052
+楚塞三湘接	chu sai san xiang jie	1287
+出山泉水濁	chu shan quan shui zhuo	3431
+出師未捷身先死	chu shi wei jie shen xian si	730
+初爲霓裳後六麼	chu wei ni chang hou liu me	2151
+初聞涕淚滿衣裳	chu wen ti lei man yi shang	708
+出行復悠悠	chu xing fu you you	3104
+初因避地去人間	chu yin bi di qu ren jian	1912
+滁州西澗	chu zhou xi jian	102
+川爲靜其波	chuan wei jing qi bo	2881
+傳聞至此回	chuan wen zhi ci hui	1526
+傳之七十有二代	chuan zhi qi shi you er dai	2032
+摐金伐鼓下榆關	chuang jin fa gu xia yu guan	2019
+牀前明月光	chuang qian ming yue guang	308
+垂釣將已矣	chui diao jiang yi yi	3354
+吹度玉門關	chui du yu men guan	3033
+春蠶到死絲方盡	chun can dao si si fang jin	431
+春草閉閒門	chun cao bi xian men	1157
+春草明年綠	chun cao ming nian lv	341
+春潮帶雨晚來急	chun chao dai yu wan lai ji	99
+春城無處不飛花	chun cheng wu chu bu fei hua	90
+春城紫禁曉陰陰	chun cheng zi jin xiao yin yin	594
+春愁黯黯獨成眠	chun chou an an du cheng mian	583
+春窗曙滅九微火	chun chuang shu mie jiu wei huo	1969
+春詞	chun ci	56
+春從春遊夜專夜	chun cong chun you ye zhuan ye	2302
+春泛若耶溪	chun fan ruo ye xi	3262
+春風不相識	chun feng bu xiang shi	3486
+春風吹又生	chun feng chui you sheng	1005
+春風對青冢	chun feng dui qing zhong	894
+春風桃李花開日	chun feng tao li hua kai ri	2259
+春歌	chun ge	3024
+春宮曲	chun gong qu	132
+春宮怨	chun gong yuan	868
+春歸在客先	chun gui zai ke xian	1148
+春寒賜浴華清池	chun han ci yu hua qing chi	2311
+春江花朝秋月夜	chun jiang hua zhao qiu yue ye	2098
+春鳩鳴何處	chun jiu ming he chu	3111
+春來遍是桃花水	chun lai bian shi tao hua shui	1901
+春來發幾枝	chun lai fa ji zhi	337
+春眠不覺曉	chun mian bu jue xiao	313
+春日凝妝上翠樓	chun ri ning zhuang shang cui lou	135
+春日潛行曲江曲	chun ri qian xing qu jiang qu	1689
+春思	chun si	3491
+春宿左省	chun su zuo sheng	1428
+春望	chun wang	1437
+春曉	chun xiao	314
+春宵苦短日高起	chun xiao ku duan ri gao qi	2305
+春心莫共花爭發	chun xin mo gong hua zheng fa	444
+春雨	chun yu	425
+春與青溪長	chun yu qing xi chang	1094
+春怨	chun yuan	211
+次北固山下	ci bei gu shan xia	1518
+此道昔歸順	ci dao xi gui shun	1412
+此地空餘黃鶴樓	ci di kong yu huang he lou	836
+此地一爲別	ci di yi wei bie	1470
+辭根散作九秋蓬	ci gen san zuo jiu qiu peng	490
+此恨綿綿無絕期	ci hen mian mian wu jue qi	2200
+辭家終擬長遊衍	ci jia zhong ni chang you yan	1906
+此皆騎戰一敵萬	ci jie qi zhan yi di wan	2671
+此樂本自龜茲出	ci le ben zi qiu ci chu	2867
+賜名大國虢與秦	ci ming da guo guo yu qin	1706
+此木豈無陰	ci mu qi wu yin	3523
+慈母手中線	ci mu shou zhong xian	2956
+此情可待成追憶	ci qing ke dai cheng zhui yi	480
+此去隨所偶	ci qu sui suo ou	3260
+此曲有意無人傳	ci qu you yi wu ren chuan	1837
+此日登臨曙色開	ci ri deng lin shu se kai	798
+此事不繫於職司	ci shi bu ji yu zhi si	2059
+此時無聲勝有聲	ci shi wu sheng sheng you sheng	2141
+此物最相思	ci wu zui xiang si	335
+辭嚴義密讀難曉	ci yan yi mi du nan xiao	2376
+詞中有誓兩心知	ci zhong you shi liang xin zhi	2206
+此州獨見全	ci zhou du jian quan	3188
+從臣才藝鹹第一	cong chen cai yi xian di yi	2382
+從此君王不早朝	cong ci jun wang bu zao chao	2304
+從今四海爲家日	cong jin si hai wei jia ri	535
+從今又幾年	cong jin you ji nian	1144
+從來幽並客	cong lai you bing ke	3050
+蹙金孔雀銀麒麟	cu jin kong que yin qi lin	1712
+粗沙大石相磨治	cu sha da shi xiang mo zhi	2043
+竄逐蠻荒幸不死	cuan zhu man huang xing bu si	2403
+崔顥	cui hao	839
+翠花拂天來向東	cui hua fu tian lai xiang dong	2660
+翠華想像空山裏	cui hua xiang xiang kong shan li	638
+翠華搖搖行復止	cui hua yao yao xing fu zhi	2285
+崔九堂前幾度聞	cui jiu tang qian ji du wen	105
+翠翹金雀玉搔頭	cui qiao jin que yu sao tou	2280
+崔曙	cui shu	801
+崔塗	cui tu	888
+翠微盍葉垂鬢脣	cui wei he ye chui bin chun	1710
+崔嵬枝幹郊原古	cui wei zhi gan jiao yuan gu	2577
+摧心肝	cui xin gan	1843
+翠影紅霞映朝日	cui ying hong xia ying zhao ri	2827
+大道如青天	da dao ru qing tian	1815
+大荒沈沈飛雪白	da huang shen shen fei xue bai	2893
+大江茫茫去不黃	da jiang mang mang qu bu huang	2824
+大江溯輕舟	da jiang su qing zhou	3102
+大開明堂受朝賀	da kai ming tang shou chao he	2388
+大曆二年十月十九日夔府別駕元持宅見臨潁李十二孃舞劍器	da li er nian shi yue shi jiu ri kui fu bie jia yuan chi zhai jian lin ying li shi er niang wu jian qi	2562
+大漠窮秋塞草衰	da mo qiong qiu sai cao shuai	2011
+大漠無兵阻	da mo wu bing zu	892
+打起黃鶯兒	da qi huang ying er	210
+達人之高行	da ren zhi gao xing	1590
+大廈如傾要樑棟	da sha ru qing yao liang dong	2571
+大廈深檐與蓋覆	da sha shen yan yu gai fu	2346
+大弦嘈嘈如急雨	da xian cao cao ru ji yu	2150
+大雪滿弓刀	da xue man gong dao	171
+大珠小珠落玉盤	da zhu xiao zhu luo yu pan	2147
+待到重陽日	dai dao chong yang ri	1228
+黛色參天二千尺	dai se can tian er qian chi	2584
+戴叔倫	dai shu lun	1087
+待曉堂前拜舅姑	dai xiao tang qian bai jiu gu	19
+玳筵急管曲復終	dai yan ji guan qu fu zhong	2511
+岱宗夫如何	dai zong fu ru he	3482
+但道困苦乞爲奴	dan dao kun ku qi wei nu	1660
+丹鳳城南秋夜長	dan feng cheng nan qiu ye chang	356
+但恨無過王右軍	dan hen wu guo wang you jun	2646
+但見悲鳥號古木	dan jian bei niao hao gu mu	1878
+但見淚痕溼	dan jian lei hen shi	301
+但見羣鷗日日來	dan jian qun ou ri ri lai	726
+但見新人笑	dan jian xin ren xiao	3434
+但教心似金鈿堅	dan jiao xin si jin dian jian	2209
+但看古來盛名下	dan kan gu lai sheng ming xia	2613
+丹青不知老將至	dan qing bu zhi lao jiang zhi	2645
+丹青引贈曹霸將軍	dan qing yin zeng cao ba jiang jun	2652
+丹丘生	dan qiu sheng	1771
+但去莫復聞	dan qu mo fu wen	3384
+澹然空水對斜暉	dan ran kong shui dui xie hui	399
+澹然離言說	dan ran li yan shuo	3067
+淡掃蛾眉朝至尊	dan sao e mei chao zhi zun	32
+但聞人語響	dan wen ren yu xiang	351
+但願長醉不願醒	dan yuan chang zui bu yuan xing	1766
+丹竈初開火	dan zao chu kai huo	1248
+當君懷歸日	dang jun huai gui ri	3488
+當流赤足蹋澗石	dang liu chi zu ta jian shi	2463
+當路誰相假	dang lu shui xiang jia	1203
+當仁自古有不讓	dang ren zi gu you bu rang	2058
+當時浣紗伴	dang shi huan sha ban	3331
+當時只記入山深	dang shi zhi ji ru shan shen	1903
+蕩胸生層雲	dang xiong sheng ceng yun	3478
+當軒下馬入錦茵	dang xuan xia ma ru jin yin	1696
+當與夢時同	dang yu meng shi tong	1632
+到此躊躇不能去	dao ci chou chu bu neng qu	2268
+道寄人知	dao ji ren zhi	1562
+道旁過者問行人	dao pang guo zhe wen xing ren	1747
+道人庭宇靜	dao ren ting yu jing	3071
+道由白雲盡	dao you bai yun jin	1095
+得無金丸懼	de wu jin wan ju	3556
+得相能開國	de xiang neng kai guo	1023
+德以象賢	de yi xiang xian	1593
+磴道盤虛空	deng dao pan xu kong	3236
+登高	deng gao	702
+登高壯觀天地間	deng gao zhuang guan tian di jian	2825
+登鸛雀樓	deng guan que lou	293
+登樂遊原	deng le you yuan	229
+登臨出世界	deng lin chu shi jie	3237
+登柳州城樓寄漳汀封連四州刺史	deng liu zhou cheng lou ji zhang ting feng lian si zhou ci shi	551
+登樓	deng lou	693
+燈下白頭人	deng xia bai tou ren	1043
+鄧攸無子尋知命	deng you wu zi xun zhi ming	511
+登幽州臺歌	deng you zhou tai ge	2949
+登岳陽樓	deng yue yang lou	1359
+登舟望秋月	deng zhou wang qiu yue	1452
+地崩山摧壯士死	di beng shan cui zhuang shi si	1889
+帝得聖相相曰度	di de sheng xiang xiang yue du	2074
+低空有斷雲	di kong you duan yun	1373
+低眉信手續續彈	di mei xin shou xu xu dan	2154
+低頭思故鄉	di tou si gu xiang	305
+低頭向暗壁	di tou xiang an bi	2987
+滌瑕盪垢清朝班	di xia dang gou qing chao ban	2440
+地下若逢陳後主	di xia ruo feng chen hou zhu	462
+帝鄉明日到	di xiang ming ri dao	982
+弟兄羈旅各西東	di xiong ji lv ge xi dong	494
+地猶鄹氏邑	di you zou shi yi	1637
+帝曰汝度功第一	di yue ru du gong di yi	2064
+弟子韓幹早入室	di zi han gan zao ru shi	2623
+弟走從軍阿姨死	di zou cong jun a yi si	2120
+點竄堯典舜典字	dian cuan yao dian shun dian zi	2054
+鈿合金釵寄將去	dian he jin chai ji jiang qu	2212
+鈿頭銀篦擊節碎	dian tou yin bi ji jie sui	2124
+調角斷清秋	diao jiao duan qing qiu	896
+弔影分爲千里雁	diao ying fen wei qian li yan	491
+東船西舫悄無言	dong chuan xi fang qiao wu yan	2136
+洞房昨夜停紅燭	dong fang zuo ye ting hong zhu	20
+東風不與周郎便	dong feng bu yu zhou lang bian	8
+東風無力百花殘	dong feng wu li bai hua can	432
+董夫子	dong fu zi	2890
+冬歌	dong ge	3003
+洞壑當門前	dong he dang men qian	3198
+東郊	dong jiao	3119
+東來橐駝滿舊都	dong lai tuo tuo man jiu du	1650
+東林懷我師	dong lin huai wo shi	1222
+洞門高閣靄餘輝	dong men gao ge ai yu hui	745
+東門酤酒飲我曹	dong men gu jiu yin wo cao	2920
+動如參與商	dong ru can yu shang	3472
+洞天石扇	dong tian shi shan	2784
+洞庭連天九嶷高	dong ting lian tian jiu yi gao	2450
+洞庭秋水遠連天	dong ting qiu shui yuan lian tian	601
+東望都門信馬歸	dong wang du men xin ma gui	2264
+洞在清溪何處邊	dong zai qing xi he chu bian	148
+斗酒十千恣歡謔	dou jiu shi qian zi huan xue	1762
+讀罷淚沾襟	du ba lei zhan jin	1254
+獨出冠時	du chu guan shi	2553
+獨愴然而涕下	du chuang ran er ti xia	2945
+獨釣寒江雪	du diao han jiang xue	246
+杜甫	du fu	3484
+渡漢江	du han jiang	217
+都護鐵衣冷猶著	du hu tie yi leng you zhu	2699
+渡荊門送別	du jing men song bie	1482
+杜鵑啼血猿哀鳴	du juan ti xue yuan ai ming	2099
+獨立三邊靜	du li san bian jing	1174
+獨立揚新令	du li yang xin ling	182
+獨憐幽草澗邊生	du lian you cao jian bian sheng	101
+獨留青冢向黃昏	du liu qing zhong xiang huang hun	646
+杜牧	du mu	1000
+獨敲初夜磬	du qiao chu ye qing	931
+杜審言	du shen yan	1549
+賭勝馬蹄下	du sheng ma ti xia	2939
+獨戍臨江夜泊船	du shu lin jiang ye bo chuan	599
+獨宿江城蠟炬殘	du su jiang cheng la ju can	683
+渡頭餘落日	du tou yu luo ri	1345
+杜荀鶴	du xun he	869
+獨夜憶秦關	du ye yi qin guan	3121
+獨有鳳凰池上客	du you feng huang chi shang ke	775
+獨有宦遊人	du you huan you ren	1547
+渡遠荊門外	du yuan jing men wai	1481
+獨在異鄉爲異客	du zai yi xiang wei yi ke	146
+獨酌無相親	du zhuo wu xiang qin	3504
+獨坐幽篁裏	du zuo you huang li	347
+端居恥聖明	duan ju chi sheng ming	1265
+斷絕胡兒戀母聲	duan jue hu er lian mu sheng	2882
+斷無消息石榴紅	duan wu xiao xi shi liu hong	411
+斷雁警愁眠	duan yan jing chou mian	995
+對此結中腸	dui ci jie zhong chang	3097
+對此可以酣高樓	dui ci ke yi han gao lou	2753
+對此如何不淚垂	dui ci ru he bu lei chui	2260
+對此涕淚雙滂沱	dui ci ti lei shuang pang tuo	2363
+對此欲倒東南傾	dui ci yu dao dong nan qing	2803
+對棋陪謝傅	dui qi pei xie fu	1372
+對影成三人	dui ying cheng san ren	3502
+多病故人疏	duo bing gu ren shu	1240
+多難識君遲	duo nan shi jun chi	1070
+多歧路	duo qi lu	1820
+峨嵋山下少人行	e mei shan xia shao ren xing	2275
+爾輩苦無恃	er bei ku wu shi	3101
+爾來四萬八千歲	er lai si wan ba qian sui	1893
+二陵風雨自東來	er ling feng yu zi dong lai	796
+兒女共沾巾	er nv gong zhan jin	1613
+兒女忽成行	er nv hu cheng xing	3462
+而聽	er ting	1605
+兒童相見不相識	er tong xiang jian bu xiang shi	155
+而往來者	er wang lai zhe	2491
+二雅褊迫無委蛇	er ya bian po wu wei yi	2367
+二月黃鸝飛上林	er yue huang li fei shang lin	595
+發聲幽息	fa sheng you xi	1600
+泛泛入煙霧	fan fan ru yan wu	3153
+蕃漢斷消息	fan han duan xiao xi	1015
+返景入深林	fan jing ru shen lin	350
+煩君最相警	fan jun zui xiang jing	965
+煩痾近消散	fan ke jin xiao san	3171
+凡六百一十六言	fan liu bai yi shi liu yan	2174
+蕃情似此水	fan qing si ci shui	890
+翻身向天仰射雲	fan shen xiang tian yang she yun	1680
+反是生女好	fan shi sheng nv hao	1725
+繁星宿故關	fan xing su gu guan	1032
+翻疑夢裏逢	fan yi meng li feng	1082
+芳草萋萋鸚鵡洲	fang cao qi qi ying wu zhou	832
+芳草已雲暮	fang cao yi yun mu	853
+方今太平日無事	fang jin tai ping ri wu shi	2334
+訪舊半爲鬼	fang jiu ban wei gui	3467
+芳心向春盡	fang xin xiang chun jin	947
+方知大蕃地	fang zhi da fan di	3157
+翡翠衾寒誰與共	fei cui qin han shui yu gong	2248
+飛鳥沒何處	fei niao mei he chu	1167
+飛入尋常百姓家	fei ru xun chang bai xing jia	57
+飛沈理自隔	fei shen li zi ge	3535
+飛湍瀑流爭喧豗	fei tuan pu liu zheng xuan hui	1871
+非謂文墨	fei wei wen mo	1559
+分曹射覆蠟燈紅	fen cao she fu la deng hong	472
+分曹限紫微	fen cao xian zi wei	1498
+紛紛暮雪下轅門	fen fen mu xue xia yuan men	2694
+分明怨恨曲中論	fen ming yuan hen qu zhong lun	642
+紛牆丹柱動光彩	fen qiang dan zhu dong guang cai	2411
+焚燒殺掠	fen shao sha lue	3213
+分野中峯變	fen ye zhong feng bian	1319
+風波不信菱枝弱	feng bo bu xin ling zhi ruo	404
+風掣紅旗凍不翻	feng che hong qi dong bu fan	2693
+風塵何處期	feng chen he chu qi	1068
+風塵澒洞昏王室	feng chen hong dong hun wang shi	2516
+風塵荏苒音書絕	feng chen ren ran yin shu jue	680
+風吹柳花滿店香	feng chui liu hua man dian xiang	2765
+風吹仙袂飄飄舉	feng chui xian mei piao piao ju	2223
+風多響易沉	feng duo xiang yi chen	1552
+鳳歌笑孔丘	feng ge xiao kong qiu	2839
+奉和聖制從蓬萊向興慶閣道中留春雨中春望之作應制	feng he sheng zhi cong peng lai xiang xing qing ge dao zhong liu chun yu zhong chun wang zhi zuo ying zhi	764
+奉和中書舍人賈至早朝大明宮	feng he zhong shu she ren jia zhi zao chao da ming gong	782
+鳳凰池對青瑣門	feng huang chi dui qing suo men	2872
+烽火連三月	feng huo lian san yue	1432
+風急天高猿嘯哀	feng ji tian gao yuan xiao ai	701
+奉濟驛重送嚴公四韻	feng ji yi zhong song yan gong si yun	1386
+封狼生貙貙生羆	feng lang sheng chu chu sheng pi	2077
+風流儒雅亦吾師	feng liu ru ya yi wu shi	657
+風流天下聞	feng liu tian xia wen	1489
+風鳴兩岸葉	feng ming liang an ye	1214
+風暖鳥聲碎	feng nuan niao sheng sui	863
+楓橋夜泊	feng qiao ye bo	96
+風泉滿清聽	feng quan man qing ting	3298
+逢入京使	feng ru jing shi	112
+風送宮嬪笑語和	feng song gong pin xiao yu he	69
+風頭如刀面如割	feng tou ru dao mian ru ge	2733
+鳳尾香羅薄幾重	feng wei xiang luo bo ji chong	416
+風物悽悽宿雨收	feng wu qi qi su yu shou	576
+風煙望五津	feng yan wang wu jin	1619
+楓葉荻花秋瑟瑟	feng ye di hua qiu se se	2171
+楓葉落紛紛	feng ye luo fen fen	1447
+風雨	feng yu	963
+風雲常爲護儲胥	feng yun chang wei hu chu xu	440
+風正一帆懸	feng zheng yi fan xuan	1514
+風枝驚暗鵲	feng zhi jing an que	1081
+扶持自是神明力	fu chi zi shi shen ming li	2573
+賦得古原草送別	fu de gu yuan cao song bie	1009
+賦得暮雨送李胄	fu de mu yu song li zhou	1116
+富貴於我如浮雲	fu gui yu wo ru fu yun	2644
+復令識者久嘆嗟	fu ling shi zhe jiu tan jie	2672
+撫念益慈柔	fu nian yi ci rou	3100
+芙蓉旌旗煙霧落	fu rong jing qi yan wu luo	2602
+芙蓉樓送辛漸	fu rong lou song xin jian	142
+芙蓉如面柳如眉	fu rong ru mian liu ru mei	2261
+芙蓉塘外有輕雷	fu rong tang wai you qing lei	449
+芙蓉帳暖度春宵	fu rong zhang nuan du chun xiao	2306
+撫事慷慨	fu shi kang kai	2541
+浮天滄海遠	fu tian cang hai yuan	1139
+俯聽聞驚風	fu ting wen jing feng	3230
+夫婿輕薄兒	fu xu qing bo er	3438
+負以靈鰲蟠以螭	fu yi ling ao pan yi chi	2047
+俯飲一杯酒	fu yin yi bei jiu	3163
+浮雲一別後	fu yun yi bie hou	1122
+浮雲遊子意	fu yun you zi yi	1468
+浮雲終日行	fu yun zhong ri xing	3406
+復照青苔上	fu zhao qing tai shang	349
+復值接輿醉	fu zhi jie yu zui	1343
+腹中貯書一萬卷	fu zhong zhu shu yi wan juan	2922
+夫子何爲者	fu zi he wei zhe	1639
+蓋蒙其傷憐而已	gai meng qi shang lian er yi	3205
+感此懷故人	gan ci huai gu ren	3304
+感此傷妾心	gan ci shang qie xin	2971
+感而綴詩	gan er zhui shi	1566
+敢告雲山從此始	gan gao yun shan cong ci shi	2900
+敢將十指誇針巧	gan jiang shi zhi kua zhen qiao	366
+感時撫事增惋傷	gan shi fu shi zeng wan shang	2520
+感時花濺淚	gan shi hua jian lei	1434
+感斯人言	gan si ren yan	2179
+幹惟畫肉不畫骨	gan wei hua rou bu hua gu	2621
+感我此言良久立	gan wo ci yan liang jiu li	2090
+感遇四首之二	gan yu si shou zhi er	3551
+感遇四首之三	gan yu si shou zhi san	3542
+感遇四首之四	gan yu si shou zhi si	3533
+感遇四首之一	gan yu si shou zhi yi	3562
+感征戍之事	gan zheng shu zhi shi	2025
+感子故意長	gan zi gu yi chang	3452
+高才脫略名與利	gao cai tuo lue ming yu li	2871
+高帝子孫盡隆準	gao di zi sun jin long zhun	1657
+高風漢陽渡	gao feng han yang du	923
+杲杲寒日生於東	gao gao han ri sheng yu dong	2396
+高閣客竟去	gao ge ke jing qu	953
+告歸常侷促	gao gui chang ju cu	3402
+高樓當此夜	gao lou dang ci ye	3027
+高明逼神惡	gao ming bi shen e	3554
+高山安可仰	gao shan an ke yang	1484
+高適	gao shi	2030
+高樹曉還密	gao shu xiao hai mi	975
+縞素漠漠開風沙	gao su mo mo kai feng sha	2670
+高堂明鏡悲白髮	gao tang ming jing bei bai fa	1780
+高臥南齋時	gao wo nan zhai shi	3291
+閣道回看上苑花	ge dao hui kan shang yuan hua	760
+隔江猶唱後庭花	ge jiang you chang hou ting hua	2
+隔籬呼取盡餘杯	ge li hu qu jin yu bei	720
+隔山望南鬥	ge shan wang nan dou	3256
+哥舒歌	ge shu ge	205
+哥舒夜帶刀	ge shu ye dai dao	203
+隔水問樵夫	ge shui wen qiao fu	1316
+閣夜	ge ye	676
+隔葉黃鸝空好音	ge ye huang li kong hao yin	733
+歌以贈之	ge yi zeng zhi	2175
+各在一處	ge zai yi chu	502
+隔座送鉤春酒暖	ge zuo song gou chun jiu nuan	473
+更隔蓬山一萬重	geng ge peng shan yi wan chong	452
+耿耿星河欲曙天	geng geng xing he yu shu tian	2250
+更教明月照流黃	geng jiao ming yue zhao liu huang	354
+更堪江上鼓鼙聲	geng kan jiang shang gu pi sheng	552
+更上一層樓	geng shang yi ceng lou	289
+更深月色半人家	geng shen yue se ban ren jia	85
+更有明朝恨	geng you ming chao hen	1049
+功成不退皆殞身	gong cheng bu tui jie yun shen	1794
+宮詞	gong ci	381
+共此燈燭光	gong ci deng zhu guang	3470
+公從何處得紙本	gong cong he chu de zhi ben	2378
+功蓋三分國	gong gai san fen guo	298
+宮館何玲瓏	gong guan he ling long	3226
+宮花寂寞紅	gong hua ji mo hong	243
+共看明月應垂淚	gong kan ming yue ying chui lei	489
+共來百越文身地	gong lai bai yue wen shen di	544
+共憐時世儉梳妝	gong lian shi shi jian shu zhuang	367
+公孫劍器初第一	gong sun jian qi chu di yi	2518
+公孫一人而已	gong sun yi ren er yi	2548
+公退齋戒坐小閣	gong tui zhai jie zuo xiao ge	2056
+功無與讓恩不訾	gong wu yu rang en bu zi	2065
+公之斯文不示後	gong zhi si wen bu shi hou	2036
+公之斯文若元氣	gong zhi si wen ruo yuan qi	2042
+公主琵琶幽怨多	gong zhu pi pa you yuan duo	1991
+共醉重陽節	gong zui chong yang jie	3314
+古柏行	gu bai xing	2588
+孤壁野僧鄰	gu bi ye seng lin	910
+故別	gu bie	1415
+孤城背嶺寒吹角	gu cheng bei ling han chui jiao	600
+孤城當落暉	gu cheng dang luo hui	3369
+孤城落日鬥兵稀	gu cheng luo ri dou bing xi	2010
+古祠高樹兩茫然	gu ci gao shu liang mang ran	389
+古從軍行	gu cong jun xing	1995
+孤燈不明思欲絕	gu deng bu ming si yu jue	1850
+孤燈寒照雨	gu deng han zhao yu	1051
+孤燈挑盡未成眠	gu deng tiao jin wei cheng mian	2252
+孤燈聞楚角	gu deng wen chu jiao	855
+古調雖自愛	gu diao sui zi ai	280
+古鼎躍水龍騰梭	gu ding yue shui long teng suo	2369
+孤獨異鄉春	gu du yi xiang chun	883
+孤帆天際看	gu fan tian ji kan	1193
+孤帆遠影碧空盡	gu fan yuan ying bi kong jin	118
+孤飛自可疑	gu fei zi ke yi	870
+孤高聳天宮	gu gao song tian gong	3238
+故關衰草遍	gu guan shuai cao bian	1075
+故國三千里	gu guo san qian li	233
+孤鴻海上來	gu hong hai shang lai	3561
+故潔其身也	gu jie qi shen ye	1592
+估客晝眠知浪靜	gu ke zhou mian zhi lang jing	557
+谷口書齋寄楊補闕	gu kou shu zhai ji yang bu que	1133
+顧況	gu kuang	71
+古來白骨無人收	gu lai bai gu wu ren shou	1721
+古來材大難爲用	gu lai cai da nan wei yong	2564
+古來青史誰不見	gu lai qing shi shui bu jian	2709
+古來聖賢皆寂寞	gu lai sheng xian jie ji mo	1765
+古來萬事東流水	gu lai wan shi dong liu shui	2771
+古來征戰幾人回	gu lai zheng zhan ji ren hui	122
+故壘蕭蕭蘆荻秋	gu lei xiao xiao lu di qiu	534
+古廟杉鬆巢水鶴	gu miao shan song chao shui he	636
+古木無人徑	gu mu wu ren jing	1303
+孤蓬萬里徵	gu peng wan li zheng	1469
+孤琴候蘿徑	gu qin hou luo jing	3294
+故人從軍在右輔	gu ren cong jun zai you fu	2360
+故人江海別	gu ren jiang hai bie	1055
+故人具雞黍	gu ren ju ji shu	1234
+故人入我夢	gu ren ru wo meng	3419
+故人殊未來	gu ren shu wei lai	852
+故人西辭黃鶴樓	gu ren xi ci huang he lou	120
+骨肉不待同馳驅	gu rou bu dai tong chi qu	1664
+骨肉流離道路中	gu rou liu li dao lu zhong	492
+顧視清高氣深穩	gu shi qing gao qi shen wen	2664
+古戍蒼蒼烽火寒	gu shu cang cang feng huo han	2894
+姑蘇城外寒山寺	gu su cheng wai han shan si	93
+古臺搖落後	gu tai yao luo hou	1188
+顧我無衣搜藎篋	gu wo wu yi sou jin qie	529
+孤雁	gu yan	878
+古意	gu yi	2942
+古意呈補闕喬知之	gu yi cheng bu que qiao zhi zhi	362
+顧影無如白髮何	gu ying wu ru bai fa he	617
+故園東望路漫漫	gu yuan dong wang lu man man	111
+故園蕪已平	gu yuan wu yi ping	966
+孤雲將野鶴	gu yun jiang ye he	277
+古者世稱大手筆	gu zhe shi cheng da shou bi	2060
+孤舟蓑笠翁	gu zhou suo li weng	247
+故作詩一篇以	gu zuo shi yi pian yi	3203
+關城樹色催寒近	guan cheng shu se cui han jin	805
+冠蓋滿京華	guan gai man jing hua	3396
+官高何足論	guan gao he zu lun	3442
+觀公孫大娘弟子舞劍器行並序	guan gong sun da niang di zi wu jian qi xing bing xu	2563
+觀經鴻都尚填咽	guan jing hong dou shang tian yan	2350
+關門令尹誰能識	guan men ling yin shui neng shi	795
+關內阻飢	guan nei zu ji	504
+關塞蕭條行陸難	guan sai xiao tiao xing lu nan	679
+關山月	guan shan yue	3037
+慣彈琵琶解歌舞	guan tan pi pa jie ge wu	2932
+官應老病休	guan ying lao bing xiu	1362
+關月冷相隨	guan yue leng xiang sui	872
+管樂有才原不忝	guan yue you cai yuan bu tian	437
+關張無命欲何如	guan zhang wu ming yu he ru	436
+觀者如山色沮喪	guan zhe ru shan se ju sang	2531
+關中昔喪亂	guan zhong xi sang luan	3444
+光價豈止百倍過	guang jia qi zhi bai bei guo	2353
+廣澤生明月	guang ze sheng ming yue	902
+桂華秋皎潔	gui hua qiu jiao jie	3549
+歸來池苑皆依舊	gui lai chi yuan jie yi jiu	2263
+貴來方悟稀	gui lai fang wu xi	3336
+歸來看取明鏡前	gui lai kan qu ming jing qian	1831
+歸來每日斜	gui lai mei ri xie	840
+歸來且閉關	gui lai qie bi guan	1325
+歸來視幼女	gui lai shi you nv	3083
+歸來頭白還戍邊	gui lai tou bai hai shu bian	1742
+歸來煮白石	gui lai zhu bai shi	3142
+歸老江湖邊	gui lao jiang hu bian	3178
+歸馬識殘旗	gui ma shi can qi	1012
+癸卯歲	gui mao sui	3215
+貴戚權門得筆跡	gui qi quan men de bi ji	2677
+歸去來	gui qu lai	1801
+歸去越王家	gui qu yue wang jia	3011
+歸山深淺去	gui shan shen qian qu	328
+歸思欲沾巾	gui si yu zhan jin	1540
+歸嵩山作	gui song shan zuo	1332
+歸臥南山陲	gui wo nan shan chui	3385
+鬼物守護煩撝呵	gui wu shou hu fan hui he	2379
+鬼物圖畫填青紅	gui wu tu hua tian qing hong	2410
+歸雁洛陽邊	gui yan luo yang bian	1510
+閨怨	gui yuan	137
+歸棹洛陽人	gui zhao luo yang ren	3152
+閨中少婦不知愁	gui zhong shao fu bu zhi chou	136
+閨中只獨看	gui zhong zhi du kan	1444
+國初以來畫鞍馬	guo chu yi lai hua an ma	2687
+過故人莊	guo gu ren zhuang	1235
+虢國夫人承主恩	guo guo fu ren cheng zhu en	35
+國家成敗吾豈敢	guo jia cheng bai wu qi gan	2594
+國破山河在	guo po shan he zai	1436
+過香積寺	guo xiang ji si	1306
+過雨看鬆色	guo yu kan song se	1156
+還從物外起田園	hai cong wu wai qi tian yuan	1918
+還將兩行淚	hai jiang liang hang lei	1210
+海客談瀛洲	hai ke tan ying zhou	2810
+還來就菊花	hai lai jiu ju hua	1227
+海門深不見	hai men shen bu jian	1111
+海內存知己	hai nei cun zhi ji	1616
+海內風塵諸弟隔	hai nei feng chen zhu di ge	716
+海鷗何事更相疑	hai ou he shi geng xiang yi	747
+海畔雲山擁薊城	hai pan yun shan yong ji cheng	813
+海氣溼蟄薰腥臊	hai qi shi zhe xun xing sao	2445
+還寢夢佳期	hai qin meng jia qi	1623
+海日生殘夜	hai ri sheng can ye	1513
+海上風雨至	hai shang feng yu zhi	3173
+海上生明月	hai shang sheng ming yue	1630
+海天愁思正茫茫	hai tian chou si zheng mang mang	549
+還掩故園扉	hai yan gu yuan fei	1200
+海燕雙棲玳瑁梁	hai yan shuang qi dai mao liang	360
+還作江南會	hai zuo jiang nan hui	1083
+韓碑	han bei	2083
+漢兵奮迅如霹靂	han bing fen xun ru pi li	1954
+漢兵屯在輪臺北	han bing tun zai lun tai bei	2720
+漢朝公卿忌賈生	han chao gong qing ji jia sheng	1808
+菡萏發荷花	han dan fa he hua	3015
+寒燈獨夜人	han deng du ye ren	912
+寒燈思舊事	han deng si jiu shi	996
+含光混世貴無名	han guang hun shi gui wu ming	1797
+瀚海闌干百丈冰	han hai lan gan bai zhang bing	2698
+韓翃	han hong	1107
+漢皇重色思傾國	han huang zhong se si qing guo	2319
+漢家大將西出師	han jia da jiang xi chu shi	2736
+漢家山東二百州	han jia shan dong er bai zhou	1738
+漢家煙塵在東北	han jia yan chen zai dong bei	2023
+漢將辭家破殘賊	han jiang ci jia po can zei	2022
+漢江臨眺	han jiang lin tiao	1288
+漢口夕陽斜渡鳥	han kou xi yang xie du niao	602
+寒林空見日斜時	han lin kong jian ri xie shi	610
+寒梅著花未	han mei zhu hua wei	331
+漢女輸幢布	han nv shu zhuang bu	1292
+寒禽與衰草	han qin yu shuai cao	1031
+寒磬滿空林	han qing man kong lin	1183
+含情凝睇謝君王	han qing ning di xie jun wang	2219
+含情慾說宮中事	han qing yu shuo gong zhong shi	23
+寒山轉蒼翠	han shan zhuan cang cui	1349
+寒聲一夜傳刁斗	han sheng yi ye chuan diao dou	2000
+寒食	han shi	91
+寒食東風御柳斜	han shi dong feng yu liu xie	89
+漢使斷腸對歸客	han shi duan chang dui gui ke	2895
+寒塘欲下遲	han tang yu xia chi	874
+漢文皇帝有高臺	han wen huang di you gao tai	799
+漢文有道恩猶薄	han wen you dao en you bo	609
+漢下白登道	han xia bai deng dao	3032
+涵虛混太清	han xu hun tai qing	1269
+韓愈	han yu	2479
+寒雨連江夜入吳	han yu lian jiang ye ru wu	141
+寒雲路幾層	han yun lu ji ceng	932
+行當浮桂棹	hang dang fu gui zhao	3372
+豪蕩感激	hao dang gan ji	2535
+毫髮盡備無差訛	hao fa jin bei wu cha e	2377
+浩浩風起波	hao hao feng qi bo	3125
+浩然離故關	hao ran li gu guan	924
+好爲廬山謠	hao wei lu shan yao	2821
+何必待之子	he bi dai zhi zi	3264
+何處還相遇	he chu hai xiang yu	3149
+何處西南任好風	he chu xi nan ren hao feng	409
+何處尋行跡	he chu xun xing ji	3138
+何當重相見	he dang chong xiang jian	919
+何當載酒來	he dang zai jiu lai	3315
+荷風送香氣	he feng song xiang qi	3308
+合昏尚知時	he hun shang zhi shi	3436
+和賈舍人早朝大明宮之作	he jia she ren zao chao da ming gong zhi zuo	773
+和晉陵路丞早春遊望	he jin ling lu cheng zao chun you wang	1548
+賀蘭山下陣如雲	he lan shan xia zhen ru yun	1940
+荷笠帶斜陽	he li dai xie yang	285
+何滿子	he man zi	234
+何年致此身	he nian zhi ci shen	908
+何求美人折	he qiu mei ren zhe	3543
+何日復歸來	he ri fu gui lai	1524
+何日平胡虜	he ri ping hu lu	3005
+河山北枕秦關險	he shan bei zhen qin guan xian	824
+河上仙翁去不回	he shang xian weng qu bu hui	794
+禾生隴畝無東西	he sheng long mu wu dong xi	1735
+河聲入海遙	he sheng ru hai yao	983
+何時返旆勒燕然	he shi fan pei le yan ran	561
+何事入羅幃	he shi ru luo wei	3485
+何時倚虛幌	he shi yi xu huang	1439
+何所慰吾誠	he suo wei wu cheng	3534
+何惜醉流霞	he xi zui liu xia	1245
+何須身後千載名	he xu shen hou qian zai ming	1784
+何以有羽翼	he yi you yu yi	3416
+何因北歸去	he yin bei gui qu	1118
+何用別尋方外去	he yong bie xun fang wai qu	571
+何用孤高比雲月	he yong gu gao bi yun yue	1796
+曷與三五相攀追	he yu san wu xiang pan zhui	2035
+賀知章	he zhi zhang	159
+恨別鳥驚心	hen bie niao jing xin	1433
+恨無知音賞	hen wu zhi yin shang	3305
+衡陽歸雁幾封書	heng yang gui yan ji feng shu	787
+紅豆生南國	hong dou sheng nan guo	338
+鴻飛冥冥日月白	hong fei ming ming ri yue bai	2606
+紅樓隔雨相望冷	hong lou ge yu xiang wang leng	422
+紅泥小火爐	hong ni xiao huo lu	238
+訇然中開	hong ran zhong kai	2783
+紅樹花迎曉露開	hong shu hua ying xiao lu kai	39
+紅桃綠柳垂檐向	hong tao lv liu chui yan xiang	1976
+鴻雁不堪愁裏聽	hong yan bu kan chou li ting	807
+鴻雁幾時到	hong yan ji shi dao	1392
+紅顏棄軒冕	hong yan qi xuan mian	1488
+紅顏未老恩先斷	hong yan wei lao en xian duan	48
+紅葉晚蕭蕭	hong ye wan xiao xiao	988
+紅妝白日鮮	hong zhuang bai ri xian	3020
+後不見來者	hou bu jian lai zhe	2947
+後宮詞	hou gong ci	51
+後宮佳麗三千人	hou gong jia li san qian ren	2301
+後來鞍馬何逡巡	hou lai an ma he qun xun	1697
+候時而來	hou shi er lai	1587
+侯王將相望久絕	hou wang jiang xiang wang jiu jue	2401
+後有韋諷前支盾	hou you wei feng qian zhi dun	2662
+忽到龐公棲隱處	hu dao pang gong qi yin chu	2844
+呼兒將出換美酒	hu er jiang chu huan mei jiu	1757
+胡兒眼淚雙雙落	hu er yan lei shuang shuang luo	1987
+忽逢青鳥使	hu feng qing niao shi	1250
+忽復乘舟夢日邊	hu fu cheng zhou meng ri bian	1822
+虎鼓瑟兮鸞回車	hu gu se xi luan hui che	2778
+忽魂悸以魄動	hu hun ji yi po dong	2776
+忽見陌頭楊柳色	hu jian mo tou yang liu se	134
+胡窺青海灣	hu kui qing hai wan	3031
+忽念山中客	hu nian shan zhong ke	3144
+胡騎憑陵雜風雨	hu qi ping ling za feng yu	2014
+胡琴琵琶與羌笛	hu qin pi pa yu qiang di	2695
+狐裘不暖錦衾薄	hu qiu bu nuan jin qin bo	2701
+忽然更作漁陽摻	hu ran geng zuo yu yang chan	2856
+忽然遭時變	hu ran zao shi bian	3195
+胡人落淚沾邊草	hu ren luo lei zhan bian cao	2896
+忽如一夜春風來	hu ru yi ye chun feng lai	2704
+胡天八月即飛雪	hu tian ba yue ji fei xue	2705
+胡爲乎來哉	hu wei hu lai zai	1867
+忽聞歌古調	hu wen ge gu diao	1541
+忽聞海上有仙山	hu wen hai shang you xian shan	2237
+忽聞水上琵琶聲	hu wen shui shang pi pa sheng	2166
+胡雁哀鳴夜夜飛	hu yan ai ming ye ye fei	1988
+湖月照我影	hu yue zhao wo ying	2800
+花鈿委地無人收	hua dian wei di wu ren shou	2281
+畫閣朱樓盡相望	hua ge zhu lou jin xiang wang	1977
+畫工如山貌不同	hua gong ru shan mao bu tong	2634
+花冠不整下堂來	hua guan bu zheng xia tang lai	2224
+花間一壺酒	hua jian yi hu jiu	3505
+花近高樓傷客心	hua jin gao lou shang ke xin	692
+花徑不曾緣客掃	hua jing bu ceng yuan ke sao	725
+畫樓西畔桂堂東	hua lou xi pan gui tang dong	476
+花路入溪口	hua lu ru xi kou	3258
+花落知多少	hua luo zhi duo shao	310
+畫眉深淺入時無	hua mei shen qian ru shi wu	17
+花門剺面請雪恥	hua men li mian qing xue chi	1645
+華亭鶴唳詎可聞	hua ting he li ju ke wen	1789
+畫圖省識春風面	hua tu sheng shi chun feng mian	645
+化爲狼與豺	hua wei lang yu chai	1862
+花隱掖垣暮	hua yin ye yuan mu	1427
+花迎劍佩星初落	hua ying jian pei xing chu luo	777
+懷君屬秋夜	huai jun shu qiu ye	272
+淮南木落楚山多	huai nan mu luo chu shan duo	619
+淮南一葉下	huai nan yi ye xia	973
+淮上對秋山	huai shang dui qiu shan	1117
+淮上喜會樑川故人	huai shang xi hui liang chuan gu ren	1124
+淮西有賊五十載	huai xi you zei wu shi zai	2078
+淮陰市井笑韓信	huai yin shi jing xiao han xin	1809
+緩歌慢舞凝絲竹	huan ge man wu ning si zhu	2291
+環佩空歸月下魂	huan pei kong gui yue xia hun	644
+歡笑情如舊	huan xiao qing ru jiu	1120
+歡言得所憩	huan yan de suo qi	3512
+歡醉中	huan zui zhong	2502
+黃埃散漫風蕭索	huang ai san man feng xiao suo	2277
+黃塵足今古	huang chen zu jin gu	3039
+荒城臨古渡	huang cheng lin gu du	1328
+皇甫冉	huang fu ran	569
+黃鶴樓	huang he lou	838
+黃河入海流	huang he ru hai liu	291
+黃鶴一去不復返	huang he yi qu bu fu fan	835
+黃鶴之飛尚不得	huang he zhi fei shang bu de	1885
+黃河之水天上來	huang he zhi shui tian shang lai	1782
+黃昏到寺蝙蝠飛	huang hun dao si bian fu fei	2476
+黃昏胡騎塵滿城	huang hun hu qi chen man cheng	1672
+黃昏飲馬傍交河	huang hun yin ma bang jiao he	1993
+黃金燃桂盡	huang jin ran gui jin	1221
+恍驚起而長嗟	huang jing qi er chang jie	2775
+荒居舊業貧	huang ju jiu ye pin	1045
+黃蘆苦竹繞宅生	huang lu ku zhu rao zhai sheng	2101
+黃門飛鞚動塵	huang men fei kong dong chen	1701
+黃山舊繞漢宮斜	huang shan jiu rao han gong xie	762
+荒戍落黃葉	huang shu luo huang ye	925
+黃葉仍風雨	huang ye reng feng yu	960
+黃雲隴底白雪飛	huang yun long di bai xue fei	2935
+黃雲萬里動風色	huang yun wan li dong feng se	2823
+黃雲蕭條白日暗	huang yun xiao tiao bai ri an	2855
+會當凌絕頂	hui dang ling jue ding	3476
+悔教夫婿覓封侯	hui jiao fu xu mi feng hou	133
+回看天際下中流	hui kan tian ji xia zhong liu	2323
+回看血淚相和流	hui kan xue lei xiang he liu	2278
+回樂峯前沙似雪	hui le feng qian sha si xue	65
+回眸一笑百媚生	hui mou yi xiao bai mei sheng	2313
+回日樓臺非甲帳	hui ri lou tai fei jia zhang	386
+揮手淚沾巾	hui shou lei zhan jin	1168
+揮手自茲去	hui shou zi zi qu	1466
+回頭下望人寰處	hui tou xia wang ren huan chu	2215
+回鄉偶書	hui xiang ou shu	158
+會須一飲三百杯	hui xu yi yin san bai bei	1773
+回崖沓障凌蒼蒼	hui ya ta zhang ling cang cang	2828
+回舟不待月	hui zhou bu dai yue	3012
+魂返關塞黑	hun fan guan sai hei	3412
+魂來楓林青	hun lai feng lin qing	3413
+魂魄不曾來入夢	hun po bu ceng lai ru meng	2246
+渾脫	hun tuo	2555
+渾欲不勝簪	hun yu bu sheng zan	1429
+或從十五北防河	huo cong shi wu bei fang he	1745
+或恐是同鄉	huo kong shi tong xiang	196
+或騎麒麟翳鳳凰	huo qi qi lin yi feng huang	2603
+霍如羿射九日落	huo ru yi she jiu ri luo	2529
+火維地荒足妖怪	huo wei di huang zu yao guai	2425
+既辨	ji bian	2544
+羈泊欲窮年	ji bo yu qiong nian	961
+即此羨閒逸	ji ci xian xian yi	3344
+即從巴峽穿巫峽	ji cong ba xia chuan wu xia	704
+幾度隔山川	ji du ge shan chuan	1054
+即公孫可知矣	ji gong sun ke zhi yi	2534
+寄韓諫議	ji han jian yi	2611
+幾行歸塞盡	ji hang gui sai jin	877
+寂寂花時閉院門	ji ji hua shi bi yuan men	25
+寂寂江山搖落處	ji ji jiang shan yao luo chu	607
+寂寂竟何待	ji ji jing he dai	1207
+幾盡而去	ji jin er qu	3212
+即今漂泊干戈際	ji jin piao bo gan ge ji	2617
+汲井漱寒齒	ji jing shu han chi	3079
+寄李儋元錫	ji li dan yuan xi	587
+肌理細膩骨肉勻	ji li xi ni gu rou yun	1714
+集靈臺二首之二	ji ling tai er shou zhi er	36
+集靈臺二首之一	ji ling tai er shou zhi yi	41
+羈旅長堪醉	ji lv chang kan zui	1079
+雞鳴紫陌曙光寒	ji ming zi mo shu guang han	781
+寂寞空庭春欲晚	ji mo kong ting chun yu wan	79
+寂寞身後事	ji mo shen hou shi	3391
+寂寞養殘生	ji mo yang can sheng	1378
+寄全椒山中道士	ji quan jiao shan zhong dao shi	3146
+幾日到臨洮	ji ri dao lin tao	2997
+寄上浮樑大兄	ji shang fu liang da xiong	499
+寄身且喜滄洲近	ji shen qie xi cang zhou jin	618
+幾時杯重把	ji shi bei zhong ba	1383
+寄書長不達	ji shu chang bu da	1397
+洎外供奉	ji wai gong feng	2551
+羈危萬里身	ji wei wan li shen	885
+寄臥郊扉久	ji wo jiao fei jiu	909
+積雪浮雲端	ji xue fu yun duan	322
+寄揚州韓綽判官	ji yang zhou han chuo pan guan	1
+際夜轉西壑	ji ye zhuan xi he	3257
+積雨空林煙火遲	ji yu kong lin yan huo chi	754
+積雨輞川莊作	ji yu wang chuan zhuang zuo	755
+記於郾城觀公孫氏舞劍器	ji yu yan cheng guan gong sun shi wu jian qi	2556
+既至金門遠	ji zhi jin men yuan	3378
+掎摭星宿遺羲娥	ji zhi xing xiu yi xi e	2365
+機中錦字論長恨	ji zhong jin zi lun chang hen	564
+繼周八代爭戰罷	ji zhou ba dai zheng zhan ba	2336
+即周召伯之甘棠	ji zhou zhao bo zhi gan tang	1603
+及茲契幽絕	ji zi qi you jue	3269
+寄左省杜拾遺	ji zuo sheng du shi yi	1500
+嘉賓復滿堂	jia bin fu man tang	3170
+賈島	jia dao	224
+嫁得瞿塘賈	jia de qu tang jia	164
+家臨九江水	jia lin jiu jiang shui	194
+佳人	jia ren	3449
+賈氏窺簾韓掾少	jia shi kui lian han yuan shao	446
+家書到隔年	jia shu dao ge nian	993
+家書抵萬金	jia shu di wan jin	1431
+家童掃蘿徑	jia tong sao luo jing	1126
+賈誼上書憂漢室	jia yi shang shu you han shi	598
+嫁與弄潮兒	jia yu nong chao er	161
+家在蝦蟆陵下住	jia zai ha ma ling xia zhu	2131
+家住層城鄰漢苑	jia zhu ceng cheng lin han yuan	566
+餞別王十一南遊	jian bie wang shi yi nan you	1170
+建德非吾土	jian de fei wu tu	1212
+澗底束荊薪	jian di shu jing xin	3143
+見爾當何秋	jian er dang he qiu	3086
+劍閣崢嶸而崔嵬	jian ge zheng rong er cui wei	1866
+間關鶯語花底滑	jian guan ying yu hua di hua	2146
+劍河風急雪片闊	jian he feng ji xue pian kuo	2713
+艱難苦恨繁霜鬢	jian nan ku hen fan shuang bin	695
+賤日豈殊衆	jian ri qi shu zhong	3337
+兼示符離及下邽弟妹	jian shi fu li ji xia gui di mei	496
+見螳螂之抱影	jian tang lang zhi bao ying	1568
+劍外忽傳收薊北	jian wai hu chuan shou ji bei	709
+揀選撰刻留山阿	jian xuan zhuan ke liu shan e	2381
+建業暮鍾時	jian ye mu zhong shi	1114
+漸與骨肉遠	jian yu gu rou yuan	882
+薦諸太廟比郜鼎	jian zhu tai miao bi gao ding	2354
+將蟲響悲於前聽	jiang chong xiang bei yu qian ting	1596
+江春入舊年	jiang chun ru jiu nian	1512
+絳脣珠袖兩寂寞	jiang chun zhu xiu liang ji mo	2525
+將村獨歸處	jiang cun du gui chu	1379
+將登太行雪滿山	jiang deng tai hang xue man shan	1824
+江楓漁火對愁眠	jiang feng yu huo dui chou mian	94
+將赴吳興登樂遊原	jiang fu wu xing deng le you yuan	16
+江漢曾爲客	jiang han ceng wei ke	1123
+江湖多風波	jiang hu duo feng bo	3400
+江湖秋水多	jiang hu qiu shui duo	1391
+江淮度寒食	jiang huai du han shi	3376
+將家就魚麥	jiang jia jiu yu mai	3179
+江靜潮初落	jiang jing chao chu luo	1523
+將軍得名三十載	jiang jun de ming san shi zai	2685
+將軍畫善蓋有神	jiang jun hua shan gai you shen	2619
+將軍角弓不得控	jiang jun jiao gong bu de kong	2700
+將軍金甲夜不脫	jiang jun jin jia ye bu tuo	2735
+將軍魏武之子孫	jiang jun wei wu zhi zi sun	2651
+將軍下筆開生面	jiang jun xia bi kai sheng mian	2640
+將軍夜引弓	jiang jun ye yin gong	178
+將老身反累	jiang lao shen fan lei	3393
+江柳共風煙	jiang liu gong feng yan	1146
+江流曲似九迴腸	jiang liu qu si jiu hui chang	545
+江流石不轉	jiang liu shi bu zhuan	296
+江流天地外	jiang liu tian di wai	1285
+江南逢李龜年	jiang nan feng li gui nian	107
+江南曲	jiang nan qu	165
+江南有丹橘	jiang nan you dan ju	3532
+江南瘴癘地	jiang nan zhang li di	3421
+江畔洲如月	jiang pan zhou ru yue	3316
+江清月近人	jiang qing yue jin ren	315
+江入大荒流	jiang ru da huang liu	1478
+江山故宅空文藻	jiang shan gu zhai kong wen zao	654
+江山留勝蹟	jiang shan liu sheng ji	1259
+江上幾人在	jiang shang ji ren zai	921
+江上月明胡雁過	jiang shang yue ming hu yan guo	620
+江水江花豈終極	jiang shui jiang hua qi zhong ji	1673
+江頭宮殿鎖千門	jiang tou gong dian suo qian men	1688
+將往復旋如有情	jiang wang fu xuan ru you qing	2886
+江鄉故人偶集客舍	jiang xiang gu ren ou ji ke she	1086
+江雪	jiang xue	250
+將因臥病解朝衣	jiang yin wo bing jie chao yi	738
+絳幘雞人送曉籌	jiang ze ji ren song xiao chou	772
+江州司馬青衫溼	jiang zhou si ma qing shan shi	2085
+江州重別薛六柳八二員外	jiang zhou zhong bie xue liu liu ba er yuan wai	623
+椒房阿監青娥老	jiao fang a jian qing e lao	2254
+矯矯珍木巔	jiao jiao zhen mu dian	3557
+蛟龍出沒猩鼯號	jiao long chu mo xing wu hao	2449
+教妾若爲容	jiao qie ruo wei rong	864
+矯如羣帝驂龍翔	jiao ru qun di can long xiang	2528
+腳著謝公屐	jiao zhu xie gong ji	2796
+嗟爾遠道之人	jie er yuan dao zhi ren	1868
+節候看應晚	jie hou kan ying wan	1101
+嗟乎	jie hu	1595
+羯胡事主終無賴	jie hu shi zhu zhong wu lai	662
+嗟君此別意何如	jie jun ci bie yi he ru	790
+節使三河募年少	jie shi san he mu nian shao	1938
+借問苦心愛者誰	jie wen ku xin ai zhe shui	2663
+借問路傍名利客	jie wen lu bang ming li ke	822
+皆向沙場老	jie xiang sha chang lao	3049
+婕妤傳詔才人索	jie yu chuan zhao cai ren suo	2680
+皆與此圖筋骨同	jie yu ci tu jin gu tong	2658
+嗟予好古生苦晚	jie yu hao gu sheng ku wan	2364
+嗟餘聽鼓應官去	jie yu ting gu ying guan qu	471
+嗟哉吾黨二三子	jie zai wu dang er san zi	2459
+今安在	jin an zai	1819
+金鞭斷折九馬死	jin bian duan zhe jiu ma si	1665
+金蟾齧鎖燒香入	jin chan nie suo shao xiang ru	448
+金昌緒	jin chang xu	212
+今成流淚泉	jin cheng liu lei quan	1833
+錦城雖雲樂	jin cheng sui yun le	1857
+近得歸京邑	jin de gui jing yi	1408
+錦帆應是到天涯	jin fan ying shi dao tian ya	465
+錦官城外柏森森	jin guan cheng wai bai sen sen	735
+今見功名勝古人	jin jian gong ming sheng gu ren	2708
+錦江春色來天地	jin jiang chun se lai tian di	690
+今看兩楹奠	jin kan liang ying dian	1633
+津口停舟渡不得	jin kou ting zhou du bu de	2915
+矜誇紫騮好	jin kua zi liu hao	3047
+今來典斯郡	jin lai dian si jun	3193
+近淚無干土	jin lei wu gan tu	1374
+禁裏疏鍾官舍晚	jin li shu zhong guan she wan	743
+金陵津渡小山樓	jin ling jin du xiao shan lou	30
+金陵酒肆留別	jin ling jiu si liu bie	2766
+金陵王氣黯然收	jin ling wang qi an ran shou	540
+金陵子弟來相送	jin ling zi di lai xiang song	2763
+禁門宮樹月痕過	jin men gong shu yue hen guo	45
+今年歡笑復明年	jin nian huan xiao fu ming nian	2122
+今漂淪憔悴	jin piao lun qiao cui	2182
+金闕前開二峯長	jin que qian kai er feng chang	2831
+金闕西廂叩玉扃	jin que xi xiang kou yu jiong	2231
+金闕曉鍾開萬戶	jin que xiao zhong kai wan hu	779
+今人多不彈	jin ren duo bu tan	279
+今日垂楊生左肘	jin ri chui yang sheng zuo zhou	1947
+今日俸錢過十萬	jin ri feng qian guo shi wan	525
+今日花開又一年	jin ri hua kai you yi nian	585
+盡日君王看不足	jin ri jun wang kan bu zu	2290
+今日龍鍾人共老	jin ri long zhong ren gong lao	616
+今日之日多煩憂	jin ri zhi ri duo fan you	2755
+近入千家散花竹	jin ru qian jia san hua zhu	1922
+錦瑟	jin se	487
+錦瑟無端五十弦	jin se wu duan wu shi xian	486
+金山西見煙塵飛	jin shan xi jian yan chen fei	2737
+今上岳陽樓	jin shang yue yang lou	1357
+金繩鐵索鎖鈕壯	jin sheng tie suo suo niu zhuang	2370
+近時郭家獅子花	jin shi guo jia shi zi hua	2674
+金石刻畫臣能爲	jin shi ke hua chen neng wei	2061
+近試上張水部	jin shi shang zhang shui bu	21
+金粟堆前木已拱	jin su dui qian mu yi gong	2513
+金粟堆前松柏裏	jin su dui qian song bai li	2654
+今爲羌笛出塞聲	jin wei qiang di chu sai sheng	2931
+今我不樂思岳陽	jin wo bu le si yue yang	2610
+今我遊冥冥	jin wo you ming ming	3553
+今無其器存其辭	jin wu qi qi cun qi ci	2039
+金屋無人見淚痕	jin wu wu ren jian lei hen	80
+今夕復何夕	jin xi fu he xi	3471
+近鄉情更怯	jin xiang qing geng qie	214
+金星妝成嬌侍夜	jin xing zhuang cheng jiao shi ye	2299
+今夜鄜州月	jin ye lu zhou yue	1445
+今夜偏知春氣暖	jin ye pian zhi chun qi nuan	83
+今夜聞君琵琶語	jin ye wen jun pi pa yu	2094
+今朝都到眼前來	jin zhao dou dao yan qian lai	521
+今朝郡齋冷	jin zhao jun zhai leng	3145
+今朝爲此別	jin zhao wei ci bie	3150
+今朝蟢子飛	jin zhao xi zi fei	253
+今之新圖有二馬	jin zhi xin tu you er ma	2673
+近種籬邊菊	jin zhong li bian ju	845
+今茲弟子亦匪盛顏	jin zi di zi yi fei sheng yan	2545
+金樽清酒鬥十千	jin zun qing jiu dou shi qian	1829
+經冬復立春	jing dong fu li chun	215
+經冬猶綠林	jing dong you lu lin	3531
+驚風亂颭芙蓉水	jing feng luan zhan fu rong shui	548
+驚呼熱中腸	jing hu re zhong chang	3466
+鏡湖三百里	jing hu san bai li	3016
+經歷久遠期無佗	jing li jiu yuan qi wu tuo	2345
+淨理了可悟	jing li le ke wu	3221
+京洛縫春衣	jing luo feng chun yi	3375
+荊門九派通	jing men jiu pai tong	1286
+旌旆逶迤碣石間	jing pei wei yi jie shi jian	2018
+驚破霓裳羽衣曲	jing po ni shang yu yi qu	2288
+旌旗無光日色薄	jing qi wu guang ri se bo	2274
+井稅有常期	jing shui you chang qi	3197
+靜聽松風寒	jing ting song feng han	281
+驚聞俗客爭來集	jing wen su ke zheng lai ji	1915
+竟夕起相思	jing xi qi xiang si	1627
+竟夕自悲秋	jing xi zi bei qiu	899
+徑須沽取對君酌	jing xu gu qu dui jun zhuo	1760
+靜夜四無鄰	jing ye si wu lin	1046
+經鄒魯祭孔子而嘆之	jing zou lu ji kong zi er tan zhi	1640
+迥立閶闔生長風	jiong li chang he sheng zhang feng	2632
+迥若寒空雜煙雪	jiong ruo han kong za yan xue	2668
+九重城闕煙塵生	jiu chong cheng que yan chen sheng	2287
+九雛鳴鳳亂啾啾	jiu chu ming feng luan jiu jiu	2859
+酒舫泛泛然	jiu fang fan fan ran	2493
+舊國見青山	jiu guo jian qing shan	1034
+舊好隔良緣	jiu hao ge liang yuan	957
+九華帳裏夢魂驚	jiu hua zhang li meng hun jing	2228
+啾啾棲鳥過	jiu jiu qi niao guo	1426
+鷲翎金僕姑	jiu ling jin pu gu	184
+九日登望仙台呈劉明府	jiu ri deng wang xian tai cheng liu ming fu	800
+舊時王謝堂前燕	jiu shi wang xie tang qian yan	58
+九天閶闔開宮殿	jiu tian chang he kai gong dian	770
+酒徒歷歷坐洲鳥	jiu tu li li zuo zhou niao	2484
+九微片片飛花瑣	jiu wei pian pian fei hua suo	1968
+久爲簪組累	jiu wei zan zu lei	3064
+舊業已隨征戰盡	jiu ye yi sui zheng zhan jin	553
+九月寒砧催木葉	jiu yue han zhen cui mu ye	359
+九月九日憶山東兄弟	jiu yue jiu ri yi shan dong xiong di	147
+就中雲幕椒房親	jiu zhong yun mu jiao fang qin	1707
+舉杯銷愁愁更愁	ju bei xiao chou chou geng chou	2747
+舉杯邀明月	ju bei yao ming yue	3503
+據湖岸	ju hu an	2501
+俱懷逸興壯思飛	ju huai yi xing zhuang si fei	2750
+舉酒欲飲無管絃	ju jiu yu yin wu guan xian	2169
+詎肯感激徒媕婀	ju ken gan ji tu an e	2343
+句奇語重喻者少	ju qi yu zhong yu zhe shao	2046
+居人共住武陵源	ju ren gong zhu wu ling yuan	1919
+居人未改秦衣服	ju ren wei gai qin yi fu	1920
+舉頭望明月	ju tou wang ming yue	306
+居閒始自遣	ju xian shi zi qian	3085
+劇辛樂毅感恩分	ju xin yue yi gan en fen	1805
+鐫功勒成告萬世	juan gong le cheng gao wan shi	2384
+卷帷望月空長嘆	juan wei wang yue kong chang tan	1849
+絕代有佳人	jue dai you jia ren	3448
+覺道資無窮	jue dao zi wu qiong	3218
+絕頂一茅茨	jue ding yi mao ci	3279
+絕域蒼茫更何有	jue yu cang mang geng he you	2002
+決眥入歸鳥	jue zi ru gui niao	3477
+君不見	jun bu jian	2655
+君不見沙場征戰苦	jun bu jian sha chang zheng zhan ku	1997
+君不見走馬川行雪海邊	jun bu jian zou ma chuan xing xue hai bian	2743
+君不聞	jun bu wen	1739
+君臣相顧盡沾衣	jun chen xiang gu jin zhan yi	2265
+君臣已與時際會	jun chen yi yu shi ji hui	2583
+君寵益嬌態	jun chong yi jiao tai	3333
+君歌且休聽我歌	jun ge qie xiu ting wo ge	2433
+君歌聲酸辭且苦	jun ge sheng suan ci qie ku	2452
+君家何處住	jun jia he chu zhu	199
+君今在羅網	jun jin zai luo wang	3417
+君憐無是非	jun lian wu shi fei	3332
+君莫停	jun mo ting	1770
+君王掩面救不得	jun wang yan mian jiu bu de	2279
+君問窮通理	jun wen qiong tong li	1308
+君言不得意	jun yan bu de yi	3386
+郡邑浮前浦	jun yi fu qian pu	1283
+郡齋雨中與諸文士燕集	jun zhai yu zhong yu zhu wen shi yan ji	3176
+君自故鄉來	jun zi gu xiang lai	334
+君子意如何	jun zi yi ru he	1393
+開國何茫然	kai guo he mang ran	1894
+開帷月初吐	kai wei yue chu tu	3290
+開軒覽物華	kai xuan lan wu hua	1251
+開軒面場圃	kai xuan mian chang pu	1230
+開軒臥閒敞	kai xuan wo xian chang	3309
+開元二十六年	kai yuan er shi liu nian	2028
+開元三載	kai yuan san zai	2558
+開元之中常引見	kai yuan zhi zhong chang yin jian	2643
+坎軻只得移荊蠻	kan ke zhi de yi jing man	2438
+客從東方來	ke cong dong fang lai	3136
+可憐光彩生門戶	ke lian guang cai sheng men hu	2296
+可憐閨裏月	ke lian gui li yue	1535
+可憐九馬爭神駿	ke lian jiu ma zheng shen jun	2665
+可憐王孫泣路隅	ke lian wang sun qi lu yu	1662
+客路青山外	ke lu qing shan wai	1517
+客去波平檻	ke qu bo ping kan	944
+柯如青銅根如石	ke ru qing tong gen ru shi	2586
+客心洗流水	ke xin xi liu shui	1459
+可以橫絕峨眉巔	ke yi heng jue e mei dian	1890
+可以薦嘉客	ke yi jian jia ke	3528
+客有從御史大夫張公出塞而還者	ke you cong yu shi da fu zhang gong chu sai er hai zhe	2027
+客至	ke zhi	728
+肯數鄴下黃鬚兒	ken shu ye xia huang xu er	1957
+肯與鄰翁相對飲	ken yu lin weng xiang dui yin	721
+空城澹月華	kong cheng dan yue hua	1104
+恐非平生魂	kong fei ping sheng hun	3415
+空見葡萄入漢家	kong jian pu tao ru han jia	1983
+空令歲月易蹉跎	kong ling sui yue yi cuo tuo	802
+孔明廟前有老柏	kong ming miao qian you lao bai	2587
+空山百鳥散還合	kong shan bai niao san hai he	2885
+空山不見人	kong shan bu jian ren	352
+空山松子落	kong shan song zi luo	270
+空山新雨後	kong shan xin yu hou	1340
+恐是漢代韓張良	kong shi han dai han zhang liang	2597
+空向秋波哭逝川	kong xiang qiu bo ku shi chuan	383
+空憶謝將軍	kong yi xie jiang jun	1451
+空有羨魚情	kong you xian yu qing	1263
+空園白露滴	kong yuan bai lu di	911
+空知返舊林	kong zhi fan jiu lin	1311
+空中聞天雞	kong zhong wen tian ji	2793
+孔子西行不到秦	kong zi xi xing bu dao qin	2366
+扣關無僮僕	kou guan wu tong pu	3277
+口角流沫右手胝	kou jue liu mo you shou zhi	2033
+扣門無犬吠	kou men wu quan fei	843
+苦道來不易	ku dao lai bu yi	3401
+苦恨年年壓金線	ku hen nian nian ya jin xian	364
+枯桑老柏寒颼飀	ku sang lao bai han sou liu	2860
+哭聲直上幹雲霄	ku sheng zhi shang gan yun xiao	1748
+枯鬆倒掛倚絕壁	ku song dao gua yi jue bi	1872
+苦心豈免容螻蟻	ku xin qi mian rong lou yi	2567
+跨馬出郊時極目	kua ma chu jiao shi ji mu	712
+快劍砍斷生蛟鼉	kuai jian kan duan sheng jiao tuo	2373
+狂夫富貴在青春	kuang fu fu gui zai qing chun	1973
+況復秦兵耐苦戰	kuang fu qin bing nai ku zhan	1734
+狂歌五柳前	kuang ge wu liu qian	1342
+況乃未休兵	kuang nai wei xiu bing	1396
+況是蔡家親	kuang shi cai jia qin	1039
+況餘白首	kuang yu bai shou	2546
+愧君相訪頻	kui jun xiang fang pin	1041
+愧君猶遣慎風波	kui jun you qian shen feng bo	615
+窺室惟案几	kui shi wei an ji	3276
+蠟炬成灰淚始幹	la ju cheng hui lei shi gan	430
+蠟照半籠金翡翠	la zhao ban long jin fei cui	455
+來從楚國遊	lai cong chu guo you	1480
+來對白頭吟	lai dui bai tou yin	1554
+來去九江側	lai qu jiu jiang ce	193
+來日綺窗前	lai ri qi chuang qian	332
+來如雷霆收震怒	lai ru lei ting shou zhen nu	2527
+來是空言去絕蹤	lai shi kong yan qu jue zong	459
+來途若夢行	lai tu ruo meng xing	1140
+來往不逢人	lai wang bu feng ren	3058
+來舞魏宮前	lai wu wei gong qian	1020
+賴茲託令門	lai zi tuo ling men	3093
+藍田日暖玉生煙	lan tian ri nuan yu sheng yan	481
+蘭葉春葳蕤	lan ye chun wei rui	3550
+攬衣推枕起徘徊	lan yi tui zhen qi pai huai	2227
+郎騎竹馬來	lang qi zhu ma lai	2993
+老病有孤舟	lao bing you gu zhou	1353
+老大嫁作商人婦	lao da jia zuo shang ren fu	2117
+老夫不知其所往	lao fu bu zhi qi suo wang	2509
+老將行	lao jiang xing	1961
+老去戀明時	lao qu lian ming shi	1175
+老至居人下	lao zhi ju ren xia	1149
+樂極哀來月東出	le ji ai lai yue dong chu	2510
+樂幽心屢止	le you xin lv zhi	3110
+樂遊原上望昭陵	le you yuan shang wang zhao ling	12
+雷鼓動山川	lei gu dong shan chuan	166
+淚溼羅巾夢不成	lei shi luo jin meng bu cheng	50
+李白	li bai	3522
+離杯惜共傳	li bei xi gong chuan	1048
+離別正堪悲	li bie zheng kan bei	1074
+李端	li duan	268
+李端公	li duan gong	1076
+驪宮高處入青雲	li gong gao chu ru qing yun	2293
+李廣無功緣數奇	li guang wu gong yuan shu qi	1951
+梨花滿地不開門	li hua man di bu kai men	78
+梨花一枝春帶雨	li hua yi zhi chun dai yu	2220
+理會是非遣	li hui shi fei qian	3167
+力盡關山未解圍	li jin guan shan wei jie wei	2008
+離離原上草	li li yuan shang cao	1008
+李頻	li pin	218
+李頎	li qi	2943
+麗人行	li ren xing	1718
+李商隱	li shang yin	2084
+吏舍局終年	li she ju zhong nian	3118
+慄深林兮驚層巔	li shen lin xi jing ceng dian	2789
+李斯稅駕苦不早	li si shui jia ku bu zao	1790
+李益	li yi	1067
+梨園子弟白髮新	li yuan zi di bai fa xin	2255
+梨園子弟散如煙	li yuan zi di san ru yan	2515
+利洲南渡	li zhou nan du	400
+聯步趨丹陛	lian bu qu dan bi	1499
+蓮動下漁舟	lian dong xia yu zhou	1335
+連峯去天不盈尺	lian feng qu tian bu ying chi	1873
+憐君何事到天涯	lian jun he shi dao tian ya	606
+連山接海隅	lian shan jie hai yu	1322
+連山若波濤	lian shan ruo bo tao	3229
+簾外春寒賜錦袍	lian wai chun han ci jin pao	128
+兩岸桃花夾古津	liang an tao hua jia gu jin	1928
+兩岸猿聲啼不住	liang an yuan sheng ti bu zhu	114
+兩別泣不休	liang bie qi bu xiu	3098
+兩朝開濟老臣心	liang chao kai ji lao chen xin	731
+兩處茫茫皆不見	liang chu mang mang jie bu jian	2238
+涼風起天末	liang feng qi tian mo	1394
+梁父吟成恨有餘	liang fu yin cheng hen you yu	434
+良人罷遠征	liang ren ba yuan zheng	3004
+良人玉勒乘驄馬	liang ren yu le cheng cong ma	1979
+良人昨夜情	liang ren zuo ye qing	1532
+兩三星火是瓜州	liang san xing huo shi gua zhou	27
+涼思	liang si	945
+良相頭上進賢冠	liang xiang tou shang jin xian guan	2639
+兩小無嫌猜	liang xiao wu xian cai	2990
+涼州詞	liang zhou ci	126
+涼州胡人爲我吹	liang zhou hu ren wei wo chui	2865
+聊持寶劍動星文	liao chi bao jian dong xing wen	1935
+潦倒新停濁酒杯	liao dao xin ting zhuo jiu bei	694
+遼東小婦年十五	liao dong xiao fu nian shi wu	2933
+寥落古行宮	liao luo gu xing gong	244
+寥落寒山對虛牖	liao luo han shan dui xu you	1943
+聊書所懷	liao shu suo huai	500
+聊爲劍器行	liao wei jian qi xing	2540
+料知短兵不敢接	liao zhi duan bing bu gan jie	2728
+列郡謳歌惜	lie jun ou ge xi	1381
+烈女操	lie nv cao	2964
+裂缺霹靂	lie que pi li	2786
+林暗草驚風	lin an cao jing feng	179
+林表明霽色	lin biao ming ji se	321
+臨別殷勤重寄詞	lin bie yin qin chong ji ci	2207
+臨風聽暮蟬	lin feng ting mu chan	1346
+臨感忽難收	lin gan hu nan shou	3084
+林昏瘴不開	lin hun zhang bu kai	1522
+臨邛道士鴻都客	lin qiong dao shi hong dou ke	2245
+林臥愁春盡	lin wo chou chun jin	1252
+臨行密密縫	lin xing mi mi feng	2954
+臨潁美人在白帝	lin ying mei ren zai bai di	2523
+林月低向後	lin yue di xiang hou	3254
+令彼征斂者	ling bi zheng lian zhe	3185
+零淚緣纓流	ling lei yuan ying liu	3082
+泠泠七絃上	ling ling qi xian shang	282
+玲瓏望秋月	ling long wang qiu yue	186
+零落依草木	ling luo yi cao mu	3445
+嶺樹重遮千里目	ling shu zhong zhe qian li mu	546
+嶺外音書絕	ling wai yin shu jue	216
+凌煙功臣少顏色	ling yan gong chen shao yan se	2641
+嶺猿同旦暮	ling yuan tong dan mu	1147
+柳邊人歇待船歸	liu bian ren xie dai chuan gui	396
+留別王侍御維	liu bie wang shi yu wei	1208
+劉常卿	liu chang qing	1180
+劉長卿	liu chang qing	1190
+流傳漢地曲轉奇	liu chuan han di qu zhuan qi	2866
+劉方平	liu fang ping	86
+柳拂旌旗露未乾	liu fu jing qi lu wei gan	776
+六宮粉黛無顏色	liu gong fen dai wu yan se	2312
+劉脊虛	liu ji xu	1097
+六軍不發無奈何	liu jun bu fa wu nai he	2283
+劉郎已恨蓬山遠	liu lang yi hen peng shan yuan	453
+瀏漓頓挫	liu li dun cuo	2554
+流落徵南將	liu luo zheng nan jiang	1178
+六年西顧空吟哦	liu nian xi gu kong yin e	2339
+流水如有意	liu shui ru you yi	1329
+流水十年間	liu shui shi nian jian	1121
+劉禹錫	liu yu xi	1029
+柳中庸	liu zhong yong	77
+柳宗元	liu zong yuan	3081
+留醉與山翁	liu zui yu shan weng	1280
+龍池柳色雨中深	long chi liu se yu zhong shen	592
+龍池十日飛霹靂	long chi shi ri fei pi li	2682
+龍媒去盡鳥呼風	long mei qu jin niao hu feng	2653
+隴上羊歸塞草煙	long shang yang gui sai cao yan	387
+龍吟虎嘯一時發	long yin hu xiao yi shi fa	2858
+龍種自與常人殊	long zhong zi yu chang ren shu	1656
+樓閣玲瓏五雲起	lou ge ling long wu yun qi	2235
+陋儒編詩不收入	lou ru bian shi bu shou ru	2368
+樓上花枝笑獨眠	lou shang hua zhi xiao du mian	563
+露草覆寒蟲	lu cao fu han chong	1080
+路出寒雲外	lu chu han yun wai	1073
+露從今夜白	lu cong jin ye bai	1401
+陸機雄才豈自保	lu ji xiong cai qi zi bao	1791
+盧家少婦鬱金香	lu jia shao fu yu jin xiang	361
+盧綸	lu lun	1077
+鹿門月照開煙樹	lu men yue zhao kai yan shu	2845
+路旁時賣故侯瓜	lu pang shi mai gu hou gua	1946
+虜騎崩騰畏蒺藜	lu qi beng teng wei ji li	1953
+露氣寒光集	lu qi han guang ji	906
+虜騎聞之應膽懾	lu qi wen zhi ying dan she	2729
+虜塞兵氣連雲屯	lu sai bing qi lian yun tun	2715
+廬山秀出南鬥傍	lu shan xiu chu nan dou bang	2834
+廬山謠寄盧侍御虛舟	lu shan yao ji lu shi yu xu zhou	2841
+淥水盪漾清猿啼	lu shui dang yang qing yuan ti	2797
+路遠不可測	lu yuan bu ke ce	3414
+露重飛難進	lu zhong fei nan jin	1553
+鸞刀縷切空紛綸	luan dao lv qie kong fen lun	1702
+亂山殘雪夜	luan shan can xue ye	884
+亂我心者	luan wo xin zhe	2756
+鸞翔鳳翥衆仙下	luan xiang feng zhu zhong xian xia	2372
+鑾輿迥出千門柳	luan yu jiong chu qian men liu	761
+論功還欲請長纓	lun gong hai yu qing chang ying	811
+輪臺城北旄頭落	lun tai cheng bei mao tou luo	2724
+輪臺城頭夜吹角	lun tai cheng tou ye chui jiao	2725
+輪臺東門送君去	lun tai dong men song jun qu	2692
+輪臺歌奉送封大夫出師西征	lun tai ge feng song feng dai fu chu shi xi zheng	2726
+輪臺九月風夜吼	lun tai jiu yue feng ye hou	2741
+駱賓王	luo bin wang	1612
+落帆逗淮鎮	luo fan dou huai zhen	3127
+落花	luo hua	954
+落花時節又逢君	luo hua shi jie you feng jun	103
+落落盤踞雖得地	luo luo pan ju sui de di	2575
+落日故人情	luo ri gu ren qing	1467
+落日滿秋山	luo ri man qiu shan	1327
+落日五湖春	luo ri wu hu chun	1164
+邏娑沙塵哀怨生	luo suo sha chen ai yuan sheng	2878
+絡緯秋啼金井闌	luo wei qiu ti jin jing lan	1852
+羅帷送上七香車	luo wei song shang qi xiang che	1975
+洛陽行子空嘆息	luo yang hang zi kong tan xi	2913
+洛陽女兒對門居	luo yang nv er dui men ju	1981
+洛陽女兒行	luo yang nv er xing	1982
+洛陽親友如相問	luo yang qin you ru xiang wen	139
+落葉滿階紅不掃	luo ye man jie hong bu sao	2256
+落葉滿空山	luo ye man kong shan	3139
+落葉秋風早	luo ye qiu feng zao	2974
+落葉人何在	luo ye ren he zai	933
+落葉他鄉樹	luo ye ta xiang shu	913
+落葉添薪仰古槐	luo ye tian xin yang gu huai	526
+羅衣欲換更添香	luo yi yu huan geng tian xiang	375
+落月滿屋樑	luo yue man wu liang	3411
+旅館無良伴	lv guan wu liang ban	998
+屢貌尋常行路人	lv mao xun chang xing lu ren	2616
+綠樹村邊合	lv shu cun bian he	1232
+旅宿	lv su	999
+旅夜書懷	lv ye shu huai	1368
+綠蟻新醅酒	lv yi xin pei jiu	239
+綠竹入幽徑	lv zhu ru you jing	3514
+馬戴	ma dai	917
+馬官廝養森成列	ma guan si yang sen cheng lie	2666
+馬毛帶雪汗氣蒸	ma mao dai xue han qi zheng	2732
+馬上相逢無紙筆	ma shang xiang feng wu zhi bi	109
+馬嵬坡下泥土中	ma wei po xia ni tu zhong	2267
+馬蕭蕭	ma xiao xiao	1753
+馬邑龍堆路幾千	ma yi long dui lu ji qian	567
+漫卷詩書喜欲狂	man juan shi shu xi yu kuang	706
+漫叟以公田米釀酒	man sou yi gong tian mi niang jiu	2506
+滿座重聞皆掩泣	man zuo zhong wen jie yan qi	2087
+茫茫江漢上	mang mang jiang han shang	1172
+茂陵不見封侯印	mao ling bu jian feng hou yin	384
+茅亭宿花影	mao ting su hua ying	3245
+茅屋訪孤僧	mao wu fang gu seng	934
+沒蕃故人	mei fan gu ren	1018
+每逢佳節倍思親	mei feng jia jie bei si qin	145
+美服患人指	mei fu huan ren zhi	3555
+美酒聊共揮	mei jiu liao gong hui	3511
+美酒一杯聲一曲	mei jiu yi bei sheng yi qu	2851
+梅柳渡江春	mei liu du jiang chun	1544
+美人胡爲隔秋水	mei ren hu wei ge qiu shui	2590
+美人娟娟隔秋水	mei ren juan juan ge qiu shui	2608
+美人卷珠簾	mei ren juan zhu lian	303
+美人清江畔	mei ren qing jiang pan	3285
+美人如花隔雲端	mei ren ru hua ge yun duan	1848
+美人相併立瓊軒	mei ren xiang bing li qiong xuan	24
+美人帳下猶歌舞	mei ren zhang xia you ge wu	2012
+莓苔見履痕	mei tai jian lv hen	1159
+媚眼惟看宿鷺窠	mei yan wei kan su lu ke	44
+沒在石棱中	mei zai shi leng zhong	176
+每至夕照低陰	mei zhi xi zhao di yin	1602
+每逐青溪水	mei zhu qing xi shui	3364
+門前遲行跡	men qian chi xing ji	2977
+門前冷落車馬稀	men qian leng luo che ma xi	2118
+門前學種先生柳	men qian xue zhong xian sheng liu	1945
+捫參歷井仰脅息	men shen li jing yang xie xi	1881
+門系釣魚船	men xi diao yu chuan	991
+孟浩然	meng hao ran	3327
+夢魂不到關山難	meng hun bu dao guan shan nan	1844
+猛將腰間大羽箭	meng jiang yao jian da yu jian	2638
+孟郊	meng jiao	2965
+夢李白二首之二	meng li bai er shou zhi er	3407
+夢李白二首之一	meng li bai er shou zhi yi	3424
+夢啼妝淚紅闌干	meng ti zhuang lei hong lan gan	2111
+夢爲遠別啼難喚	meng wei yuan bie ti nan huan	457
+夢遊天姥吟留別	meng you tian mu yin liu bie	2811
+宓妃留枕魏王才	mi fei liu zhen wei wang cai	445
+迷花不事君	mi hua bu shi jun	1485
+迷花倚石忽已暝	mi hua yi shi hu yi ming	2791
+迷津欲有問	mi jin yu you wen	1192
+密雨斜侵薜荔牆	mi yu xie qin bi li qiang	547
+廟內老人識神意	miao nei lao ren shi shen yi	2407
+妙舞此曲神揚揚	miao wu ci qu shen yang yang	2522
+滅燭憐光滿	mie zhu lian guang man	1626
+黽勉空仰止	min mian kong yang zhi	3272
+憫餘	min yu	1561
+明朝掛帆席	ming chao gua fan xi	1448
+明朝望鄉處	ming chao wang xiang chu	1521
+明朝有封事	ming chao you feng shi	1421
+名成八陣圖	ming cheng ba zhen tu	297
+冥冥孤高多烈風	ming ming gu gao duo lie feng	2574
+冥冥花正開	ming ming hua zheng kai	3132
+冥冥鳥去遲	ming ming niao qu chi	1112
+冥冥日沈夕	ming ming ri shen xi	3124
+明眸皓齒今何在	ming mou hao chi jin he zai	1678
+明年	ming nian	3211
+明年秋	ming nian qiu	2196
+名豈文章著	ming qi wen zhang zhu	1363
+明日巴陵道	ming ri ba ling dao	1059
+明日隔山嶽	ming ri ge shan yue	3451
+明日歲華新	ming ri sui hua xin	879
+名屬教坊第一部	ming shu jiao fang di yi bu	2129
+明我長相憶	ming wo chang xiang yi	3418
+明月出天山	ming yue chu tian shan	3036
+明月來相照	ming yue lai xiang zhao	344
+命曰琵琶行	ming yue pi pa xing	2173
+明月鬆間照	ming yue song jian zhao	1338
+明朝散發弄扁舟	ming zhao san fa nong pian zhou	2745
+明朝驛使發	ming zhao yi shi fa	3002
+鳴箏金粟柱	ming zheng jin su zhu	266
+莫辭更坐彈一曲	mo ci geng zuo dan yi qu	2092
+莫得同車歸	mo de tong che gui	3330
+莫見長安行樂處	mo jian chang an xing le chu	803
+莫教枝上啼	mo jiao zhi shang ti	209
+莫買沃洲山	mo mai wo zhou shan	275
+漠漠帆來重	mo mo fan lai zhong	1113
+漠漠水田飛白鷺	mo mo shui tian fei bai lu	752
+莫是藁砧歸	mo shi gao zhen gui	251
+莫使金樽空對月	mo shi jin zun kong dui yue	1777
+莫嫌舊日雲中守	mo xian jiu ri yun zhong shou	1932
+莫學武陵人	mo xue wu ling ren	326
+莫學遊俠兒	mo xue you xia er	3048
+磨牙吮血	mo ya shun xue	1859
+暮從碧山下	mu cong bi shan xia	3520
+木落雁南渡	mu luo yan nan du	1198
+暮年詩賦動江關	mu nian shi fu dong jiang guan	660
+暮去朝來顏色故	mu qu zhao lai yan se gu	2119
+暮惹御香歸	mu re yu xiang gui	1496
+慕陶真可庶	mu tao zhen ke shu	3107
+牧童敲火牛礪角	mu tong qiao huo niu li jiao	2342
+暮雨相呼失	mu yu xiang hu shi	875
+幕中草檄硯水凝	mu zhong cao xi yan shui ning	2730
+暮作吳宮妃	mu zuo wu gong fei	3338
+那堪把剪刀	na kan ba jian dao	2999
+那堪玄鬢影	na kan xuan bin ying	1555
+那堪正飄泊	na kan zheng piao bo	880
+那聞舊人哭	na wen jiu ren ku	3433
+奈何阻重深	nai he zu zhong shen	3527
+乃作歌以長之	nai zuo ge yi chang zhi	2490
+男兒本自重橫行	nan er ben zi zhong heng xing	2021
+男兒事長征	nan er shi chang zheng	2941
+南冠客思侵	nan guan ke si qin	1556
+南極老人應壽昌	nan ji lao ren ying shou chang	2591
+南陵寓使遲	nan ling yu shi chi	939
+南浦清江萬里橋	nan pu qing jiang wan li qiao	717
+南山歸敝廬	nan shan gui bi lu	1242
+南山截竹爲篳篥	nan shan jie zhu wei bi li	2868
+內府殷紅瑪瑙盤	nei fu yan hong ma nao pan	2681
+能以精誠致魂魄	neng yi jing cheng zhi hun po	2244
+能飲一杯無	neng yin yi bei wu	236
+泥他沽酒拔金釵	ni ta gu jiu ba jin chai	528
+擬託良媒益自傷	ni tuo liang mei yi zi shang	369
+霓爲衣兮風爲馬	ni wei yi xi feng wei ma	2780
+年年越溪女	nian nian yue xi nv	861
+年年戰骨埋荒外	nian nian zhan gu mai huang wai	1984
+輦前才人帶弓箭	nian qian cai ren dai gong jian	1682
+年深豈免有缺畫	nian shen qi mian you que hua	2374
+念天地之悠悠	nian tian di zhi you you	2946
+年長色衰	nian zhang se shuai	2188
+鳥飛不到吳天長	niao fei bu dao wu tian chang	2826
+鳥亦罷其鳴	niao yi ba qi ming	2880
+凝絕不通聲漸歇	ning jue bu tong sheng jian xie	2143
+凝情自悄然	ning qing zi qiao ran	997
+牛渚西江夜	niu zhu xi jiang ye	1454
+女樂餘姿映寒日	nv yue yu zi ying han ri	2514
+女子今有行	nv zi jin you xing	3103
+偶逢佳士亦寫真	ou feng jia shi yi xie zhen	2618
+偶然值林叟	ou ran zhi lin sou	1272
+偶似山林客	ou si shan lin ke	3061
+嘔啞嘲哳難爲聽	ou ya zhao zha nan wei ting	2095
+排空馭氣奔如電	pai kong yu qi ben ru dian	2241
+盤賜將軍拜舞歸	pan ci jiang jun bai wu gui	2679
+判司卑官不堪說	pan si bei guan bu kan shuo	2437
+盤飧市遠無兼味	pan sun shi yuan wu jian wei	723
+潘岳悼亡猶費詞	pan yue dao wang you fei ci	510
+袍褲宮人掃御牀	pao ku gong ren sao yu chuang	373
+裴迪	pei di	330
+佩聲歸向鳳池頭	pei sheng gui xiang feng chi tou	765
+噴雲泄霧藏半腹	pen yun xie wu cang ban fu	2423
+蓬萊此去無多路	peng lai ci qu wu duo lu	427
+蓬萊宮中日月長	peng lai gong zhong ri yue chang	2216
+蓬萊文章建安骨	peng lai wen zhang jian an gu	2752
+蓬門今始爲君開	peng men jin shi wei jun kai	724
+蓬門未識綺羅香	peng men wei shi qi luo xiang	370
+烹羊宰牛且爲樂	peng yang zai niu qie wei le	1774
+琵琶聲停欲語遲	pi pa sheng ting yu yu chi	2163
+琵琶行並序	pi pa xing bing xu	2199
+披衣覺露滋	pi yi jue lu zi	1625
+偏驚物候新	pian jing wu hou xin	1546
+片影獨何之	pian ying du he zhi	876
+漂泊西南天地間	piao bo xi nan tian di jian	665
+飄飄何所似	piao piao he suo si	1361
+貧儉誠所尚	pin jian cheng suo shang	3091
+貧賤夫妻百事哀	pin jian fu qi bai shi ai	515
+貧賤江頭自浣紗	pin jian jiang tou zi huan sha	1962
+頻年不解兵	pin nian bu jie bing	1536
+貧女	pin nv	371
+屏風九疊雲錦張	ping feng jiu die yun jin zhang	2833
+平海夕漫漫	ping hai xi man man	1191
+憑君傳語報平安	ping jun chuan yu bao ping an	108
+平明吹笛大軍行	ping ming chui di da jun xing	2718
+平明閭巷掃花開	ping ming lv xiang sao hua kai	1914
+平明騎馬入宮門	ping ming qi ma ru gong men	34
+平明送客楚山孤	ping ming song ke chu shan gu	140
+平明尋白羽	ping ming xun bai yu	177
+平沙莽莽黃入天	ping sha mang mang huang ru tian	2742
+平沙日未沒	ping sha ri wei mei	3043
+平生自有分	ping sheng zi you fen	1040
+憑軒涕泗流	ping xuan ti si liu	1351
+平陽歌舞新承寵	ping yang ge wu xin cheng chong	129
+頗得清淨理	po de qing jing li	3266
+破邵	po shao	3209
+迫之如火煎	po zhi ru huo jian	3184
+鋪牀拂席置羹飯	pu chuang fu xi zhi geng fan	2471
+僕失路艱虞	pu shi lu jian yu	1574
+浦樹遠含滋	pu shu yuan han zi	1110
+葡萄美酒夜光杯	pu tao mei jiu ye guang bei	125
+豈必局束爲人鞿	qi bi ju shu wei ren ji	2460
+豈不如賊焉	qi bu ru zei yan	3186
+七層摩蒼穹	qi ceng mo cang qiong	3232
+豈非正直能感通	qi fei zheng zhi neng gan tong	2418
+其間旦暮聞何物	qi jian dan mu wen he wu	2100
+豈力能制敵歟	qi li neng zhi di yu	3206
+淒涼寶劍篇	qi liang bao jian pian	962
+淒涼蜀故妓	qi liang shu gu ji	1021
+齊魯青未了	qi lu qing wei liao	3481
+其年始改稱元和	qi nian shi gai cheng yuan he	2361
+悽悽不似向前聲	qi qi bu si xiang qian sheng	2088
+萋萋滿別情	qi qi man bie qing	1001
+悽悽去親愛	qi qi qu qin ai	3154
+豈人	qi ren	1598
+豈上望夫臺	qi shang wang fu tai	2982
+其所師	qi suo shi	2560
+岐王宅裏尋常見	qi wang zhai li xun chang jian	106
+棄我去者	qi wo qu zhe	2758
+綦毋潛	qi wu qian	3263
+豈無山歌與村笛	qi wu shan ge yu cun di	2096
+其險也如此	qi xian ye ru ci	1869
+豈向人間住	qi xiang ren jian zhu	276
+七言古詩	qi yan gu shi	2944
+七言絕句	qi yan jue ju	160
+豈伊地氣暖	qi yi di qi nuan	3530
+豈宜重問後庭花	qi yi zhong wen hou ting hua	461
+其由來	qi you lai	2543
+其餘七匹亦殊絕	qi yu qi pi yi shu jue	2669
+豈曰財賦強	qi yue cai fu qiang	3156
+七月七日長生殿	qi yue qi ri chang sheng dian	2205
+氣蒸雲夢澤	qi zheng yun meng ze	1268
+其中綽約多仙子	qi zhong chuo yue duo xian zi	2234
+遣悲懷三首之二	qian bei huai san shou zhi er	523
+遣悲懷三首之三	qian bei huai san shou zhi san	514
+遣悲懷三首之一	qian bei huai san shou zhi yi	532
+前不見古人	qian bu jian gu ren	2948
+千村萬落生荊杞	qian cun wan luo sheng jing qi	1737
+千呼萬喚始出來	qian hu wan huan shi chu lai	2160
+鉛華不可棄	qian hua bu ke qi	252
+千喚不一回	qian huan bu yi hui	2986
+千金裘	qian jin qiu	1758
+千金散盡還復來	qian jin san jin huan fu lai	1775
+乾坤日夜浮	qian kun ri ye fu	1355
+千里其如何	qian li qi ru he	3283
+牽蘿補茅屋	qian luo bu mao wu	3429
+前年伐月支	qian nian fa yue zhi	1017
+錢起	qian qi	1143
+千秋尚凜然	qian qiu shang lin ran	1026
+千秋萬歲名	qian qiu wan sui ming	3392
+千山鳥飛絕	qian shan niao fei jue	249
+千山響杜鵑	qian shan xiang du juan	1295
+千乘萬騎西南行	qian sheng wan qi xi nan xing	2286
+千樹萬樹梨花開	qian shu wan shu li hua kai	2703
+潛心默禱若有應	qian xin mo dao ruo you ying	2419
+千尋鐵鎖沈江底	qian xun tie suo shen jiang di	539
+千巖萬壑路不定	qian yan wan he lu bu ding	2792
+牽衣頓足攔道哭	qian yi dun zu lan dao ku	1749
+千營共一呼	qian ying gong yi hu	181
+乾元初從左拾遺移華州掾	qian yuan chu cong zuo shi yi yi hua zhou yuan	1417
+前月浮樑買茶去	qian yue fu liang mai cha qu	2115
+千載琵琶作胡語	qian zai pi pa zuo hu yu	643
+將進酒	qiang jin jiu	1783
+羌戎賀勞旋	qiang rong he lao xuan	168
+強移棲息一枝安	qiang yi qi xi yi zhi an	677
+強欲從君無那老	qiang yu cong jun wu na lao	739
+樵客初傳漢姓名	qiao ke chu chuan han xing ming	1921
+樵人歸欲盡	qiao ren gui yu jin	3297
+妾發初覆額	qie fa chu fu e	2995
+且放白鹿青崖間	qie fang bai lu qing ya jian	2770
+且樂生前一杯酒	qie le sheng qian yi bei jiu	1785
+且如今年冬	qie ru jin nian dong	1730
+且爲王孫立斯須	qie wei wang sun li si xu	1652
+竊聞天子已傳位	qie wen tian zi yi chuan wei	1647
+妾心井中水	qie xin jing zhong shui	2958
+且欲竟尋彭澤宰	qie yu jing xun peng ze zai	793
+妾住在橫塘	qie zhu zai heng tang	198
+秦地羅敷女	qin di luo fu nv	3023
+琴歌	qin ge	2910
+親朋無一字	qin peng wu yi zi	1354
+秦桑低綠枝	qin sang di lv zhi	3489
+秦韜玉	qin tao yu	372
+琴心三疊道初成	qin xin san die dao chu cheng	2816
+秦中感秋寄遠上人	qin zhong gan qiu ji yuan shang ren	1226
+青靄入看無	qing ai ru kan wu	1320
+清晨入古寺	qing chen ru gu si	1508
+清晨再拜鋪丹墀	qing chen zai bai pu dan chi	2051
+清川帶長薄	qing chuan dai chang bo	1331
+清川澹如此	qing chuan dan ru ci	3356
+晴川歷歷漢陽樹	qing chuan li li han yang shu	833
+晴翠接荒城	qing cui jie huang cheng	1003
+清風吹空月舒波	qing feng chui kong yue shu bo	2455
+青楓江上秋帆遠	qing feng jiang shang qiu fan yuan	786
+青楓葉赤天雨霜	qing feng ye chi tian yu shuang	2605
+清光猶爲君	qing guang you wei jun	3246
+晴光轉綠蘋	qing guang zhuan lv ping	1542
+青海頭	qing hai tou	1722
+清淮奉使千餘裏	qing huai feng shi qian yu li	2901
+青槐夾馳道	qing huai jia chi dao	3227
+清輝淡水木	qing hui dan shui mu	3289
+清輝玉臂寒	qing hui yu bi han	1440
+清輝照衣裳	qing hui zhao yi shang	1088
+請君試問東流水	qing jun shi wen dong liu shui	2761
+請君爲我側耳聽	qing jun wei wo ce er ting	1768
+請留盤石上	qing liu pan shi shang	3355
+輕攏慢捻抹復挑	qing long man nian mo fu tiao	2152
+青樓自管絃	qing lou zi guan xian	959
+青蘿拂行衣	qing luo fu xing yi	3513
+青冥浩蕩不見底	qing ming hao dang bu jian di	2782
+清明日宴梅道士房	qing ming ri yan mei dao shi fang	1253
+青泥何盤盤	qing ni he pan pan	1883
+青鳥飛去銜紅巾	qing niao fei qu xian hong jin	1694
+青鳥殷勤爲探看	qing niao yin qin wei tan kan	426
+情親見君意	qing qin jian jun yi	3403
+清秋幕府井梧寒	qing qiu mu fu jing wu han	684
+清泉石上流	qing quan shi shang liu	1337
+情人怨遙夜	qing ren yuan yao ye	1628
+清瑟怨遙夜	qing se yuan yao ye	857
+青山澹吾慮	qing shan dan wu lv	3115
+青山獨歸遠	qing shan du gui yuan	284
+青山郭外斜	qing shan guo wai xie	1231
+青山橫北郭	qing shan heng bei guo	1472
+青山空復情	qing shan kong fu qing	1384
+青山空向人	qing shan kong xiang ren	1166
+青山朝別暮還見	qing shan zhao bie mu hai jian	2926
+輕生一劍知	qing sheng yi jian zhi	1173
+清時有味是無能	qing shi you wei shi wu neng	15
+青松如膏沐	qing song ru gao mu	3068
+青天無片雲	qing tian wu pian yun	1453
+蜻蜓飛上玉搔頭	qing ting fei shang yu sao tou	52
+輕紈細綺相追飛	qing wan xi qi xiang zhui fei	2678
+清渭東流劍閣深	qing wei dong liu jian ge shen	1676
+清畏人知	qing wei ren zhi	1575
+青溪	qing xi	3366
+青溪幾曲到雲林	qing xi ji qu dao yun lin	1902
+清溪深不測	qing xi shen bu ce	3249
+清心拂塵服	qing xin fu chen fu	3078
+輕煙散入五侯家	qing yan san ru wu hou jia	87
+青陽逼歲除	qing yang bi sui chu	1238
+清月出嶺光入扉	qing yue chu ling guang ru fei	2468
+青雲羨鳥飛	qing yun xian niao fei	1494
+輕舟已過萬重山	qing zhou yi guo wan chong shan	113
+請奏鳴琴廣陵客	qing zou ming qin guang ling ke	2908
+窮邊有客遊	qiong bian you ke you	891
+窮巷牛羊歸	qiong xiang niu yang gui	3351
+秋邊一雁聲	qiu bian yi yan sheng	1402
+秋草獨尋人去後	qiu cao du xun ren qu hou	611
+秋蟬疏引	qiu chan shu yin	1601
+秋登蘭山寄張五	qiu deng lan shan ji zhang wu	3326
+秋風吹不盡	qiu feng chui bu jin	3007
+秋風忽憶江東行	qiu feng hu yi jiang dong xing	1786
+秋歌	qiu ge	3010
+秋花落更遲	qiu hua luo geng chi	1127
+秋來未著花	qiu lai wei zhu hua	844
+丘巒崩摧	qiu luan beng cui	2785
+秋日登吳公臺上寺遠眺	qiu ri deng wu gong tai shang si yuan tiao	1189
+秋日赴闕題潼關驛樓	qiu ri fu que ti tong guan yi lou	989
+秋日望鄉心	qiu ri wang xiang xin	1187
+秋色從西來	qiu se cong xi lai	3225
+秋山又幾重	qiu shan you ji chong	1058
+秋水日潺湲	qiu shui ri chan yuan	1348
+邱爲	qiu wei	3281
+虯鬚虎眉仍大顙	qiu xu hu mei reng da sang	2923
+秋雁又南迴	qiu yan you nan hui	850
+秋夜寄邱員外	qiu ye ji qiu yuan wai	273
+秋雨梧桐葉落時	qiu yu wu tong ye luo shi	2258
+秋月春風等閒度	qiu yue chun feng deng xian du	2121
+秋雲暗幾重	qiu yun an ji chong	1456
+曲罷曾教善才服	qu ba ceng jiao shan cai fu	2128
+曲罷憫然	qu ba min ran	2184
+驅車登古原	qu che deng gu yuan	227
+取代幽憂云爾	qu dai you you yun er	1558
+曲島蒼茫接翠微	qu dao cang mang jie cui wei	398
+驅兒羅酒漿	qu er luo jiu jiang	3458
+曲盡河星稀	qu jin he xing xi	3509
+曲徑通幽處	qu jing tong you chu	1506
+去來江口守空船	qu lai jiang kou shou kong chuan	2114
+去年花裏逢君別	qu nian hua li feng jun bie	586
+去世法舟輕	qu shi fa zhou qing	1138
+去時冠劍是丁年	qu shi guan jian shi ding nian	385
+去時里正與裹頭	qu shi li zheng yu guo tou	1743
+去時雪滿天山路	qu shi xue man tian shan lu	2691
+瞿塘石城草蕭瑟	qu tang shi cheng cao xiao se	2512
+瞿塘灩預堆	qu tang yan yu dui	2980
+趣途無百里	qu tu wu bai li	3362
+屈原終投湘水濱	qu yuan zhong tou xiang shui bin	1792
+曲終收撥當心畫	qu zhong shou bo dang xin hua	2138
+去住彼此無消息	qu zhu bi ci wu xiao xi	1675
+權德輿	quan de yu	256
+泉壑帶茅茨	quan he dai mao ci	1132
+泉聲咽危石	quan sheng yan wei shi	1301
+勸我識作石鼓歌	quan wo shi zuo shi gu ge	2393
+泉源在庭戶	quan yuan zai ting hu	3199
+卻顧所來徑	que gu suo lai jing	3518
+卻看妻子愁何在	que kan qi zi chou he zai	707
+闕題	que ti	1096
+卻下水晶簾	que xia shui jing lian	187
+卻嫌脂粉污顏色	que xian zhi fen wu yan se	33
+卻坐促弦弦轉急	que zuo cu xian xian zhuan ji	2089
+羣壑倏已暝	qun he shu yi ming	3300
+羣山萬壑赴荊門	qun shan wan he fu jing men	649
+羣彥今汪洋	qun yan jin wang yang	3158
+然後天梯石棧方鉤連	ran hou tian ti shi zhan fang gou lian	1888
+苒苒幾盈虛	ran ran ji ying xu	3287
+繞船月明江水寒	rao chuan yue ming jiang shui han	2113
+繞牀弄青梅	rao chuang nong qing mei	2992
+繞弦風雨哀	rao xian feng yu ai	856
+人歸暮雪時	ren gui mu xue shi	1072
+人歸山郭暗	ren gui shan guo an	3123
+人間亦自有丹丘	ren jian yi zi you dan qiu	570
+人間又見真乘黃	ren jian you jian zhen cheng huang	2684
+人看隘若耶	ren kan ai ruo ye	3013
+人貧傷可憐	ren pin shang ke lian	3190
+人生不相見	ren sheng bu xiang jian	3473
+人生得意須盡歡	ren sheng de yi xu jin huan	1778
+人生如此自可樂	ren sheng ru ci zi ke le	2461
+人生由命非由他	ren sheng you ming fei you ta	2430
+人生有情淚沾臆	ren sheng you qing lei zhan yi	1674
+人生在世不稱意	ren sheng zai shi bu chen yi	2746
+忍使驊騮氣凋喪	ren shi hua liu qi diao sang	2620
+人世幾回傷往事	ren shi ji hui shang wang shi	537
+人事音書漫寂寥	ren shi yin shu man ji liao	668
+人事有代謝	ren shi you dai xie	1261
+人誰感至精	ren shui gan zhi jing	3536
+人隨沙路向江村	ren sui sha lu xiang jiang cun	2847
+仁恤庶無尤	ren xu shu wu you	3092
+人在木蘭舟	ren zai mu lan zhou	903
+仍憐故鄉水	reng lian gu xiang shui	1475
+日出霧露餘	ri chu wu lu yu	3069
+日出雲中雞犬喧	ri chu yun zhong ji quan xuan	1916
+日高花影重	ri gao hua ying chong	862
+日光斜照集靈臺	ri guang xie zhao ji ling tai	40
+日暮復何之	ri mu fu he zhi	1171
+日暮漢宮傳蠟燭	ri mu han gong chuan la zhu	88
+日暮客愁新	ri mu ke chou xin	317
+日暮聊爲梁父吟	ri mu liao wei liang fu yin	686
+日暮鄉關何處是	ri mu xiang guan he chu shi	831
+日暮掩柴扉	ri mu yan chai fei	342
+日暮倚修竹	ri mu yi xiu zhu	3425
+日色才臨仙掌動	ri se cai lin xian zhang dong	768
+日色冷青松	ri se leng qing song	1300
+日色已盡花含煙	ri se yi jin hua han yan	1841
+日夕懷空意	ri xi huai kong yi	3537
+日夕涼風至	ri xi liang feng zhi	1219
+日夕望君抱琴至	ri xi wang jun bao qin zhi	2870
+日銷月鑠就埋沒	ri xiao yue shuo jiu mai mo	2340
+日晏猶得眠	ri yan you de mian	3196
+日夜經過趙李家	ri ye jing guo zhao li jia	1964
+日月照耀金銀臺	ri yue zhao yao jin yin tai	2781
+戎馬關山北	rong ma guan shan bei	1352
+容止順其猷	rong zhi shun qi you	3088
+入蔡縛賊獻太廟	ru cai fu zei xian tai miao	2066
+如此至寶存豈多	ru ci zhi bao cun qi duo	2357
+汝從事愈宜爲辭	ru cong shi yu yi wei ci	2063
+濡染大筆何淋漓	ru ran da bi he lin li	2055
+如聽萬壑鬆	ru ting wan he song	1460
+如聽仙樂耳暫明	ru ting xian yue er zan ming	2093
+若非巾柴車	ruo fei jin chai che	3275
+若負平生志	ruo fu ping sheng zhi	3397
+颯颯東風細雨來	sa sa dong feng xi yu lai	450
+塞上曲	sai shang qu	3055
+塞下曲	sai xia qu	3046
+塞下曲四首之二	sai xia qu si shou zhi er	180
+塞下曲四首之三	sai xia qu si shou zhi san	175
+塞下曲四首之四	sai xia qu si shou zhi si	170
+塞下曲四首之一	sai xia qu si shou zhi yi	185
+三邊曙色動危旌	san bian shu se dong wei jing	815
+散步詠涼天	san bu yong liang tian	271
+三春白雪歸青冢	san chun bai xue gui qing zhong	73
+散發乘夜涼	san fa cheng ye liang	3310
+三分割據紆籌策	san fen ge ju yu chou ce	629
+三顧頻煩天下計	san gu pin fan tian xia ji	732
+三晉雲山皆北向	san jin yun shan jie bei xiang	797
+三徑苦無資	san jing ku wu zi	1224
+三軍大呼陰山動	san jun da hu yin shan dong	2716
+三年謫宦此棲遲	san nian zhe huan ci qi chi	613
+三千寵愛在一身	san qian chong ai zai yi shen	2300
+三日入廚下	san ri ru chu xia	260
+散入珠簾溼羅幕	san ru zhu lian shi luo mu	2702
+三峽樓臺淹日月	san xia lou tai yan ri yue	664
+三峽星河影動搖	san xia xing he ying dong yao	672
+三湘愁鬢逢秋色	san xiang chou bin feng qiu se	555
+三夜頻夢君	san ye pin meng jun	3404
+三月三日天氣新	san yue san ri tian qi xin	1717
+三朝出入榮	san zhao chu ru rong	1380
+色靜深鬆裏	se jing shen song li	3360
+色難腥腐餐楓香	se nan xing fu can feng xiang	2593
+森然魄動下馬拜	sen ran po dong xia ma bai	2413
+僧皎然	seng jiao ran	849
+僧言古壁佛畫好	seng yan gu bi fo hua hao	2473
+沙場烽火侵胡月	sha chang feng huo qin hu yue	814
+紗窗日落漸黃昏	sha chuang ri luo jian huang hun	81
+沙口石凍馬蹄脫	sha kou shi dong ma ti tuo	2712
+沙平水息聲影絕	sha ping shui xi sheng ying jue	2454
+殺氣三時作陣雲	sha qi san shi zuo zhen yun	2001
+殺人莫敢前	sha ren mo gan qian	2937
+殺人如麻	sha ren ru ma	1858
+沙行渡頭歇	sha xing du tou xie	3318
+山愛夕陽時	shan ai xi yang shi	1129
+扇裁月魄羞難掩	shan cai yue po xiu nan yan	414
+山川蕭條極邊土	shan chuan xiao tiao ji bian tu	2015
+山光忽西落	shan guang hu xi luo	3312
+山光悅鳥性	shan guang yue niao xing	1504
+山紅澗碧紛爛漫	shan hong jian bi fen lan man	2465
+珊瑚碧樹交枝柯	shan hu bi shu jiao zhi ke	2371
+山迴路轉不見君	shan hui lu zhuan bu jian jun	2690
+山居秋暝	shan ju qiu ming	1341
+山開曠望旋平陸	shan kai kuang wang xuan ping lu	1924
+山口潛行始隈隩	shan kou qian xing shi wei ao	1925
+山林二十年	shan lin er shi nian	3200
+山暝聽猿愁	shan ming ting yuan chou	1216
+山色遙連秦樹晚	shan se yao lian qin shu wan	575
+山色有無中	shan se you wu zhong	1284
+山石	shan shi	2478
+山石犖确行徑微	shan shi luo que xing jing wei	2477
+山寺鐘鳴晝已昏	shan si zhong ming zhou yi hun	2849
+山隨平野盡	shan sui ping ye jin	1479
+山爲樽	shan wei zun	2486
+繕性何由熟	shan xing he you shu	3072
+山形依舊枕寒流	shan xing yi jiu zhen han liu	536
+山夷又紛然	shan yi you fen ran	3192
+山月隨人歸	shan yue sui ren gui	3519
+山月照彈琴	shan yue zhao tan qin	1309
+山在虛無縹緲間	shan zai xu wu piao miao jian	2236
+山中習靜觀朝槿	shan zhong xi jing guan chao jin	750
+山中相送罷	shan zhong xiang song ba	343
+山中一夜雨	shan zhong yi ye yu	1294
+上蔡蒼鷹何足道	shang cai cang ying he zu dao	1788
+上國隨緣住	shang guo sui yuan zhu	1141
+上將擁旄西出徵	shang jiang yong mao xi chu zheng	2719
+上林繁花照眼新	shang lin fan hua zhao yan xin	2853
+傷麟怨道窮	shang lin yuan dao qiong	1634
+商女不知亡國恨	shang nv bu zhi wang guo hen	3
+上窮碧落下黃泉	shang qiong bi luo xia huang quan	2239
+商人重利輕別離	shang ren zhong li qing bie li	2116
+尚想舊情憐婢僕	shang xiang jiu qing lian bi pu	518
+尚衣方進翠雲裘	shang yi fang jin cui yun qiu	771
+上有黃鸝深樹鳴	shang you huang li shen shu ming	100
+上有六龍回日之高標	shang you liu long hui ri zhi gao biao	1887
+上有青冥之長天	shang you qing ming zhi chang tian	1847
+少婦城南欲斷腸	shao fu cheng nan yu duan chang	2005
+少婦今春意	shao fu jin chun yi	1533
+少孤爲客早	shao gu wei ke zao	1071
+少陵無人謫仙死	shao ling wu ren zhe xian si	2392
+少陵野老吞生哭	shao ling ye lao tun sheng ku	1690
+少年十五二十時	shao nian shi wu er shi shi	1960
+少小離家老大回	shao xiao li jia lao da hui	157
+少小雖非投筆吏	shao xiao sui fei tou bi li	812
+少小幽燕客	shao xiao you yan ke	2940
+少壯能幾時	shao zhuang neng ji shi	3469
+舍南舍北皆春水	she nan she bei jie chun shui	727
+射殺山中白額虎	she sha shan zhong bai e hu	1958
+捨生亦如此	she sheng yi ru ci	2960
+赦書一日行萬里	she shu yi ri xing wan li	2442
+麝薰微度繡芙蓉	she xun wei du xiu fu rong	454
+誰人更掃黃金臺	shei ren geng sao huang jin tai	1802
+審藏用之機	shen cang yong zhi ji	1584
+身當恩遇常輕敵	shen dang en yu chang qing di	2009
+身登青雲梯	shen deng qing yun ti	2795
+身多疾病思田裏	shen duo ji bing si tian li	582
+深宮二十年	shen gong er shi nian	232
+神歡體自輕	shen huan ti zi qing	3161
+深林人不知	shen lin ren bu zhi	345
+深柳讀書堂	shen liu du shu tang	1090
+神妙獨數江都王	shen miao du shu jiang du wang	2686
+慎莫近前丞相嗔	shen mo jin qian cheng xiang chen	1692
+神女生涯原是夢	shen nv sheng ya yuan shi meng	406
+沈全期	shen quan qi	1539
+深山何處鐘	shen shan he chu zhong	1302
+深山竊聽來妖精	shen shan qie ting lai yao jing	2888
+身上無有完肌膚	shen shang wu you wan ji fu	1658
+深鎖春光一院愁	shen suo chun guang yi yuan chou	54
+身爲賈人婦	shen wei gu ren fu	2187
+身無綵鳳雙飛翼	shen wu cai feng shuang fei yi	475
+慎勿出口他人狙	shen wu chu kou ta ren ju	1644
+沈吟放撥插弦中	shen yin fang bo cha xian zhong	2134
+身欲奮飛病在牀	shen yu fen fei bing zai chuang	2609
+深竹暗浮煙	shen zhu an fu yan	1050
+神縱慾福難爲功	shen zong yu fu nan wei gong	2400
+深坐蹙蛾眉	shen zuo cu e mei	302
+生別常惻惻	sheng bie chang ce ce	3422
+聖朝無闕事	sheng chao wu que shi	1493
+聖代即今多雨露	sheng dai ji jin duo yu lu	784
+聖代無隱者	sheng dai wu yin zhe	3382
+聖德北服南單于	sheng de bei fu nan chan yu	1646
+聖恩若許留太學	sheng en ruo xu liu tai xue	2352
+生兒不象賢	sheng er bu xiang xian	1022
+升階傴僂薦脯酒	sheng jie yu lv jian pu jiu	2409
+生男埋沒隨百草	sheng nan mai mo sui bai cao	1723
+生女猶得嫁比鄰	sheng nv you de jia bi lin	1724
+勝事空自知	sheng shi kong zi zhi	1275
+生事且瀰漫	sheng shi qie mi man	3253
+升堂坐階新雨足	sheng tang zuo jie xin yu zu	2475
+昇天入地求之遍	sheng tian ru di qiu zhi bian	2240
+聖文神武皇帝初	sheng wen shen wu huang di chu	2549
+生小不相識	sheng xiao bu xiang shi	191
+聲喧亂石中	sheng xuan luan shi zhong	3361
+生涯豈料承優詔	sheng ya qi liao cheng you zhao	622
+聲以動容	sheng yi dong rong	1594
+勝因夙所宗	sheng yin su suo zong	3220
+生長明妃尚有村	sheng zhang ming fei shang you cun	648
+聲之寂寞	sheng zhi ji mo	1560
+省中啼鳥吏人稀	sheng zhong ti niao li ren xi	742
+聖主朝朝暮暮情	sheng zhu zhao zhao mu mu qing	2272
+勢拔五嶽掩赤城	shi ba wu yue yan chi cheng	2805
+侍婢賣珠回	shi bi mai zhu hui	3430
+使臣將王命	shi chen jiang wang ming	3187
+侍兒扶起嬌無力	shi er fu qi jiao wu li	2309
+十二樓中盡曉妝	shi er lou zhong jin xiao zhuang	380
+是法廳事也	shi fa ting shi ye	1609
+使舫載之	shi fang zai zhi	2499
+勢分三足鼎	shi fen san zu ding	1025
+試拂鐵衣如雪色	shi fu tie yi ru xue se	1936
+石鼓歌	shi gu ge	2395
+事姑貽我憂	shi gu yi wo you	3094
+石鼓之歌止於此	shi gu zhi ge zhi yu ci	2330
+十鼓只載數駱駝	shi gu zhi zai shu luo tuo	2355
+示官吏	shi guan li	3202
+石磯西畔問漁船	shi ji xi pan wen yu chuan	150
+時見歸村人	shi jian gui cun ren	3319
+時見鬆櫪皆十圍	shi jian song li jie shi wei	2464
+世間行樂亦如此	shi jian xing le yi ru ci	2772
+誓將報主靜邊塵	shi jiang bao zhu jing bian chen	2710
+誓將掛冠去	shi jiang gua guan qu	3219
+誓將上雪列聖恥	shi jiang shang xue lie sheng chi	2080
+世界微塵裏	shi jie wei chen li	929
+始覺屏障生光輝	shi jue ping zhang sheng guang hui	2676
+始覺有遷謫意	shi jue you qian zhe yi	2177
+使快彈數曲	shi kuai dan shu qu	2185
+石廩騰擲堆祝融	shi lin teng zhi dui zhu rong	2414
+誓令疏勒出飛泉	shi ling shu le chu fei quan	1942
+十六君遠行	shi liu jun yuan xing	2981
+世亂同南去	shi luan tong nan qu	1037
+時難年荒世業空	shi nan nian huang shi ye kong	495
+十年離亂後	shi nian li luan hou	1065
+十年征戍憶遼陽	shi nian zheng shu yi liao yang	358
+侍女金盤膾鯉魚	shi nv jin pan kuai li yu	1978
+是妾斷腸時	shi qie duan chang shi	3487
+時清獨北還	shi qing du bei hai	1036
+世情惡衰歇	shi qing e shuai xie	3440
+時取一醉	shi qu yi zui	2503
+世人解聽不解賞	shi ren jie ting bu jie shang	2862
+使人聽此凋朱顏	shi ren ting ci diao zhu yan	1874
+時人已知處	shi ren yi zhi chu	274
+是日牽來赤墀下	shi ri qian lai chi chi xia	2633
+十三學得琵琶成	shi san xue de pi pa cheng	2130
+世上未有如公貧	shi shang wei you ru gong pin	2614
+十觴亦不醉	shi shang yi bu zui	3453
+十生九死到官所	shi sheng jiu si dao guan suo	2448
+世事波上舟	shi shi bo shang zhou	3148
+世事蹉跎成白首	shi shi cuo tuo cheng bai shou	1949
+世事空知學醉歌	shi shi kong zhi xue zui ge	621
+世事兩茫茫	shi shi liang mang mang	3450
+世事茫茫難自料	shi shi mang mang nan zi liao	584
+時時誤拂弦	shi shi wu fu xian	263
+始是新承恩澤時	shi shi xin cheng en ze shi	2308
+十四萬衆猶虎貔	shi si wan zhong you hu pi	2067
+十四爲君婦	shi si wei jun fu	2989
+使我不得開心顏	shi wo bu de kai xin yan	2767
+使我三軍淚如雨	shi wo san jun lei ru yu	2930
+十五始展眉	shi wu shi zhan mei	2985
+是夕	shi xi	2178
+失向來之煙霞	shi xiang lai zhi yan xia	2773
+是夜越吟苦	shi ye yue yin ku	3284
+是以陷鄰境	shi yi xian lin jing	3189
+時有落花至	shi you luo hua zhi	1093
+石魚湖	shi yu hu	2489
+石魚湖上醉歌並序	shi yu hu shang zui ge bing xu	2507
+始與秦塞通人煙	shi yu qin sai tong ren yan	1892
+世中遙望空雲山	shi zhong yao wang kong yun shan	1910
+手把芙蓉朝玉京	shou ba fu rong chao yu jing	2814
+手持杯珓導我擲	shou chi bei jiao dao wo zhi	2405
+手持綠玉杖	shou chi lv yu zhang	2838
+受降城外月如霜	shou xiang cheng wai yue ru shuang	64
+書被催成墨未濃	shu bei cui cheng mo wei nong	456
+書邊事	shu bian shi	897
+數嘗於	shu chang yu	2538
+數叢沙草羣鷗散	shu cong sha cao qun ou san	395
+蜀道難	shu dao nan	1899
+蜀道之難難於上青天	shu dao zhi nan nan yu shang qing tian	1896
+輸肝剖膽效英才	shu gan pou dan xiao ying cai	1804
+戍鼓斷人行	shu gu duan ren xing	1403
+蔬果幸見嘗	shu guo xing jian chang	3164
+蜀江水碧蜀山青	shu jiang shui bi shu shan qing	2273
+戍客望邊色	shu ke wang bian se	3029
+數裏入雲峯	shu li ru yun feng	1304
+疏糲亦足飽我飢	shu li yi zu bao wo ji	2470
+戍樓西望煙塵黑	shu lou xi wang yan chen hei	2721
+樹杪百重泉	shu miao bai zhong quan	1293
+樹木猶爲人愛惜	shu mu you wei ren ai xi	2582
+淑氣催黃鳥	shu qi cui huang niao	1543
+蜀琴欲奏鴛鴦弦	shu qin yu zou yuan yang xian	1838
+庶情沿物應	shu qing yan wu ying	1564
+樹色隨山迥	shu se sui shan jiong	984
+蜀僧抱綠綺	shu seng bao lv qi	1463
+疏鬆影落空壇靜	shu song ying luo kong tan jing	573
+數歲親戎旃	shu sui qin rong zhan	3194
+數問夜如何	shu wen ye ru he	1420
+蜀先主廟	shu xian zhu miao	1028
+蜀相	shu xiang	737
+疏雨過中條	shu yu guo zhong tiao	985
+孰雲網恢恢	shu yun wang hui hui	3394
+孰雲吾道非	shu yun wu dao fei	3377
+數紙尚可博白鵝	shu zhi shang ke bo bai e	2337
+樹之微風	shu zhi wei feng	1578
+蜀主徵吳幸三峽	shu zhu zheng wu xing san xia	640
+雙飛西園草	shuang fei xi yuan cao	2972
+雙淚落君前	shuang lei luo jun qian	230
+雙皮溜雨四十圍	shuang pi liu yu si shi wei	2585
+霜悽萬樹風入衣	shuang qi wan shu feng ru yi	2906
+霜蹄蹴踏長楸間	shuang ti cu ta chang qiu jian	2667
+雙袖龍鍾淚不幹	shuang xiu long zhong lei bu gan	110
+雙照淚痕幹	shuang zhao lei hen gan	1438
+誰愛風流高格調	shui ai feng liu gao ge diao	368
+水澹澹兮生煙	shui dan dan xi sheng yan	2787
+水滴銅龍晝漏長	shui di tong long zhou lou chang	377
+誰復著手爲摩挲	shui fu zhu shou wei ma sa	2341
+水寒風似刀	shui han feng si dao	3044
+誰見汀洲上	shui jian ting zhou shang	1163
+誰解乘舟尋范蠡	shui jie cheng zhou xun fan li	393
+水晶簾卷近秋河	shui jing lian juan jin qiu he	67
+水精之盤行素鱗	shui jing zhi pan xing su lin	1704
+誰憐越女顏如玉	shui lian yue nv yan ru yu	1963
+水落魚梁淺	shui luo yu liang qian	1257
+誰能將旗鼓	shui neng jiang qi gu	1531
+誰能絕人命	shui neng jue ren ming	3183
+水泉冷澀弦凝絕	shui quan leng se xian ning jue	2144
+水深波浪闊	shui shen bo lang kuo	3409
+水聲激激風吹衣	shui sheng ji ji feng chui yi	2462
+誰爲表予心	shui wei biao yu xin	1550
+誰爲含愁獨不見	shui wei han chou du bu jian	355
+水爲沼	shui wei zhao	2485
+誰言寸草心	shui yan cun cao xin	2952
+水月通禪寂	shui yue tong chan ji	1137
+誰知林棲者	shui zhi lin qi zhe	3546
+順陰陽之數	shun yin yang zhi shu	1586
+朔方健兒好身手	shuo fang jian er hao shen shou	1649
+說盡心中無限事	shuo jin xin zhong wu xian shi	2153
+愬武古通作牙爪	shuo wu gu tong zuo ya zhao	2070
+四邊伐鼓雪海涌	si bian fa gu xue hai yong	2717
+死別已吞聲	si bie yi tun sheng	3423
+似洞庭	si dong ting	2488
+四方環鎮嵩當中	si fang huan zhen song dang zhong	2426
+思歸多苦顏	si gui duo ku yan	3028
+嗣皇繼聖登夔皋	si huang ji sheng deng kui gao	2443
+四角礙白日	si jiao ai bai ri	3233
+四郊秋葉驚摵摵	si jiao qiu ye jing se se	2891
+死節從來豈顧勳	si jie cong lai qi gu xun	1998
+司空曙	si kong shu	1057
+嘶馬出門思故鄉	si ma chu men si gu xiang	2925
+斯人不可聞	si ren bu ke wen	1449
+斯人獨憔悴	si ren du qiao cui	3395
+死生長別離	si sheng zhang bie li	1014
+似訴平生不得志	si su ping sheng bu de zhi	2155
+嘶酸雛雁失羣夜	si suan chu yan shi qun ye	2883
+似聞昨者赤松子	si wen zuo zhe chi song zi	2598
+四弦一聲如裂帛	si xian yi sheng ru lie bo	2137
+斯須九重真龍出	si xu jiu chong zhen long chu	2629
+思欲委符節	si yu wei fu jie	3181
+四月南風大麥黃	si yue nan feng da mai huang	2928
+四座無言星欲稀	si zuo wu yan xing yu xi	2902
+松柏一逕趨靈宮	song bai yi jing qu ling gong	2412
+送別	song bie	3389
+送陳章甫	song chen zhang fu	2929
+送崔九	song cui jiu	329
+送杜少府之任蜀州	song du shao fu zhi ren shu zhou	1621
+松風吹解帶	song feng chui jie dai	1310
+鬆際露微月	song ji lu wei yue	3247
+送客湓浦口	song ke pen pu kou	2195
+送李少府貶峽中王少府貶長沙	song li shao fu bian xia zhong wang shao fu bian chang sha	791
+送李中丞歸漢陽別業	song li zhong cheng gui han yang bie ye	1179
+送靈澈	song ling che	288
+送孟浩然之廣陵	song meng hao ran zhi guang ling	121
+送人東遊	song ren dong you	926
+送僧歸日本	song seng gui ri ben	1142
+送上人	song shang ren	278
+鬆聲晚窗裏	song sheng wan chuang li	3270
+訟斯在	song si zai	1604
+送魏萬之京	song wei wan zhi jing	810
+送我至剡溪	song wo zhi shan xi	2799
+松下清齋折露葵	song xia qing zhai zhe lu kui	749
+松下問童子	song xia wen tong zi	222
+送楊氏女	song yang shi nv	3106
+送友人	song you ren	1473
+鬆月生夜涼	song yue sheng ye liang	3299
+鬆月夜窗墟	song yue ye chuang xu	1236
+宋之問	song zhi wen	1529
+送梓州李使君	song zi zhou li shi jun	1297
+搜於岐陽騁雄俊	sou yu qi yang cheng xiong jun	2386
+宿府	su fu	685
+宿建德江	su jian de jiang	319
+素手抽針冷	su shou chou zhen leng	3000
+素手青條上	su shou qing tiao shang	3021
+素手玉房前	su shou yu fang qian	265
+宿桐廬江寄廣陵舊遊	su tong lu jiang ji guang ling jiu you	1217
+宿王昌齡隱居	su wang chang ling yin ju	3250
+蘇武魂銷漢使前	su wu hun xiao han shi qian	390
+蘇武廟	su wu miao	391
+宿業師山房待丁大不至	su ye shi shan fang dai ding da bu zhi	3302
+隨風滿地石亂走	sui feng man di shi luan zou	2739
+隋宮	sui gong	469
+遂教方士殷勤覓	sui jiao fang shi yin qin mi	2242
+遂令東山客	sui ling dong shan ke	3380
+遂令天下父母心	sui ling tian xia fu mu xin	2295
+遂命酒	sui ming jiu	2186
+歲暮歸南山	sui mu gui nan shan	1244
+歲暮陰陽催短景	sui mu yin yang cui duan jing	675
+隨山到水源	sui shan dao shui yuan	1155
+隨山將萬轉	sui shan jiang wan zhuan	3363
+雖生意可知	sui sheng yi ke zhi	1607
+歲時伏臘走村翁	sui shi fu la zou cun weng	635
+歲歲金河復玉關	sui sui jin he fu yu guan	75
+雖無賓主意	sui wu bin zhu yi	3267
+睢盱偵伺能鞠躬	sui xu zhen si neng ju gong	2406
+歲夜高堂列明燭	sui ye gao tang lie ming zhu	2852
+隨意春芳歇	sui yi chun fang xie	1334
+雖有絕頂誰能窮	sui you jue ding shui neng qiong	2422
+所得是沾衣	suo de shi zhan yi	946
+所守或匪親	suo shou huo fei qin	1863
+鎖銜金獸連環冷	suo xian jin shou lian huan leng	378
+他年錦裏經祠廟	ta nian jin li jing ci miao	435
+榻上庭前屹相向	ta shang ting qian yi xiang xiang	2626
+他生緣會更難期	ta sheng yuan hui geng nan qi	508
+塔勢如涌出	ta shi ru yong chu	3239
+他鄉復行役	ta xiang fu xing yi	1376
+他鄉生白髮	ta xiang sheng bai fa	1035
+態濃意遠淑且真	tai nong yi yuan shu qie zhen	1715
+苔色連深竹	tai se lian shen zhu	3070
+苔深不能掃	tai shen bu neng sao	2975
+太液芙蓉未央柳	tai ye fu rong wei yang liu	2262
+太乙近天都	tai yi jin tian du	1323
+太真含笑入簾來	tai zhen han xiao ru lian lai	37
+嘆鳳嗟身否	tan feng jie shen fou	1635
+彈劍作歌奏苦聲	tan jian zuo ge zou ku sheng	1811
+彈琴	tan qin	283
+彈琴復長嘯	tan qin fu chang xiao	346
+嘆息未應閒	tan xi wei ying xian	3026
+潭煙飛溶溶	tan yan fei rong rong	3255
+潭影空人心	tan ying kong ren xin	1503
+湯盤孔鼎有述作	tang pan kong ding you shu zuo	2040
+唐玄宗	tang xuan zong	1641
+桃花盡日隨流水	tao hua jin ri sui liu shui	149
+桃花溪	tao hua xi	152
+桃李陰陰柳絮飛	tao li yin yin liu xu fei	744
+陶然共忘機	tao ran gong wang ji	3507
+陶然共醉菊花杯	tao ran gong zui ju hua bei	792
+桃源行	tao yuan xing	1930
+騰驤磊落三萬匹	teng xiang lei luo san wan pi	2659
+題大庾嶺北驛	ti da yu ling bei yi	1528
+題金陵渡	ti jin ling du	31
+剔開紅焰救飛蛾	ti kai hong yan jiu fei e	42
+題破山寺後禪院	ti po shan si hou chan yuan	1509
+啼時驚妾夢	ti shi jing qie meng	208
+天邊樹若薺	tian bian shu ruo ji	3317
+天長地久有時盡	tian chang di jiu you shi jin	2201
+天長路遠魂飛苦	tian chang lu yuan hun fei ku	1845
+天地爲之久低昂	tian di wei zhi jiu di ang	2530
+天地一沙鷗	tian di yi sha ou	1360
+天地英雄氣	tian di ying xiong qi	1027
+田夫荷鋤立	tian fu he chu li	3346
+天寒翠袖薄	tian han cui xiu bo	3426
+天寒夢澤深	tian han meng ze shen	1256
+天假神柄專其雄	tian jia shen bing zhuan qi xiong	2424
+添酒回燈重開宴	tian jiu hui deng chong kai yan	2161
+天路幽險難追攀	tian lu you xian nan zhui pan	2434
+天明獨去無道路	tian ming du qu wu dao lu	2467
+天末懷李白	tian mo huai li bai	1395
+天姥連天向天橫	tian mu lian tian xiang tian heng	2806
+天畔獨潸然	tian pan du shan ran	1150
+天氣晚來秋	tian qi wan lai qiu	1339
+天秋月又滿	tian qiu yue you man	1085
+天上人間會相見	tian shang ren jian hui xiang jian	2208
+天生麗質難自棄	tian sheng li zhi nan zi qi	2315
+天生我材必有用	tian sheng wo cai bi you yong	1776
+天台四萬八千丈	tian tai si wan ba qian zhang	2804
+天外三峯削不成	tian wai san feng xue bu cheng	827
+天旋地轉回龍馭	tian xuan di zhuan hui long yu	2269
+天涯共此時	tian ya gong ci shi	1629
+天涯孤棹還	tian ya gu zhao hai	920
+天涯哭此時	tian ya ku ci shi	1010
+天涯若比鄰	tian ya ruo bi lin	1615
+天涯霜雪霽寒霄	tian ya shuang xue ji han xiao	674
+天涯涕淚一身遙	tian ya ti lei yi shen yao	715
+天涯占夢數	tian ya zhan meng shu	938
+天陰雨溼聲啾啾	tian yin yu shi sheng jiu jiu	1719
+田園寥落干戈後	tian yuan liao luo gan ge hou	493
+天子非常賜顏色	tian zi fei chang ci yan se	2020
+迢遞三巴路	tiao di san ba lu	886
+迢遞嵩高下	tiao di song gao xia	1326
+迢遞送斜暉	tiao di song xie hui	950
+岧嶢太華俯鹹京	tiao yao tai hua fu xian jing	828
+鐵騎突出刀槍鳴	tie qi tu chu dao qiang ming	2139
+鐵衣遠戍辛勤久	tie yi yuan shu xin qin jiu	2007
+聽安萬善吹篳篥歌	ting an wan shan chui bi li ge	2869
+停杯投箸不能食	ting bei tou zhu bu neng shi	1827
+停船暫借問	ting chuan zan jie wen	197
+聽董大彈胡笳聲兼寄語弄房給事	ting dong da dan hu jia sheng jian ji yu nong fang gei shi	2899
+停舫臨孤驛	ting fang lin gu yi	3126
+聽其音	ting qi yin	2193
+聽蜀僧浚彈琴	ting shu seng jun tan qin	1464
+聽箏	ting zheng	267
+聽鍾未眠客	ting zhong wei mian ke	3120
+汀洲無浪復無煙	ting zhou wu lang fu wu yan	604
+同從弟南齋玩月憶山陰崔少府	tong cong di nan zhai wan yue yi shan yin cui shao fu	3292
+同居長幹裏	tong ju chang gan li	2991
+銅爐華燭燭增輝	tong lu hua zhu zhu zeng hui	2905
+同輦隨君侍君側	tong nian sui jun shi jun ce	1683
+銅雀春深鎖二喬	tong que chun shen suo er qiao	7
+通神明	tong shen ming	2889
+同時輩流多上道	tong shi bei liu duo shang dao	2435
+同是長幹人	tong shi chang gan ren	192
+同是宦遊人	tong shi huan you ren	1617
+同是天涯淪落人	tong shi tian ya lun luo ren	2108
+同題仙遊觀	tong ti xian you guan	578
+同心與我違	tong xin yu wo wei	3373
+同穴窅冥何所望	tong xue yao ming he suo wang	509
+童顏若可駐	tong yan ruo ke zhu	1246
+同殷仲文之古樹	tong yin zhong wen zhi gu shu	1606
+童稚開荊扉	tong zhi kai jing fei	3515
+頭上何所有	tou shang he suo you	1711
+投詩贈汨羅	tou shi zeng mi luo	1387
+徒此挹清芬	tu ci yi qing fen	1483
+塗改清廟生民詩	tu gai qing miao sheng min shi	2053
+徒勞恨費聲	tu lao hen fei sheng	970
+徒令上將揮神筆	tu ling shang jiang hui shen bi	439
+塗窮反遭俗眼白	tu qiong fan zao su yan bai	2615
+突兀壓神州	tu wu ya shen zhou	3235
+徒言樹桃李	tu yan shu tao li	3524
+蛻其皮也	tui qi pi ye	1589
+晚次鄂州	wan ci e zhou	560
+萬方多難此登臨	wan fang duo nan ci deng lin	691
+晚風吹行舟	wan feng chui xing zhou	3259
+萬夫莫開	wan fu mo kai	1864
+萬古青濛濛	wan gu qing meng meng	3222
+萬古惟留楚客悲	wan gu wei liu chu ke bei	612
+萬古雲霄一羽毛	wan gu yun xiao yi yu mao	628
+萬國衣冠拜冕旒	wan guo yi guan bai mian liu	769
+萬壑樹參天	wan he shu can tian	1296
+萬戶搗衣聲	wan hu dao yi sheng	3008
+晚家南山陲	wan jia nan shan chui	1277
+晚見雁行頻	wan jian yan hang pin	914
+萬徑人蹤滅	wan jing ren zong mie	248
+萬籟百泉相與秋	wan lai bai quan xiang yu qiu	2857
+萬籟此俱寂	wan lai ci ju ji	1502
+晚來天欲雪	wan lai tian yu xue	237
+萬里悲秋常作客	wan li bei qiu chang zuo ke	697
+萬里浮雲陰且晴	wan li fu yun yin qie qing	2884
+萬里歸心對月明	wan li gui xin dui yue ming	554
+萬里寒光生積雪	wan li han guang sheng ji xue	816
+萬里黃河繞黑山	wan li huang he rao hei shan	72
+萬里禽獸皆遮羅	wan li qin shou jie zhe luo	2385
+萬里送行舟	wan li song xing zhou	1474
+萬里眼中明	wan li yan zhong ming	1134
+萬里雲羅一雁飛	wan li yun luo yi yan fei	417
+晚年惟好靜	wan nian wei hao jing	1314
+萬牛回首丘山重	wan niu hui shou qiu shan zhong	2570
+萬頃江田一鷺飛	wan qing jiang tian yi lu fei	394
+萬事不關心	wan shi bu guan xin	1313
+萬事隨轉燭	wan shi sui zhuan zhu	3439
+剜苔剔蘚露節角	wan tai ti xian lu jie jiao	2348
+晚有弟子傳芬芳	wan you di zi chuan fen fang	2524
+宛轉蛾眉馬前死	wan zhuan e mei ma qian si	2282
+王勃	wang bo	1622
+王昌齡	wang chang ling	3293
+輞川閒居贈裴秀才迪	wang chuan xian ju zeng pei xiu cai di	1350
+望帝春心託杜鵑	wang di chun xin tuo du juan	483
+望洞庭湖贈張丞相	wang dong ting hu zeng zhang cheng xiang	1271
+王翰	wang han	127
+望薊門	wang ji men	819
+忘跡世所逐	wang ji shi suo zhu	3074
+王建	wang jian	262
+王浚樓船下益州	wang jun lou chuan xia yi zhou	541
+望君煙水闊	wang jun yan shui kuo	1169
+往來成古今	wang lai cheng gu jin	1260
+王孫歸不歸	wang sun gui bu gui	340
+王孫善保千金軀	wang sun shan bao qian jin qu	1654
+王孫自可留	wang sun zi ke liu	1333
+王灣	wang wan	1519
+往往取酒還獨傾	wang wang qu jiu hai du qing	2097
+王維	wang wei	3390
+望仙樓上望君王	wang xian lou shang wang jun wang	379
+望嶽	wang yue	3483
+望月懷遠	wang yue huai yuan	1631
+王之渙	wang zhi huan	294
+未諳姑食性	wei an gu shi xing	258
+未必逢矰繳	wei bi feng zeng jiao	871
+未成曲調先有情	wei cheng qu diao xian you qing	2157
+爲乘陽氣行時令	wei cheng yang qi xing shi ling	757
+渭川田家	wei chuan tian jia	3353
+未辭剪伐誰能送	wei ci jian fa shui neng song	2568
+未得報恩不能歸	wei de bao en bu neng gui	2934
+未睹斯民康	wei du si min kang	3168
+未妨惆悵是清狂	wei fang chou chang shi qing kuang	401
+微風吹蘭杜	wei feng chui lan du	3282
+韋諷錄事宅觀曹將軍畫馬圖	wei feng lu shi zhai guan cao jiang jun hua ma tu	2688
+爲感君王輾轉思	wei gan jun wang zhan zhuan si	2243
+危乎高哉	wei hu gao zai	1897
+未幾拂荊扉	wei ji fu jing fei	3371
+危機之未安	wei ji zhi wei an	1567
+惟見長江天際流	wei jian chang jiang tian ji liu	117
+唯見江心秋月白	wei jian jiang xin qiu yue bai	2135
+唯見林花落	wei jian lin hua luo	1370
+唯將遲暮供多病	wei jiang chi mu gong duo bing	714
+唯將舊物表深情	wei jiang jiu wu biao shen qing	2213
+惟將終夜長開眼	wei jiang zhong ye chang kai yan	507
+未解憶長安	wei jie yi chang an	1442
+惟覺時之枕蓆	wei jue shi zhi zhen xi	2774
+爲君翻作琵琶行	wei jun fan zuo pi pa xing	2091
+惟憐一燈影	wei lian yi deng ying	1135
+未免捶楚塵埃間	wei mian chui chu chen ai jian	2436
+危檣獨夜舟	wei qiang du ye zhou	1366
+衛青不敗由天幸	wei qing bu bai you tian xing	1952
+微霜悽悽簟色寒	wei shuang qi qi dian se han	1851
+渭水自縈秦塞曲	wei shui zi ying qin sai qu	763
+爲他人作嫁衣裳	wei ta ren zuo jia yi shang	363
+畏塗巉巖不可攀	wei tu chan yan bu ke pan	1879
+爲問天戎竇車騎	wei wen tian rong dou che qi	562
+爲我度量掘臼科	wei wo du liang jue jiu ke	2359
+帷幄未改神慘傷	wei wo wei gai shen can shang	2595
+爲我一揮手	wei wo yi hui shou	1461
+未休關西卒	wei xiu guan xi zu	1729
+未央前殿月輪高	wei yang qian dian yue lun gao	130
+微陽下楚丘	wei yang xia chu qiu	905
+維揚憶舊遊	wei yang yi jiu you	1211
+未搖落而先衰	wei yao luo er xian shuai	1571
+韋應物	wei ying wu	3177
+未有涓埃答聖朝	wei you juan ai da sheng chao	713
+惟有飲者留其名	wei you yin zhe liu qi ming	1764
+惟有幽人自來去	wei you you ren zi lai qu	2842
+微雨靄芳原	wei yu ai fang yuan	3112
+惟餘鐘磬音	wei yu zhong qing yin	1501
+韋莊	wei zhuang	859
+文采風流今尚存	wen cai feng liu jin shang cun	2648
+聞蟬但益悲	wen chan dan yi bei	1218
+文成破體書在紙	wen cheng po ti shu zai zhi	2052
+聞船中夜彈琵琶者	wen chuan zhong ye tan pi pa zhe	2194
+問答乃未已	wen da nai wei yi	3459
+聞道故林相識多	wen dao gu lin xiang shi duo	2912
+問道歸鳳翔	wen dao gui feng xiang	1418
+聞道漢家天子使	wen dao han jia tian zi shi	2229
+聞道黃龍戍	wen dao huang long shu	1537
+聞道欲來相問訊	wen dao yu lai xiang wen xun	580
+聞道玉門猶被遮	wen dao yu men you bei zhe	1986
+聞風坐相悅	wen feng zuo xiang yue	3545
+聞官軍收河南河北	wen guan jun shou he nan he bei	710
+聞蟪蛄之流聲	wen hui gu zhi liu sheng	1570
+問君何所之	wen jun he suo zhi	3387
+問客何爲來	wen ke he wei lai	3134
+問劉十九	wen liu shi jiu	240
+問其人	wen qi ren	2191
+溫泉水滑洗凝脂	wen quan shui hua xi ning zhi	2310
+溫庭筠	wen ting yun	927
+文翁翻教授	wen weng fan jiao shou	1290
+問我來何方	wen wo lai he fang	3460
+問姓驚初見	wen xing jing chu jian	1063
+文章憎命達	wen zhang zeng ming da	1390
+問之不肯道姓名	wen zhi bu ken dao xing ming	1661
+我輩復登臨	wo bei fu deng lin	1258
+我本楚狂人	wo ben chu kuang ren	2840
+我持長瓢坐巴丘	wo chi chang piao zuo ba qiu	2481
+我從去年辭帝京	wo cong qu nian ci di jing	2106
+我獨不得出	wo du bu de chu	1814
+我歌今與君殊科	wo ge jin yu jun shu ke	2432
+我歌月徘徊	wo ge yue pai huai	3497
+我行殊未已	wo hang shu wei yi	1525
+臥後清宵細細長	wo hou qing xiao xi xi chang	407
+我家襄水曲	wo jia xiang shui qu	1196
+我來正逢秋雨節	wo lai zheng feng qiu yu jie	2421
+臥龍躍馬終黃土	wo long yue ma zhong huang tu	669
+我聞琵琶已嘆息	wo wen pi pa yi tan xi	2110
+我舞影凌亂	wo wu ying ling luan	3496
+我心素已閒	wo xin su yi xian	3357
+我亦舉家清	wo yi ju jia qing	964
+我欲因之夢吳越	wo yu yin zhi meng wu yue	2802
+我醉君復樂	wo zui jun fu le	3508
+吾愛孟夫子	wu ai meng fu zi	1490
+無邊落木蕭蕭下	wu bian luo mu xiao xiao xia	699
+無才日衰老	wu cai ri shuai lao	1406
+吳楚東南坼	wu chu dong nan che	1356
+武帝祠前雲欲散	wu di ci qian yun yu san	826
+屋底達官走避胡	wu di da guan zou bi hu	1666
+無復射蛟江水中	wu fu she jiao jiang shui zhong	2656
+五更鼓角聲悲壯	wu geng gu jiao sheng bei zhuang	673
+五更疏欲斷	wu geng shu yu duan	969
+吾觀自古賢達人	wu guan zi gu xian da ren	1795
+武侯祠屋常鄰近	wu hou ci wu chang lin jin	634
+嗚呼聖皇及聖相	wu hu sheng huang ji sheng xiang	2038
+嗚呼吾意其蹉跎	wu hu wu yi qi cuo tuo	2329
+五湖煙水獨忘機	wu hu yan shui du wang ji	392
+五花連錢旋作冰	wu hua lian qian xuan zuo bing	2731
+五花馬	wu hua ma	1759
+武皇開邊意未已	wu huang kai bian yi wei yi	1740
+吳姬壓酒喚客嘗	wu ji ya jiu huan ke chang	2764
+無家問死生	wu jia wen si sheng	1398
+烏江十五兄	wu jiang shi wu xiong	497
+五陵北原上	wu ling bei yuan shang	3223
+五陵佳氣無時無	wu ling jia qi wu shi wu	1642
+五陵年少爭纏頭	wu ling nian shao zheng chan tou	2126
+五馬莫留連	wu ma mo liu lian	3018
+吾謀適不用	wu mou shi bu yong	3368
+吾寧愛與憎	wu ning ai yu zeng	928
+悟平反之已奏	wu ping fan zhi yi zou	1569
+無人收廢帳	wu ren shou fei zhang	1013
+無人收拾理則那	wu ren shou shi li ze na	2335
+無人信高潔	wu ren xin gao jie	1551
+無如此處學長生	wu ru ci chu xue zhang sheng	821
+無使蛟龍得	wu shi jiao long de	3408
+五十年間似反掌	wu shi nian jian si fan zhang	2517
+烏孫部落家鄉遠	wu sun bu luo jia xiang yuan	2879
+無題	wu ti	478
+無題二首之二	wu ti er shou zhi er	451
+無題二首之一	wu ti er shou zhi yi	460
+梧桐相待老	wu tong xiang dai lao	2963
+無爲在歧路	wu wei zai qi lu	1614
+勿謂知音稀	wu wei zhi yin xi	3367
+五溪衣服共雲山	wu xi yi fu gong yun shan	663
+巫峽啼猿數行淚	wu xia ti yuan shu hang lei	788
+五言絕句	wu yan jue ju	353
+五言樂府	wu yan yue fu	3056
+烏衣巷	wu yi xiang	61
+烏衣巷口夕陽斜	wu yi xiang kou xi yang xie	59
+五月不可觸	wu yue bu ke chu	2979
+五嶽祭秩皆三公	wu yue ji zhi jie san gong	2427
+五月西施採	wu yue xi shi cai	3014
+悟悅心自足	wu yue xin zi zu	3066
+五嶽尋仙不辭遠	wu yue xun xian bu ci yuan	2836
+吳中盛文史	wu zhong sheng wen shi	3159
+吳中張翰稱達生	wu zhong zhang han cheng da sheng	1787
+戲罷曾無理曲時	xi ba ceng wu li qu shi	1967
+夕避長蛇	xi bi chang she	1860
+西鄙人	xi bi ren	206
+昔別君未婚	xi bie jun wei hun	3463
+細草微風岸	xi cao wei feng an	1367
+細草香閒小洞幽	xi cao xiang xian xiao dong you	572
+西出都門百餘裏	xi chu dou men bai yu li	2284
+夕次盱眙縣	xi ci xu yi xian	3128
+西當太白有鳥道	xi dang tai bai you niao dao	1891
+夕殿螢飛思悄然	xi dian ying fei si qiao ran	2253
+西風生翠蘿	xi feng sheng cui luo	978
+夕奉天書拜瑣闈	xi feng tian shu bai suo wei	740
+西宮南內多秋草	xi gong nan nei duo qiu cao	2257
+昔何勇銳今何愚	xi he yong rui jin he yu	1648
+溪花與禪意	xi hua yu chan yi	1154
+喜見外弟又言別	xi jian wai di you yan bie	1066
+西郊胡正繁	xi jiao hu zheng fan	1411
+溪居	xi ju	3065
+細柳新蒲爲誰綠	xi liu xin pu wei shui lv	1687
+西樓望月幾回圓	xi lou wang yue ji hui yuan	579
+西路蟬聲唱	xi lu chan sheng chang	1557
+昔人已乘黃鶴去	xi ren yi cheng huang he qu	837
+昔日長城戰	xi ri chang cheng zhan	3041
+昔日橫波目	xi ri heng bo mu	1834
+昔日太宗拳毛騧	xi ri tai zong quan mao gua	2675
+昔日戲言身後事	xi ri xi yan shen hou shi	522
+西塞山懷古	xi sai shan huai gu	542
+西山白雪三城戍	xi shan bai xue san cheng shu	718
+西山寇盜莫相侵	xi shan kou dao mo xiang qin	687
+西山鸞鶴羣	xi shan luan he qun	3242
+昔時飛箭無全目	xi shi fei jian wu quan mu	1948
+西施寧久微	xi shi ning jiu wei	3340
+昔時燕家重郭隗	xi shi yan jia zhong guo wei	1807
+西施詠	xi shi yong	3342
+洗手作羹湯	xi shou zuo geng tang	259
+昔歲逢太平	xi sui feng tai ping	3201
+昔隨劉氏定長安	xi sui liu shi ding chang an	2596
+喜外弟盧綸見宿	xi wai di lu lun jian su	1047
+昔聞洞庭水	xi wen dong ting shui	1358
+棲棲一代中	xi xi yi dai zhong	1638
+西下峨眉峯	xi xia e mei feng	1462
+夕陽度西嶺	xi yang du xi ling	3301
+夕陽無限好	xi yang wu xian hao	226
+夕陽依舊壘	xi yang yi jiu lei	1184
+昔有佳人公孫氏	xi you jia ren gong sun shi	2533
+惜與故人違	xi yu gu ren wei	1204
+西原賊入道州	xi yuan zei ru dao zhou	3214
+昔者吳人張旭善草書書帖	xi zhe wu ren zhang xu shan cao shu shu tie	2539
+羲之俗書趁姿媚	xi zhi su shu chen zi mei	2338
+犀箸饜飫久未下	xi zhu yan yu jiu wei xia	1703
+下牀畏蛇食畏藥	xia chuang wei she shi wei yao	2446
+夏歌	xia ge	3017
+下江陵	xia jiang ling	116
+下窺指高鳥	xia kui zhi gao niao	3231
+峽裏誰知有人事	xia li shui zhi you ren shi	1911
+下馬飲君酒	xia ma yin jun jiu	3388
+夏日南亭懷辛大	xia ri nan ting huai xin da	3313
+夏水欲滿君山青	xia shui yu man jun shan qing	2487
+下有衝波逆折之回川	xia you chong bo ni zhe zhi hui chuan	1886
+下有淥水之波瀾	xia you lu shui zhi bo lan	1846
+下終南山過斛斯山人宿置酒	xia zhong nan shan guo hu si shan ren su zhi jiu	3521
+閒愛孤雲靜愛僧	xian ai gu yun jing ai seng	14
+閒持貝葉書	xian chi bei ye shu	3077
+先帝侍女八千人	xian di shi nv ba qian ren	2519
+先帝天馬玉花驄	xian di tian ma yu hua cong	2635
+鮮肥屬時禁	xian fei shu shi jin	3165
+先拂聲弦后角羽	xian fu sheng xian hou jiao yu	2892
+獻賦十年猶未遇	xian fu shi nian you wei yu	589
+縣官急索租	xian guan ji suo zu	1728
+閒窺石鏡清我心	xian kui shi jing qing wo xin	2819
+閒來垂釣碧溪上	xian lai chui diao bi xi shang	1823
+閒鷺棲常早	xian lu qi chang zao	1128
+閒門向山路	xian men xiang shan lu	1091
+先期汗漫九垓上	xian qi han man jiu gai shang	2813
+先遣小姑嘗	xian qian xiao gu chang	257
+仙人掌上雨初晴	xian ren zhang shang yu chu qing	825
+先時已入人肝脾	xian shi yi ru ren gan pi	2041
+仙台初見五城樓	xian tai chu jian wu cheng lou	577
+仙桃正發花	xian tao zheng fa hua	1247
+弦弦掩抑聲聲思	xian xian yan yi sheng sheng si	2156
+鹹言意氣高	xian yan yi qi gao	3040
+閒依農圃鄰	xian yi nong pu lin	3062
+閒倚一枝藤	xian yi yi zhi teng	930
+仙樂風飄處處聞	xian yue feng piao chu chu wen	2292
+纖雲四卷天無河	xian yun si juan tian wu he	2456
+仙之人兮列如麻	xian zhi ren xi lie ru ma	2777
+先主武侯同閟宮	xian zhu wu hou tong bi gong	2578
+閒坐悲君亦自悲	xian zuo bei jun yi zi bei	513
+閒坐說玄宗	xian zuo shuo xuan zong	241
+相悲各問年	xiang bei ge wen nian	1052
+相對亦忘言	xiang dui yi wang yan	1153
+相逢何必曾相識	xiang feng he bi ceng xiang shi	2107
+相見時難別亦難	xiang jian shi nan bie yi nan	433
+相見語依依	xiang jian yu yi yi	3345
+相看白刃血紛紛	xiang kan bai ren xue fen fen	1999
+向來吟秀句	xiang lai yin xiu ju	1099
+鄉淚客中盡	xiang lei ke zhong jin	1194
+相留畏曉鍾	xiang liu wei xiao zhong	1078
+香爐瀑布遙相望	xiang lu pu bu yao xiang wang	2829
+相期邈雲漢	xiang qi miao yun han	3492
+鄉書不可寄	xiang shu bu ke ji	851
+鄉書何處達	xiang shu he chu da	1511
+湘水無情吊豈知	xiang shui wu qing diao qi zhi	608
+相思	xiang si	339
+相思愁白蘋	xiang si chou bai ping	1162
+相送情無限	xiang song qing wu xian	1109
+向晚意不適	xiang wan yi bu shi	228
+相望始登高	xiang wang shi deng gao	3323
+香霧雲鬟溼	xiang wu yun huan shi	1441
+相攜及田家	xiang xie ji tian jia	3516
+鄉心新歲切	xiang xin xin sui qie	1151
+香菸欲傍袞龍浮	xiang yan yu bang gun long fu	767
+襄陽好風日	xiang yang hao feng ri	1281
+香葉終經宿鸞鳳	xiang ye zhong jing su luan feng	2566
+相憶採芙蓉	xiang yi cai fu rong	860
+鄉音無改鬢毛衰	xiang yin wu gai bin mao shuai	156
+相迎不道遠	xiang ying bu dao yuan	2967
+相與烜赫流淳熙	xiang yu xuan he liu chun xi	2037
+銷愁鬥幾千	xiao chou dou ji qian	955
+曉耕翻露草	xiao geng fan lu cao	3060
+孝恭遵婦道	xiao gong zun fu dao	3089
+簫鼓哀吟感鬼神	xiao gu ai yin gan gui shen	1699
+小姑居處本無郎	xiao gu ju chu ben wu lang	405
+簫鼓喧喧漢將營	xiao gu xuan xuan han jiang ying	817
+霄漢長懷捧日心	xiao han chang huai peng ri xin	590
+曉汲清湘燃楚燭	xiao ji qing xiang ran chu zhu	2326
+曉鏡但愁雲鬢改	xiao jing dan chou yun bin gai	429
+效顰安可希	xiao pin an ke xi	3328
+曉是舞者	xiao shi wu zhe	2550
+蕭疏鬢已斑	xiao shu bin yi ban	1119
+曉隨天仗入	xiao sui tian zhang ru	1497
+蕭條異代不同時	xiao tiao yi dai bu tong shi	655
+校尉羽書飛瀚海	xiao wei yu shu fei han hai	2017
+笑問客從何處來	xiao wen ke cong he chu lai	154
+小弦切切如私語	xiao xian qie qie ru si yu	2149
+蕭蕭班馬鳴	xiao xiao ban ma ming	1465
+逍遙池閣涼	xiao yao chi ge liang	3172
+小園花亂飛	xiao yuan hua luan fei	952
+曉月過殘壘	xiao yue guo can lei	1033
+斜拔玉釵燈影畔	xie ba yu chai deng ying pan	43
+謝公宿處今尚在	xie gong su chu jin shang zai	2798
+謝公行處蒼苔沒	xie gong xing chu cang tai mei	2818
+謝公最小偏憐女	xie gong zui xiao pian lian nv	531
+斜光照墟落	xie guang zhao xu luo	3352
+斜倚薰籠坐到明	xie yi xun long zuo dao ming	47
+新炊間黃粱	xin chui jian huang liang	3456
+心斷新豐酒	xin duan xin feng jiu	956
+新鬼煩冤舊鬼哭	xin gui fan yuan jiu gui ku	1720
+新嫁娘	xin jia niang	261
+新年作	xin nian zuo	1152
+心期臥亦賒	xin qi wo yi she	1100
+心輕萬事皆鴻毛	xin qing wan shi jie hong mao	2919
+新人美如玉	xin ren mei ru yu	3437
+心隨明月到胡天	xin sui ming yue dao hu tian	565
+心隨雁飛滅	xin sui yan fei mie	3322
+欣欣此生意	xin xin ci sheng yi	3548
+心異於曩時	xin yi yu nang shi	1597
+心有靈犀一點通	xin you ling xi yi dian tong	474
+信知生男惡	xin zhi sheng nan e	1726
+新知遭薄俗	xin zhi zao bo su	958
+新妝宜面下朱樓	xin zhuang yi mian xia zhu lou	55
+星垂平野闊	xing chui ping ye kuo	1365
+幸此南夷謫	xing ci nan yi zhe	3063
+性達形跡忘	xing da xing ji wang	3166
+行到水窮處	xing dao shui qiong chu	1274
+行到中庭數花朵	xing dao zhong ting shu hua duo	53
+行宮	xing gong	245
+行宮見月傷心色	xing gong jian yue shang xin se	2271
+星宮之君醉瓊漿	xing gong zhi jun zui qiong jiang	2600
+星河秋一雁	xing he qiu yi yan	1103
+興盡方下山	xing jin fang xia shan	3265
+行盡青溪不見人	xing jin qing xi bu jian ren	1926
+行經華陰	xing jing hua yin	829
+行軍司馬智且勇	xing jun si ma zhi qie yong	2068
+興來美獨往	xing lai mei du wang	1276
+行樂須及春	xing le xu ji chun	3498
+星臨萬戶動	xing lin wan hu dong	1425
+行路難	xing lu nan	1821
+行路難三首之二	xing lu nan san shou zhi er	1816
+行路難三首之三	xing lu nan san shou zhi san	1800
+行路難三首之一	xing lu nan san shou zhi yi	1830
+行人但云點行頻	xing ren dan yun dian hang pin	1746
+行人刁斗風沙暗	xing ren diao dou feng sha an	1992
+行人弓箭各在腰	xing ren gong jian ge zai yao	1752
+興是清秋髮	xing shi qing qiu fa	3320
+醒時同交歡	xing shi tong jiao huan	3495
+興因廬山發	xing yin lu shan fa	2820
+星月掩映雲朣朧	xing yue yan ying yun tong long	2398
+行舟綠水前	xing zhou lv shui qian	1516
+兄弟離散	xiong di li san	503
+兄弟遭殺戮	xiong di zao sha lu	3443
+雄飛雌從繞林間	xiong fei ci cong rao lin jian	1877
+匈奴草黃馬正肥	xiong nu cao huang ma zheng fei	2738
+熊咆龍吟殷巖泉	xiong pao long yin yin yan quan	2790
+羞將白髮對華簪	xiu jiang bai fa dui hua zan	588
+繡羅衣裳照暮春	xiu luo yi shang zhao mu chun	1713
+羞顏未嘗開	xiu yan wei chang kai	2988
+羞逐長安社中兒	xiu zhu chang an she zhong er	1813
+許渾	xu hun	990
+須盡丘壑美	xu jin qiu he mei	327
+墟里上孤煙	xu li shang gu yan	1344
+須如蝟毛磔	xu ru wei mao zhe	2936
+須行即騎訪名山	xu xing ji qi fang ming shan	2769
+須臾靜掃衆峯出	xu yu jing sao zhong feng chu	2417
+宣王憤起揮天戈	xuan wang fen qi hui tian ge	2389
+宣州謝朓樓餞別校書叔雲	xuan zhou xie tiao lou jian bie xiao shu shu yun	2759
+薛逢	xue feng	382
+雪膚花貌參差是	xue fu hua mao cen ci shi	2232
+血色羅裙翻酒污	xue se luo qun fan jiu wu	2123
+雪上空留馬行處	xue shang kong liu ma xing chu	2689
+學書初學衛夫人	xue shu chu xue wei fu ren	2647
+血污遊魂歸不得	xue wu you hun gui bu de	1677
+循環不可尋	xun huan bu ke xun	3525
+尋陸鴻漸不遇	xun lu hong jian bu yu	848
+尋南溪常山道人隱居	xun nan xi chang shan dao ren yin ju	1161
+尋聲暗問彈者誰	xun sheng an wen dan zhe shui	2164
+尋西山隱者不遇	xun xi shan yin zhe bu yu	3280
+潯言江頭夜送客	xun yan jiang tou ye song ke	2172
+潯陽地僻無音樂	xun yang di pi wu yin yue	2104
+尋隱者不遇	xun yin zhe bu yu	223
+亞相勤王甘苦辛	ya xiang qin wang gan ku xin	2711
+煙波江上使人愁	yan bo jiang shang shi ren chou	830
+燕草如碧絲	yan cao ru bi si	3490
+言遲更速皆應手	yan chi geng su jie ying shou	2887
+眼穿仍欲歸	yan chuan reng yu gui	948
+焉得置之貢玉堂	yan de zhi zhi gong yu tang	2589
+巖扉鬆徑長寂寥	yan fei song jing chang ji liao	2843
+燕歌行並序	yan ge xing bing xu	2029
+煙花三月下揚州	yan hua san yue xia yang zhou	119
+沿洄安得住	yan hui an de zhu	3147
+掩淚空相向	yan lei kong xiang xiang	1069
+煙籠寒水月籠沙	yan long han shui yue long sha	5
+煙鳥棲初定	yan niao qi chu ding	3296
+言訖屢頷天子頤	yan qi lv han tian zi yi	2057
+宴寢凝清香	yan qin ning qing xiang	3174
+言入黃花川	yan ru huang hua chuan	3365
+豔色天下重	yan se tian xia zhong	3341
+巖上無心雲相逐	yan shang wu xin yun xiang zhu	2322
+言師採藥去	yan shi cai yao qu	221
+燕臺一去客心驚	yan tai yi qu ke xin jing	818
+煙濤微茫信難求	yan tao wei mang xin nan qiu	2809
+燕尾繡蝥弧	yan wei xiu mao hu	183
+雁下蘆洲白	yan xia lu zhou bai	3122
+煙銷日出不見人	yan xiao ri chu bu jian ren	2325
+演漾在窗戶	yan yang zai chuang hu	3288
+焉知二十載	yan zhi er shi zai	3465
+陽春一曲和皆難	yang chun yi qu he jie nan	774
+羊公碑字在	yang gong bei zi zai	1255
+陽和不散窮途恨	yang he bu san qiong tu hen	591
+楊花雪落覆白蘋	yang hua xue luo fu bai ping	1695
+楊家有女初長成	yang jia you nv chu zhang cheng	2317
+仰見突兀撐青空	yang jian tu wu cheng qing kong	2416
+仰聆金玉章	yang ling jin yu zhang	3162
+楊柳散和風	yang liu san he feng	3116
+漾漾泛菱荇	yang yang fan ling xing	3359
+揚揚燕新乳	yang yang yan xin ru	3131
+陽月南飛雁	yang yue nan fei yan	1527
+養在深閨人未識	yang zai shen gui ren wei shi	2316
+遙隔楚雲端	yao ge chu yun duan	1195
+遙寄海西頭	yao ji hai xi tou	1209
+遙見仙人彩雲裏	yao jian xian ren cai yun li	2815
+遙看一處攢雲樹	yao kan yi chu cuan yun shu	1923
+遙窺正殿簾開處	yao kui zheng dian lian kai chu	374
+遙憐小兒女	yao lian xiao er nv	1443
+搖落深知宋玉悲	yao luo shen zhi song yu bei	658
+邀人傅脂粉	yao ren fu zhi fen	3335
+邀入赤松家	yao ru chi song jia	1249
+窈窕丹青戶牖空	yao tiao dan qing hu you kong	2576
+邀我至田家	yao wo zhi tian jia	1233
+腰下寶玦青青珊瑚	yao xia bao jue qing qing shan hu	1663
+腰懸相印作都統	yao xuan xiang yin zuo du tong	2072
+杳杳鐘聲晚	yao yao zhong sheng wan	286
+遙夜泛清瑟	yao ye fan qing se	979
+藥院滋苔紋	yao yuan zi tai wen	3244
+遙知兄弟登高處	yao zhi xiong di deng gao chu	144
+夜半無人私語時	ye ban wu ren si yu shi	2204
+夜半鐘聲到客船	ye ban zhong sheng dao ke chuan	92
+夜榜響溪石	ye bang xiang xi shi	3059
+夜泊牛渚懷古	ye bo niu zhu huai gu	1455
+夜泊秦淮近酒家	ye bo qin huai jin jiu jia	4
+也曾因夢送錢財	ye ceng yin meng song qian cai	517
+野渡無人舟自橫	ye du wu ren zhou zi heng	98
+夜飛延秋門上呼	ye fei yan qiu men shang hu	1668
+業復五銖錢	ye fu wu zhu qian	1024
+夜歸鹿門山歌	ye gui lu men shan ge	2850
+謁衡岳廟遂宿嶽寺題門樓	ye heng yue miao sui su yue si ti men lou	2428
+野火燒不盡	ye huo shao bu jin	1006
+野徑入桑麻	ye jing ru sang ma	846
+夜久侵羅襪	ye jiu qin luo wa	188
+曳裾王門不稱情	ye ju wang men bu cheng qing	1810
+野哭千家聞戰伐	ye ku qian jia wen zhan fa	671
+野曠天低樹	ye kuang tian di shu	316
+夜來風雨聲	ye lai feng yu sheng	311
+野老念牧童	ye lao nian mu tong	3350
+野老與人爭席罷	ye lao yu ren zheng xi ba	748
+野鹿呦呦走堂下	ye lu you you zou tang xia	2874
+野幕蔽瓊筵	ye mu bi qiong yan	169
+耶孃妻子走相送	ye niang qi zi zou xiang song	1751
+夜上受降城聞笛	ye shang shou xiang cheng wen di	66
+夜深忽夢少年事	ye shen hu meng shao nian shi	2112
+夜深靜臥百蟲絕	ye shen jing wo bai chong jue	2469
+夜深前殿按歌聲	ye shen qian dian an ge sheng	49
+野蔬充膳甘長藿	ye shu chong shan gan chang huo	527
+夜思	ye si	309
+野寺人來少	ye si ren lai shao	1186
+夜投佛寺上高閣	ye tou fo si shang gao ge	2399
+野望	ye wang	719
+鄴縣見公孫大娘舞西河劍器	ye xian jian gong sun da niang wu xi he jian qi	2537
+夜吟應覺月光寒	ye yin ying jue yue guang han	428
+夜雨剪春韭	ye yu jian chun jiu	3457
+夜雨聞鈴腸斷聲	ye yu wen ling chang duan sheng	2270
+夜月愁空山	ye yue chou kong shan	1875
+野雲萬里無城郭	ye yun wan li wu cheng guo	1990
+一杯相屬君當歌	yi bei xiang zhu jun dang ge	2453
+一別音容兩渺茫	yi bie yin rong liang miao mang	2218
+儀曹外郎載筆隨	yi cao wai lang zai bi sui	2069
+一川碎石大如鬥	yi chuan sui shi da ru dou	2740
+移船相近邀相見	yi chuan xiang jin yao xiang jian	2162
+依叢適自憩	yi cong shi zi qi	3114
+一寸相思一寸灰	yi cun xiang si yi cun hui	443
+一夫當關	yi fu dang guan	1865
+役夫敢申恨	yi fu gan shen hen	1731
+夷歌數處起漁樵	yi ge shu chu qi yu qiao	670
+移官豈至尊	yi guan qi zhi zun	1407
+遺恨失吞吳	yi hen shi tun wu	295
+以火來照所見稀	yi huo lai zhao suo jian xi	2472
+移家雖帶郭	yi jia sui dai guo	847
+一劍曾當百萬師	yi jian ceng dang bai wan shi	1955
+一箭正墜雙飛翼	yi jian zheng zhui shuang fei yi	1679
+意匠慘淡經營中	yi jiang can dan jing ying zhong	2630
+已經百日竄荊棘	yi jing bai ri cuan jing ji	1659
+一舉累十觴	yi ju lei shi shang	3454
+憶君迢迢隔青天	yi jun tiao tiao ge qing tian	1835
+意恐遲遲歸	yi kong chi chi gui	2953
+一覽衆山小	yi lan zhong shan xiao	3475
+倚立自移時	yi li zi yi shi	941
+一路經行處	yi lu jing xing chu	1160
+亦能畫馬窮殊相	yi neng hua ma qiong shu xiang	2622
+一年明月今宵多	yi nian ming yue jin xiao duo	2431
+一片冰心在玉壺	yi pian bing xin zai yu hu	138
+一片降幡出石頭	yi pian jiang fan chu shi tou	538
+意氣驕奢劇季倫	yi qi jiao she ju ji lun	1972
+一丘嘗欲臥	yi qiu chang yu wo	1225
+一曲紅綃不知數	yi qu hong xiao bu zhi shu	2125
+一去紫臺連朔漠	yi qu zi tai lian shuo mo	647
+怡然敬父執	yi ran jing fu zhi	3461
+已忍伶俜十年事	yi ren ling ping shi nian shi	678
+衣上灞陵雨	yi shang ba ling yu	3135
+衣裳已施行看盡	yi shang yi shi xing kan jin	520
+一身轉戰三千里	yi shen zhuan zhan san qian li	1956
+一生好入名山遊	yi sheng hao ru ming shan you	2835
+一聲何滿子	yi sheng he man zi	231
+一聲已動物皆靜	yi sheng yi dong wu jie jing	2903
+衣食才足甘長終	yi shi cai zu gan chang zhong	2402
+疑是地上霜	yi shi di shang shuang	307
+以手撫膺坐長嘆	yi shou fu ying zuo chang tan	1880
+一樹碧無情	yi shu bi wu qing	968
+驛樹西連漢畤平	yi shu xi lian han chou ping	823
+已似長沙傅	yi si chang sha fu	1145
+一歲一枯榮	yi sui yi ku rong	1007
+一彈一十有八拍	yi tan yi shi you ba pai	2897
+一體君臣祭祀同	yi ti jun chen ji si tong	633
+義往難復留	yi wang nan fu liu	3096
+以爲封禪玉檢明堂基	yi wei feng shan yu jian ming tang ji	2031
+一爲取龍城	yi wei qu long cheng	1530
+以我獨沉久	yi wo du chen jiu	1042
+一舞劍器動四方	yi wu jian qi dong si fang	2532
+疑誤有新知	yi wu you xin zhi	937
+憶昔初蒙博士徵	yi xi chu meng bo shi zheng	2362
+憶昔霓旌下南苑	yi xi ni jing xia nan yuan	1686
+一洗萬古凡馬空	yi xi wan gu fan ma kong	2628
+憶昔巡幸新豐宮	yi xi xun xing xin feng gong	2661
+一弦一柱思華年	yi xian yi zhu si hua nian	485
+一宿行人自可愁	yi xiu xing ren zi ke chou	29
+噫吁戲	yi xu xi	1898
+遺言冀可冥	yi yan ji ke ming	3073
+一夜飛渡鏡湖月	yi ye fei du jing hu yue	2801
+一夜鄉心五處同	yi ye xiang xin wu chu tong	488
+一夜絮徵袍	yi ye xu zheng pao	3001
+一夜徵人盡望鄉	yi ye zheng ren jin wang xiang	62
+一一生綠苔	yi yi sheng lv tai	2976
+意疑倚巴丘	yi yi yi ba qiu	2497
+邑有流亡愧俸錢	yi you liu wang kui feng qian	581
+意欲凌風翔	yi yu ling feng xiang	3160
+倚杖柴門外	yi zhang chai men wai	1347
+倚杖候荊扉	yi zhang hou jing fei	3349
+一朝選在君王側	yi zhao xuan zai jun wang ce	2314
+弋者何所慕	yi zhe he suo mu	3552
+移舟泊煙渚	yi zhou bo yan zhu	318
+貽諸知己	yi zhu zhi ji	1565
+憶昨路繞錦亭東	yi zuo lu rao jin ting dong	2579
+以作時世賢	yi zuo shi shi xian	3182
+引臂向魚取酒	yin bi xiang yu qu jiu	2500
+因出此門	yin chu ci men	1414
+隱處唯孤雲	yin chu wei gu yun	3248
+因而和焉	yin er he yan	2024
+陰風慘澹天王旗	yin feng can dan tian wang qi	2071
+因風想玉珂	yin feng xiang yu ke	1422
+引竿自刺船	yin gan zi ci chuan	3180
+飲高秋之墜露	yin gao qiu zhi zhui lu	1576
+銀河倒掛三石樑	yin he dao gua san shi liang	2830
+飲馬渡秋水	yin ma du qiu shui	3045
+銀瓶乍破水漿迸	yin ping zha po shui jiang beng	2140
+陰氣晦昧無清風	yin qi hui mei wu qing feng	2420
+吟喬	yin qiao	1579
+陰晴衆壑殊	yin qing zhong he shu	1318
+因望月有感	yin wang yue you gan	501
+因爲長句	yin wei chang ju	2176
+因休暇	yin xiu xia	2505
+陰陽割昏曉	yin yang ge hun xiao	3479
+隱隱飛橋隔野煙	yin yin fei qiao ge ye yan	151
+陰陰夏木囀黃鸝	yin yin xia mu zhuan huang li	751
+隱者自怡悅	yin zhe zi yi yue	3324
+因之傳遠情	yin zhi chuan yuan qing	3538
+影動倒景搖瀟湘	ying dong dao jing yao xiao xiang	2601
+應共冤魂語	ying gong yuan hun yu	1388
+應見隴頭梅	ying jian long tou mei	1520
+應將性命逐輕車	ying jiang xing ming zhu qing che	1985
+映階碧草自春色	ying jie bi cao zi chun se	734
+應節爲變	ying jie wei bian	1585
+英靈盡來歸	ying ling jin lai gui	3381
+影落明湖青黛光	ying luo ming hu qing dai guang	2832
+應是釣秋水	ying shi diao qiu shui	3274
+鶯啼送客聞	ying ti song ke wen	1369
+鶯啼燕語報新年	ying ti yan yu bao xin nian	568
+影徒隨我身	ying tu sui wo shen	3500
+鸚鵡前頭不敢言	ying wu qian tou bu gan yan	22
+英雄割據雖已矣	ying xiong ge ju sui yi yi	2649
+應有未招魂	ying you wei zhao hun	1409
+應知故鄉事	ying zhi gu xiang shi	333
+鶯囀皇州春色闌	ying zhuan huang zhou chun se lan	780
+英姿颯爽猶酣戰	ying zi sa shuang you han zhan	2636
+永懷愁不寐	yong huai chou bu mei	1237
+永懷當此節	yong huai dang ci jie	942
+詠懷古蹟五首之二	yong huai gu ji wu shou zhi er	659
+詠懷古蹟五首之三	yong huai gu ji wu shou zhi san	650
+詠懷古蹟五首之四	yong huai gu ji wu shou zhi si	641
+詠懷古蹟五首之五	yong huai gu ji wu shou zhi wu	632
+詠懷古蹟五首之一	yong huai gu ji wu shou zhi yi	667
+擁彗折節無嫌猜	yong hui zhe jie wu xian cai	1806
+永結無情遊	yong jie wu qing you	3493
+永日方慼慼	yong ri fang qi qi	3105
+詠神聖功書之碑	yong shen sheng gong shu zhi bei	2049
+永夜角聲悲自語	yong ye jiao sheng bei zi yu	682
+猶抱琵琶半遮面	you bao pi pa ban zhe mian	2159
+有悲往事	you bei wang shi	1413
+有弟皆分散	you di jie fen san	1399
+有耳莫洗潁川水	you er mo xi ying chuan shui	1799
+有古槐數株焉	you gu huai shu zhu yan	1608
+有酒不飲奈明何	you jiu bu yin nai ming he	2429
+幽居默默如藏逃	you ju mo mo ru cang tao	2447
+幽居在空谷	you ju zai kong gu	3447
+猶堪一戰取功勳	you kan yi zhan qu gong xun	1931
+有口莫食首陽蕨	you kou mo shi shou yang jue	1798
+由來輕七尺	you lai qing qi chi	2938
+由來征戰地	you lai zheng zhan di	3030
+有目斯開	you mu si kai	1583
+有切嘗聞	you qie chang wen	1599
+幽人歸獨臥	you ren gui du wo	3541
+幽人應未眠	you ren ying wei mian	269
+猶是孤帆一日程	you shi gu fan yi ri cheng	558
+有時空望孤雲高	you shi kong wang gu yun gao	2917
+猶似霓裳羽衣舞	you si ni shang yu yi wu	2222
+又送王孫去	you song wang sun qu	1002
+幼爲長所育	you wei zhang suo yu	3099
+又聞此語重唧唧	you wen ci yu zhong ji ji	2109
+又聞子規啼	you wen zi gui ti	1876
+有仙都羽化之靈姿	you xian du yu hua zhi ling zi	1588
+又向人家啄大屋	you xiang ren jia zhuo da wu	1667
+幽咽泉流水下灘	you ye quan liu shui xia tan	2145
+幽意無斷絕	you yi wu duan jue	3261
+猶疑照顏色	you yi zhao yan se	3410
+有翼自薄	you yi zi bo	1581
+幽音變調忽飄灑	you yin bian diao hu piao sa	2877
+幽映每白日	you ying mei bai ri	1089
+悠悠生死別經年	you you sheng si bie jing nian	2247
+遊子久不至	you zi jiu bu zhi	3405
+猶自夢漁樵	you zi meng yu qiao	981
+遊子身上衣	you zi shen shang yi	2955
+遊子吟	you zi yin	2957
+猶自音書滯一鄉	you zi yin shu zhi yi xiang	543
+語罷暮天鍾	yu ba mu tian zhong	1060
+欲把一麾江海去	yu ba yi hui jiang hai qu	13
+愈拜稽首蹈且舞	yu bai qi shou dao qie wu	2062
+欲持一瓢酒	yu chi yi piao jiu	3141
+予出官二年恬然自安	yu chu guan er nian tian ran zi an	2180
+御廚絡繹送八珍	yu chu luo yi song ba zhen	1700
+玉璫緘札何由達	yu dang jian zha he you da	418
+欲得周郎顧	yu de zhou lang gu	264
+玉殿虛無野寺中	yu dian xu wu ye si zhong	637
+欲渡黃河冰塞川	yu du huang he bing sai chuan	1825
+與爾同消萬古愁	yu er tong xiao wan gu chou	1756
+與高適薛據登慈恩寺浮圖	yu gao shi xue ju deng ci en si fu tu	3240
+漁歌入浦深	yu ge ru pu shen	1307
+餘公孫大娘弟子也	yu gong sun da niang di zi ye	2559
+玉虎牽絲汲井回	yu hu qian si ji jing hui	447
+玉花卻在御榻上	yu hua que zai yu ta shang	2627
+欲濟無舟楫	yu ji wu zhou ji	1266
+欲祭疑君在	yu ji yi jun zai	1011
+欲將輕騎逐	yu jiang qing qi zhu	172
+預將書報家	yu jiang shu bao jia	2968
+玉階生白露	yu jie sheng bai lu	189
+玉階仙仗擁千官	yu jie xian zhang yong qian guan	778
+玉階怨	yu jie yuan	190
+於今腐草無螢火	yu jin fu cao wu ying huo	464
+餘禁所禁垣西	yu jin suo jin yuan xi	1610
+於今爲庶爲青門	yu jin wei shu wei qing men	2650
+玉筋應啼別離後	yu jin ying ti bie li hou	2006
+玉京羣帝集北斗	yu jing qun di ji bei dou	2604
+與君歌一曲	yu jun ge yi qu	1769
+與君離別意	yu jun li bie yi	1618
+與君營奠復營齋	yu jun ying dian fu ying zhai	524
+玉壘浮雲變古今	yu lei fu yun bian gu jin	689
+漁梁渡頭爭渡喧	yu liang du tou zheng du xuan	2848
+雨淋日炙野火燎	yu lin ri zhi ye huo liao	2380
+魚龍聽梵聲	yu long ting fan sheng	1136
+玉樓天半起笙歌	yu lou tian ban qi sheng ge	70
+玉樓宴罷醉和春	yu lou yan ba zui he chun	2298
+玉貌錦衣	yu mao jin yi	2547
+玉盤珍羞值萬錢	yu pan zhen xiu zhi wan qian	1828
+於潛七兄	yu qian qi xiong	498
+與親	yu qin	1416
+欲窮千里目	yu qiong qian li mu	290
+欲取鳴琴彈	yu qu ming qin dan	3306
+欲去問西家	yu qu wen xi jia	842
+欲取蕪城作帝家	yu qu wu cheng zuo di jia	467
+圉人太僕皆惆悵	yu ren tai pu jie chou chang	2624
+羽人稀少不在旁	yu ren xi shao bu zai pang	2599
+玉容寂寞淚闌干	yu rong ji mo lei lan gan	2221
+欲上青天覽明月	yu shang qing tian lan ming yue	2749
+餘尚童稚	yu shang tong zhi	2557
+羽書昨夜過渠黎	yu shu zuo ye guo qu li	2723
+玉臺體	yu tai ti	255
+欲投人處宿	yu tou ren chu su	1317
+欲往城南望城北	yu wang cheng nan wang cheng bei	1671
+漁翁	yu weng	2328
+漁翁夜傍西巖宿	yu weng ye bang xi yan su	2327
+玉璽不緣歸日角	yu xi bu yuan gui ri jiao	466
+羽檄交馳日夕聞	yu xi jiao chi ri xi wen	1939
+餘響入霜鍾	yu xiang ru shuang zhong	1458
+庾信平生最蕭瑟	yu xin ping sheng zui xiao se	661
+欲行不行各盡觴	yu xing bu xing ge jin shang	2762
+雨雪紛紛連大漠	yu xue fen fen lian da mo	1989
+欲尋芳草去	yu xun fang cao qu	1205
+漁陽鼙鼓動地來	yu yang pi gu dong di lai	2289
+餘亦乘舟歸鹿門	yu yi cheng zhou gui lu men	2846
+欲以菲薄明其衷	yu yi fei bo ming qi zhong	2408
+餘亦能高詠	yu yi neng gao yong	1450
+餘亦謝時去	yu yi xie shi qu	3243
+欲飲琵琶馬上催	yu yin pi pa ma shang cui	124
+御宇多年求不得	yu yu duo nian qiu bu de	2318
+與餘問答既有以	yu yu wen da ji you yi	2521
+御苑砧聲向晚多	yu yuan zhen sheng xiang wan duo	804
+雨中春樹萬人家	yu zhong chun shu wan ren jia	758
+雨中黃葉樹	yu zhong huang ye shu	1044
+漁舟逐水愛山春	yu zhou zhu shui ai shan chun	1929
+與諸子登峴山	yu zhu zi deng xian shan	1262
+欲妝臨鏡慵	yu zhuang lin jing yong	866
+予左遷九江郡司馬	yu zuo qian jiu jiang jun si ma	2197
+願得燕弓射大將	yuan de yan gong she da jiang	1934
+遠芳侵古道	yuan fang qin gu dao	1004
+元和十年	yuan he shi nian	2198
+元和天子神武姿	yuan he tian zi shen wu zi	2082
+緣澗還復去	yuan jian hai fu qu	3113
+元結	yuan jie	3217
+願借辯口如懸河	yuan jie bian kou ru xuan he	2331
+願接盧敖遊太清	yuan jie lu ao you tai qing	2812
+願君多采擷	yuan jun duo cai xie	336
+遠客思鄉皆淚垂	yuan ke si xiang jie lei chui	2863
+遠路應悲春晼晚	yuan lu ying bei chun wan wan	420
+遠夢歸侵曉	yuan meng gui qin xiao	994
+猿鳴天上哀	yuan ming tian shang ai	2978
+猿鳴鐘動不知曙	yuan ming zhong dong bu zhi shu	2397
+猿猱欲度愁攀援	yuan nao yu du chou pan yuan	1884
+猿鳥猶疑畏簡書	yuan niao you yi wei jian shu	441
+怨情	yuan qing	304
+遠山晴更多	yuan shan qing geng duo	974
+遠樹帶行客	yuan shu dai xing ke	3370
+願書萬本誦萬過	yuan shu wan ben song wan guo	2034
+遠送從此別	yuan song cong ci bie	1385
+願隨春風寄燕然	yuan sui chun feng ji yan ran	1836
+遠隋流水香	yuan sui liu shui xiang	1092
+猿啼洞庭樹	yuan ti dong ting shu	904
+願同塵與灰	yuan tong chen yu hui	2984
+願爲持竿叟	yuan wei chi gan sou	3252
+遠慰風雨夕	yuan wei feng yu xi	3140
+鴛鴦不獨宿	yuan yang bu du su	3435
+鴛鴦會雙死	yuan yang hui shuang si	2962
+鴛鴦瓦冷霜華重	yuan yang wa leng shuang hua zhong	2249
+元稹	yuan zhen	533
+苑中景物生顏色	yuan zhong jing wu sheng yan se	1685
+月傍九霄多	yue bang jiu xiao duo	1424
+月出寒通雪山白	yue chu han tong xue shan bai	2580
+月殿影開聞夜漏	yue dian ying kai wen ye lou	68
+月黑雁飛高	yue hei yan fei gao	174
+月既不解飲	yue ji bu jie yin	3501
+月露誰教桂葉香	yue lu shui jiao gui ye xiang	403
+月落烏啼霜滿天	yue luo wu ti shuang man tian	95
+月明松下房櫳靜	yue ming song xia fang long jing	1917
+月明欲素愁不眠	yue ming yu su chou bu mian	1840
+越人語天姥	yue ren yu tian lao	2808
+月是故鄉明	yue shi gu xiang ming	1400
+月下獨酌	yue xia du zhuo	3506
+月下飛天鏡	yue xia fei tian jing	1477
+月斜樓上五更鐘	yue xie lou shang wu geng zhong	458
+月夜	yue ye	1446
+月夜憶舍弟	yue ye yi she di	1404
+月涌大江流	yue yong da jiang liu	1364
+月照城頭烏半飛	yue zhao cheng tou wu ban fei	2907
+月照一孤舟	yue zhao yi gu zhou	1213
+雲邊雁斷胡天月	yun bian yan duan hu tian yue	388
+雲鬢半偏新睡覺	yun bin ban pian xin shui jiao	2225
+雲鬢花顏金步搖	yun bin hua yan jin bu yao	2307
+雲此最吉餘難同	yun ci zui ji yu nan tong	2404
+雲峯水隔深	yun feng shui ge shen	1185
+雲髻罷梳還對鏡	yun ji ba shu hai dui jing	376
+雲開遠見漢陽城	yun kai yuan jian han yang cheng	559
+雲來氣接巫峽長	yun lai qi jie wu xia chang	2581
+雲裏帝城雙鳳闕	yun li di cheng shuang feng que	759
+運命惟所遇	yun ming wei suo yu	3526
+雲霓明滅或可睹	yun ni ming mie huo ke du	2807
+雲青青兮欲雨	yun qing qing xi yu yu	2788
+雲山況是客中過	yun shan kuang shi ke zhong guo	806
+雲深不知處	yun shen bu zhi chu	219
+雲生結海樓	yun sheng jie hai lou	1476
+雲霞出海曙	yun xia chu hai shu	1545
+雲霞生薜帷	yun xia sheng bi wei	1131
+雲陽館與韓紳宿別	yun yang guan yu han shen su bie	1056
+運移漢祚終難復	yun yi han zuo zhong nan fu	625
+雲雨荒臺豈夢思	yun yu huang tai qi meng si	653
+雲棧縈紆登劍閣	yun zhan ying yu deng jian ge	2276
+雲之君兮紛紛而來下	yun zhi jun xi fen fen er lai xia	2779
+雲中君不見	yun zhong jun bu jian	900
+韻資天縱	yun zi tian zong	1577
+雜詩	za shi	1538
+在長安	zai chang an	1853
+在地願爲連理枝	zai di yuan wei lian li zhi	2202
+在山泉水清	zai shan quan shui qing	3432
+在天願作比翼鳥	zai tian yuan zuo bi yi niao	2203
+在獄詠蟬並序	zai yu yong chan bing xu	1611
+暫伴月將影	zan ban yue jiang ying	3499
+暫時分手莫躊躇	zan shi fen shou mo chou chu	783
+暫遊桃源裏	zan you tao yuan li	325
+早被嬋娟誤	zao bei chan juan wu	867
+早服還丹無世情	zao fu huan dan wu shi qing	2817
+早寒江上有懷	zao han jiang shang you huai	1199
+棗花未落桐葉長	zao hua wei luo tong ye chang	2927
+造化鍾神秀	zao hua zhong shen xiu	3480
+早秋	zao qiu	980
+遭時徽纆	zao shi hui mo	1573
+鑿石作鼓隳嵯峨	zao shi zuo gu hui cuo e	2383
+早晚下三巴	zao wan xia san ba	2969
+早雁拂銀河	zao yan fu yin he	976
+早知潮有信	zao zhi chao you xin	162
+則載酒於湖上	ze zai jiu yu hu shang	2504
+賊平後送人北歸	zei ping hou song ren bei gui	1038
+賊退示官吏並序	zei tui shi guan li bing xu	3216
+賊又攻永州	zei you gong yong zhou	3210
+賊斫不死神扶持	zei zhuo bu si shen fu chi	2073
+贈孟浩然	zeng meng hao ran	1491
+贈內人	zeng nei ren	46
+贈闕下裴舍人	zeng que xia pei she ren	596
+贈衛八處士	zeng wei ba chu shi	3474
+乍見翻疑夢	zha jian fan yi meng	1053
+摘花不插發	zhai hua bu cha fa	3428
+宅即魯王宮	zhai ji lu wang gong	1636
+氈包席裹可立致	zhan bao xi guo ke li zhi	2356
+戰場白骨纏草根	zhan chang bai gu chan cao gen	2714
+沾襟比散絲	zhan jin bi san si	1108
+戰士軍前半死生	zhan shi jun qian ban si sheng	2013
+長大一相逢	zhang da yi xiang feng	1064
+張祜	zhang hu	235
+張籍	zhang ji	1019
+張繼	zhang ji	97
+張九齡	zhang jiu ling	3563
+張喬	zhang qiao	898
+張生手持石鼓文	zhang sheng shou chi shi gu wen	2394
+章臺夜思	zhang tai ye si	858
+張旭	zhang xu	153
+長在漢家營	zhang zai han jia ying	1534
+長者雖有問	zhang zhe sui you wen	1732
+朝辭白帝彩雲間	zhao ci bai di cai yun jian	115
+朝如青絲暮成雪	zhao ru qing si mu cheng xue	1779
+趙瑟初停鳳凰柱	zhao se chu ting feng huang zhu	1839
+詔書五道出將軍	zhao shu wu dao chu jiang jun	1937
+昭王白骨縈蔓草	zhao wang bai gu ying man cao	1803
+詔謂將軍拂絹素	zhao wei jiang jun fu juan su	2631
+朝爲越溪女	zhao wei yue xi nv	3339
+昭陽殿裏第一人	zhao yang dian li di yi ren	1684
+昭陽殿裏恩愛絕	zhao yang dian li en ai jue	2217
+朝朝空自歸	zhao zhao kong zi gui	1206
+朝朝馬策與刀環	zhao zhao ma ce yu dao huan	74
+朝朝誤妾期	zhao zhao wu qie qi	163
+折花門前劇	zhe hua men qian ju	2994
+折戟沈沙鐵未銷	zhe ji shen sha tie wei xiao	10
+謫居臥病潯陽城	zhe ju wo bing xun yang cheng	2105
+砧杵夜千家	zhen chu ye qian jia	1102
+貞婦貴殉夫	zhen fu gui xun fu	2961
+砧聲近報漢宮秋	zhen sheng jin bao han gong qiu	574
+針線猶存未忍開	zhen xian you cun wei ren kai	519
+真源了無取	zhen yuan liao wu qu	3075
+整頓衣裳起斂容	zheng dun yi shang qi lian rong	2133
+鄭國遊人未及家	zheng guo you ren wei ji jia	2914
+蒸藜炊黍餉東菑	zheng li chui shu xiang dong zi	753
+徵人薊北空回首	zheng ren ji bei kong hui shou	2004
+徵人倚戍樓	zheng ren yi shu lou	895
+徵人怨	zheng ren yuan	76
+崢嶸如鬼工	zheng rong ru gui gong	3234
+正是江南好風景	zheng shi jiang nan hao feng jing	104
+錚錚然有京都聲	zheng zheng ran you jing du sheng	2192
+正直元因造化功	zheng zhi yuan yin zao hua gong	2572
+知波瀾莫二	zhi bo lan mo er	2542
+直道相思了無益	zhi dao xiang si le wu yi	402
+至德二載甫自京金光門出	zhi de er zai fu zi jing jin guang men chu	1419
+雉雊麥苗秀	zhi gou mai miao xiu	3348
+直掛雲帆濟滄海	zhi gua yun fan ji cang hai	1817
+指揮若定失蕭曹	zhi hui ruo ding shi xiao cao	626
+至今殘破膽	zhi jin can po dan	1410
+至今窺牧馬	zhi jin kui mu ma	202
+至今猶憶李將軍	zhi jin you yi li jiang jun	1996
+置酒長安道	zhi jiu chang an dao	3374
+志決身殲軍務勞	zhi jue shen jian jun wu lao	624
+支離東北風塵際	zhi li dong bei feng chen ji	666
+滯慮洗孤清	zhi lv xi gu qing	3540
+之上	zhi shang	2495
+直上三十里	zhi shang san shi li	3278
+只是當時已惘然	zhi shi dang shi yi wang ran	479
+只是近黃昏	zhi shi jin huang hun	225
+志士幽人莫怨嗟	zhi shi you ren mo yuan jie	2565
+炙手可熱勢絕倫	zhi shou ke re shi jue lun	1693
+知音世所稀	zhi yin shi suo xi	1202
+只應守寂寞	zhi ying shou ji mo	1201
+只在此山中	zhi zai ci shan zhong	220
+直至長風沙	zhi zhi chang feng sha	2966
+之子期宿來	zhi zi qi su lai	3295
+至尊含笑催賜金	zhi zun han xiao cui ci jin	2625
+終罷斯結廬	zhong ba si jie lu	3108
+中朝大官老於事	zhong chao da guan lao yu shi	2344
+終古垂楊有暮鴉	zhong gu chui yang you mu ya	463
+鐘鼓饌玉不足貴	zhong gu zhuan yu bu zu gui	1767
+終見降王走傳車	zhong jian jiang wang zou chuan che	438
+中間小謝又清發	zhong jian xiao xie you qing fa	2751
+中軍置酒飲歸客	zhong jun zhi jiu yin gui ke	2696
+終南別業	zhong nan bie ye	1279
+終南山	zhong nan shan	1324
+終南望餘雪	zhong nan wang yu xue	324
+終南陰嶺秀	zhong nan yin ling xiu	323
+終日坎壈纏其身	zhong ri kan lan chan qi shen	2612
+終歲不聞絲竹聲	zhong sui bu wen si zhu sheng	2103
+中歲頗好道	zhong sui po hao dao	1278
+中天月色好誰看	zhong tian yue se hao shui kan	681
+重帷深下莫愁堂	zhong wei shen xia mo chou tang	408
+中宵勞夢想	zhong xiao lao meng xiang	3303
+中有一人字太真	zhong you yi ren zi tai zhen	2233
+州邊鄙而退	zhou bian bi er tui	3207
+周綱凌遲四海沸	zhou gang ling chi si hai fei	2390
+舟楫恐失墜	zhou ji kong shi zhui	3399
+州家申名使家抑	zhou jia shen ming shi jia yi	2439
+周南留滯古所惜	zhou nan liu zhi gu suo xi	2592
+舟人夜語覺潮生	zhou ren ye yu jue chao sheng	556
+舟人指點到今疑	zhou ren zhi dian dao jin yi	651
+珠箔飄燈獨自歸	zhu bo piao deng du zi gui	421
+珠箔銀屏迤邐開	zhu bo yin ping yi li kai	2226
+主稱會面難	zhu cheng hui mian nan	3455
+諸葛大名垂宇宙	zhu ge da ming chui yu zhou	631
+諸侯劍佩鳴相磨	zhu hou jian pei ming xiang mo	2387
+住近湓江地低溼	zhu jin pen jiang di di shi	2102
+逐客無消息	zhu ke wu xiao xi	3420
+竹裏館	zhu li guan	348
+竹憐新雨後	zhu lian xin yu hou	1130
+竹露滴清響	zhu lu di qing xiang	3307
+駐馬別孤墳	zhu ma bie gu fen	1375
+駐馬望千門	zhu ma wang qian men	1405
+駐馬銜杯問謫居	zhu ma xian bei wen zhe ju	789
+渚清沙白鳥飛回	zhu qing sha bai niao fei hui	700
+朱慶餘	zhu qing yu	26
+朱雀橋邊野草花	zhu que qiao bian ye cao hua	60
+主人何爲言少錢	zhu ren he wei yan shao qian	1761
+主人忘歸客不發	zhu ren wang gui ke bu fa	2165
+主人下馬客在船	zhu ren xia ma ke zai chuan	2170
+主人有酒歡今夕	zhu ren you jiu huan jin xi	2909
+諸生講解得切磋	zhu sheng jiang jie de qie cuo	2351
+諸史何爲忍苦征斂	zhu shi he wei ren ku zheng lian	3204
+竹喧歸浣女	zhu xuan gui huan nv	1336
+珠壓腰衱穩稱身	zhu ya yao jie wen chen shen	1708
+渚雲低暗渡	zhu yun di an du	873
+諸子環洞庭而坐	zhu zi huan dong ting er zuo	2494
+轉教小玉報雙成	zhuan jiao xiao yu bao shuang cheng	2230
+轉徙於江湖間	zhuan xi yu jiang hu jian	2181
+轉於僮僕親	zhuan yu tong pu qin	881
+轉軸撥絃三兩聲	zhuan zhou bo xian san liang sheng	2158
+妝罷低聲問夫婿	zhuang ba di sheng wen fu xu	18
+妝成每被秋娘妒	zhuang cheng mei bei qiu niang du	2127
+妝成只是薰香坐	zhuang cheng zhi shi xun xiang zuo	1966
+壯其蔚跂	zhuang qi wei qi	2561
+莊生曉夢迷蝴蝶	zhuang sheng xiao meng mi hu die	484
+壯志逐年衰	zhuang zhi zhu nian shuai	1220
+濯冠沐浴告祭酒	zhuo guan mu yu gao ji jiu	2358
+酌飲四座以散愁	zhuo yin si zuo yi san chou	2480
+酌於君山	zhuo yu jun shan	2496
+濯足洞庭望八荒	zhuo zu dong ting wang ba huang	2607
+自慚居處崇	zi can ju chu chong	3169
+自此草書長進	zi ci cao shu zhang jin	2536
+資從豈待周	zi cong qi dai zhou	3090
+自從棄置便衰朽	zi cong qi zhi bian shuai xiu	1950
+自從獻寶朝河宗	zi cong xian bao chao he zong	2657
+自爾爲佳節	zi er wei jia jie	3547
+紫蓋連延接天柱	zi gai lian yan jie tian zhu	2415
+自高頭宜春梨園二伎坊內人	zi gao tou yi chun li yuan er ji fang nei ren	2552
+自顧無長策	zi gu wu chang ce	1312
+自河南經亂	zi he nan jing luan	505
+自嫁黔婁百事乖	zi jia qian lou bai shi guai	530
+自將磨洗認前朝	zi jiang mo xi ren qian chao	9
+自覺諫書稀	zi jue jian shu xi	1492
+自覺老煙波	zi jue lao yan bo	972
+自憐碧玉親教舞	zi lian bi yu qin jiao wu	1971
+姊妹弟兄皆列士	zi mei di xiong jie lie shi	2297
+紫泉宮殿鎖煙霞	zi quan gong dian suo yan xia	468
+字體不類隸與蝌	zi ti bu lei li yu ke	2375
+紫駝之峯出翠釜	zi tuo zhi feng chu cui fu	1705
+自謂經過舊不迷	zi wei jing guo jiu bu mi	1905
+自夏口至鸚洲夕望岳陽寄源中丞	zi xia kou zhi ying zhou xi wang yue yang ji yuan zhong cheng	605
+自小闕內訓	zi xiao que nei xun	3095
+子胥既棄吳江上	zi xu ji qi wu jiang shang	1793
+自敘少小時歡樂事	zi xu shao xiao shi huan le shi	2183
+自言本是京城女	zi yan ben shi jing cheng nv	2132
+子夜四時歌	zi ye si shi ge	3025
+自有歲寒心	zi you sui han xin	3529
+自雲良家子	zi yun liang jia zi	3446
+自足蕩心耳	zi zu dang xin er	3268
+宗臣遺像肅清高	zong chen yi xiang su qing gao	630
+總是玉關情	zong shi yu guan qing	3006
+縱有健婦把鋤犁	zong you jian fu ba chu li	1736
+走馬川行奉送封大夫出師西征	zou ma chuan xing feng song feng dai fu chu shi xi zheng	2744
+走馬蘭臺類轉蓬	zou ma lan tai lei zhuan peng	470
+足繭荒山轉愁疾	zu jian huang shan zhuan chou ji	2508
+租稅從何出	zu shui cong he chu	1727
+祖詠	zu yong	820
+醉不成歡慘將別	zui bu cheng huan can jiang bie	2168
+罪從大辟皆除死	zui cong da pi jie chu si	2441
+醉和金甲舞	zui he jin jia wu	167
+醉後各分散	zui hou ge fen san	3494
+最是楚宮俱泯滅	zui shi chu gong ju min mie	652
+醉臥不知白日暮	zui wo bu zhi bai ri mu	2918
+醉臥沙場君莫笑	zui wo sha chang jun mo xiao	123
+醉月頻中聖	zui yue pin zhong sheng	1486
+樽酒家貧只舊醅	zun jiu jia pin zhi jiu pei	722
+樽酒慰離顏	zun jiu wei li yan	918
+遵事蹟猶遽	zun shi ji you ju	3109
+昨別今已春	zuo bie jin yi chun	3130
+坐愁紅顏老	zuo chou hong yan lao	2970
+坐法宮中朝四夷	zuo fa gong zhong chao si yi	2079
+坐觀垂釣者	zuo guan chui diao zhe	1264
+坐見舉國來奔波	zuo jian ju guo lai ben bo	2349
+坐看紅樹不知遠	zuo kan hong shu bu zhi yuan	1927
+坐看雲起時	zuo kan yun qi shi	1273
+昨日之日不可留	zuo ri zhi ri bu ke liu	2757
+作燕歌行以示適	zuo yan ge xing yi shi shi	2026
+昨夜東風吹血腥	zuo ye dong feng chui xue xing	1651
+昨夜風開露井桃	zuo ye feng kai lu jing tao	131
+昨夜裙帶解	zuo ye qun dai jie	254
+昨夜上皇新授籙	zuo ye shang huang xin shou lu	38
+昨夜微霜初度河	zuo ye wei shuang chu du he	808
+昨夜星辰昨夜風	zuo ye xing chen zuo ye feng	477
+昨夜月同行	zuo ye yue tong hang	1382
+昨與故人期	zuo yu gu ren qi	1125
+昨者州前槌大鼓	zuo zhe zhou qian chui da gu	2444
