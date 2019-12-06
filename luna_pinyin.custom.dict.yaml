@@ -10,6 +10,8 @@ import_tables:
   - luna_pinyin.sogou.songci
   - luna_pinyin.sogou.netnew
   - luna_pinyin.sogou.tangshi
+  - luna_pinyin.sogou.computer
+  - luna_pinyin.sogou.math
 name: luna_pinyin.custom
 sort: by_weight
 use_preset_vocabulary: true
